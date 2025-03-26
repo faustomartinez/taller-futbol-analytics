@@ -1,0 +1,1 @@
+# La idea de este archivo sería que filtremos los datos un poco para que despues en el notebook ya nos queden lindos

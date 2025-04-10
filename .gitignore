@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+datasets/appearances.csv
+datasets/game_events.csv
+datasets/game_lineups.csv

@@ -95,10 +95,11 @@ keep = [
     'stats_CrdR',          # 24. Tarjetas rojas
     'stats_G+A',           # 25. Goles + Asistencias
     'stats_xG+xAG',        # 26. xG + xAG
-    'playingtime_90s',     # 27. Equivalente a 90 min
-    'passing_xAG',         # 28. xAG en pases (estimación desde pases)
-    'defense_TklW',        # 29. Entradas ganadas
-    'passing_CrsPA'        # 30. Asistencias desde centros
+    'playingtime_90s',     # 27. Equivalente a 90 minutos
+    'defense_TklW',        # 28. Entradas ganadas
+    'passing_CrsPA',       # 29. Asistencias desde centros
+    'shooting_Sh',         # 30. Tiros
+    'shooting_SoT'         # 31. Tiros al arco
 ]
 
 # Crear un nuevo dataframe solo con las columnas seleccionadas
@@ -132,10 +133,11 @@ df_reducido = df_reducido.rename(columns={
     'stats_CrdR': 'TarjetasRojas',
     'stats_G+A': 'Goles_Asistencias',
     'stats_xG+xAG': 'xG_xAG',
-    'playingtime_90s': '90min_jugados',
-    'passing_xAG': 'xAG_Pases',
+    'playingtime_90s': 'Equiv_90min',
     'defense_TklW': 'EntradasGanadas',
-    'passing_CrsPA': 'AsistDesdeCruzados'
+    'passing_CrsPA': 'AsistDesdeCruzados',
+    'shooting_Sh': 'Tiros',
+    'shooting_SoT': 'TirosAlArco'
 })
 
 

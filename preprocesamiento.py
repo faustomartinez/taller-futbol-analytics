@@ -69,20 +69,36 @@ df_caros_num.to_csv("datasets_procesados/df_caros_num.csv", index=False)
 
 # Selección de columnas importantes
 keep = [
-    'Player',             # Nombre del jugador
-    'stats_Squad',        # Equipo del jugador
-    'stats_Comp',         # Competición
-    'stats_Pos',          # Posición en el campo
-    'stats_Age',          # Edad del jugador
-    'stats_MP',           # Partidos jugados
-    'stats_Min',          # Minutos jugados
-    'stats_Gls',          # Goles anotados
-    'stats_Ast',          # Asistencias realizadas
-    'stats_xG',           # Expected Goals (xG)
-    'stats_xAG',          # Expected Assists (xAG)
-    'stats_npxG',         # Non-penalty Expected Goals
-    'market_value_in_eur' # Valor de mercado en euros
-    # Si creen que es relevante conservar más de las columnas originales, las pueden agregar acá
+    'Player',              # 1. Nombre del jugador
+    'stats_Squad',         # 2. Equipo
+    'stats_Comp',          # 3. Competición
+    'stats_Pos',           # 4. Posición
+    'stats_Age',           # 5. Edad
+    'stats_MP',            # 6. Partidos jugados
+    'stats_Min',           # 7. Minutos jugados
+    'stats_Gls',           # 8. Goles anotados
+    'stats_Ast',           # 9. Asistencias
+    'stats_xG',            # 10. Expected Goals
+    'stats_xAG',           # 11. Expected Assists
+    'stats_npxG',          # 12. Non-penalty xG
+    'market_value_in_eur', # 13. Valor de mercado
+    'passing_Cmp',         # 14. Pases completados
+    'passing_Att',         # 15. Intentos de pase
+    'passing_Cmp%',        # 16. % de pases completados
+    'passing_TotDist',     # 17. Distancia total de pases
+    'passing_PrgDist',     # 18. Distancia progresiva
+    'passing_KP',          # 19. Pases clave
+    'defense_Tkl',         # 20. Entradas totales
+    'defense_Int',         # 21. Intercepciones
+    'defense_Blocks',      # 22. Bloqueos
+    'stats_CrdY',          # 23. Tarjetas amarillas
+    'stats_CrdR',          # 24. Tarjetas rojas
+    'stats_G+A',           # 25. Goles + Asistencias
+    'stats_xG+xAG',        # 26. xG + xAG
+    'playingtime_90s',     # 27. Equivalente a 90 min
+    'passing_xAG',         # 28. xAG en pases (estimación desde pases)
+    'defense_TklW',        # 29. Entradas ganadas
+    'passing_CrsPA'        # 30. Asistencias desde centros
 ]
 
 # Crear un nuevo dataframe solo con las columnas seleccionadas
@@ -102,7 +118,24 @@ df_reducido = df_reducido.rename(columns={
     'stats_xG': 'xG',
     'stats_xAG': 'xAG',
     'stats_npxG': 'npxG',
-    'market_value_in_eur': 'ValorMercado'
+    'market_value_in_eur': 'ValorMercado',
+    'passing_Cmp': 'PasesCompletados',
+    'passing_Att': 'IntentosPase',
+    'passing_Cmp%': 'PctPasesCompletados',
+    'passing_TotDist': 'DistanciaTotalPases',
+    'passing_PrgDist': 'DistanciaProgresiva',
+    'passing_KP': 'PasesClave',
+    'defense_Tkl': 'Entradas',
+    'defense_Int': 'Intercepciones',
+    'defense_Blocks': 'Bloqueos',
+    'stats_CrdY': 'TarjetasAmarillas',
+    'stats_CrdR': 'TarjetasRojas',
+    'stats_G+A': 'Goles_Asistencias',
+    'stats_xG+xAG': 'xG_xAG',
+    'playingtime_90s': 'Equiv_90min',
+    'passing_xAG': 'xAG_Pases',
+    'defense_TklW': 'EntradasGanadas',
+    'passing_CrsPA': 'AsistDesdeCruzados'
 })
 
 # Opcional: Puedes guardar este dataframe para usarlo en el notebook

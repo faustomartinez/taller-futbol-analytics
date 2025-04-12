@@ -1,0 +1,2081 @@
+Jugador,Equipo,Competición,Posición,Edad,Partidos,Minutos,Goles,Asistencias,xG,xAG,npxG,ValorMercado
+Erling Haaland,Manchester City,Premier League,FW,24-259,28,"2,480",21,3,20.8,2.8,18.4,200000000.0
+Jude Bellingham,Real Madrid,La Liga,MF,21-281,24,"1,983",8,7,8.9,3.6,7.3,180000000.0
+Kylian Mbappé,Real Madrid,La Liga,FW,26-107,28,"2,420",22,3,20.0,6.5,14.5,170000000.0
+Bukayo Saka,Arsenal,Premier League,"FW,MF",23-213,18,"1,338",6,10,5.2,6.0,4.4,150000000.0
+Jamal Musiala,Bayern Munich,Bundesliga,MF,22-039,25,"1,798",12,2,9.3,4.5,9.3,140000000.0
+Florian Wirtz,Leverkusen,Bundesliga,"MF,FW",21-338,25,"1,876",9,10,8.5,6.0,5.2,140000000.0
+Federico Valverde,Real Madrid,La Liga,"MF,DF",26-258,28,"2,313",5,3,1.9,2.6,1.9,130000000.0
+Cole Palmer,Chelsea,Premier League,MF,22-335,29,"2,530",14,7,15.3,9.1,12.1,130000000.0
+Phil Foden,Manchester City,Premier League,"MF,FW",24-313,24,"1,629",7,2,4.9,4.7,4.9,130000000.0
+Declan Rice,Arsenal,Premier League,MF,26-082,29,"2,336",2,5,2.6,6.0,2.6,110000000.0
+Alexander Isak,Newcastle Utd,Premier League,FW,25-197,26,"2,117",20,5,16.1,3.8,14.5,100000000.0
+Martin Ødegaard,Arsenal,Premier League,MF,26-110,23,"1,836",2,4,4.2,4.1,3.4,100000000.0
+Lautaro Martínez,Inter,Serie A,FW,27-227,28,"2,321",11,3,12.0,4.0,12.0,95000000.0
+Harry Kane,Bayern Munich,Bundesliga,FW,31-252,26,"2,023",23,8,17.9,4.3,10.9,90000000.0
+Alexis Mac Allister,Liverpool,Premier League,MF,26-103,29,"2,201",3,3,2.3,4.1,2.3,90000000.0
+Luis Díaz,Liverpool,Premier League,FW,28-083,29,"1,935",9,5,7.9,3.8,7.9,85000000.0
+Bruno Guimarães,Newcastle Utd,Premier League,MF,27-141,29,"2,513",3,6,2.8,5.2,2.8,80000000.0
+Moisés Caicedo,Chelsea,Premier League,MF,23-155,30,"2,631",1,2,0.6,2.6,0.6,80000000.0
+Khvicha Kvaratskhelia,Paris S-G,Ligue 1,FW,24-053,10,648,2,3,2.3,3.9,2.3,80000000.0
+Nicolò Barella,Inter,Serie A,MF,28-058,27,"2,084",3,6,2.1,4.1,2.1,80000000.0
+Aurélien Tchouaméni,Real Madrid,La Liga,"DF,MF",25-069,25,"2,094",0,0,1.2,0.5,1.2,80000000.0
+William Saliba,Arsenal,Premier League,DF,24-013,29,"2,544",2,0,2.2,0.5,2.2,80000000.0
+Dominik Szoboszlai,Liverpool,Premier League,MF,24-163,28,"2,043",5,3,6.8,5.0,6.8,80000000.0
+Michael Olise,Bayern Munich,Bundesliga,"FW,MF",23-115,28,"1,811",8,10,7.1,9.3,7.1,80000000.0
+Alessandro Bastoni,Inter,Serie A,DF,25-358,29,"2,147",1,4,0.7,2.3,0.7,80000000.0
+Omar Marmoush,Eint Frankfurt,Bundesliga,FW,26-058,17,"1,448",15,9,8.8,6.2,7.3,75000000.0
+Ousmane Dembélé,Paris S-G,Ligue 1,FW,27-326,26,"1,528",21,5,14.9,7.0,14.1,75000000.0
+Marcus Thuram,Inter,Serie A,FW,27-243,30,"2,176",14,4,9.8,4.3,9.8,75000000.0
+Enzo Fernández,Chelsea,Premier League,MF,24-079,28,"2,230",5,5,4.9,5.1,4.9,75000000.0
+Trent Alexander-Arnold,Liverpool,Premier League,DF,26-181,28,"2,145",2,6,1.6,6.7,1.6,75000000.0
+Gabriel Magalhães,Arsenal,Premier League,DF,27-108,28,"2,363",3,1,2.6,0.9,2.6,75000000.0
+Rafael Leão,Milan,Serie A,FW,25-300,29,"2,002",6,7,6.4,7.0,6.4,75000000.0
+Nico Williams,Athletic Club,La Liga,FW,22-268,25,"1,811",4,5,3.8,3.1,3.8,70000000.0
+Kai Havertz,Arsenal,Premier League,"FW,MF",25-299,21,"1,839",9,3,9.4,2.4,9.4,70000000.0
+Rúben Dias,Manchester City,Premier League,DF,27-327,19,"1,551",0,0,1.3,0.3,1.3,70000000.0
+Ryan Gravenberch,Liverpool,Premier League,MF,22-325,30,"2,561",0,2,0.9,2.8,0.9,70000000.0
+Xavi Simons,RB Leipzig,Bundesliga,MF,21-350,20,"1,721",7,4,3.7,5.4,3.7,70000000.0
+Pau Cubarsí,Barcelona,La Liga,DF,18-074,29,"2,245",0,3,0.7,1.6,0.7,70000000.0
+Eduardo Camavinga,Real Madrid,La Liga,"MF,DF",22-147,16,877,0,2,0.1,0.5,0.1,70000000.0
+Bradley Barcola,Paris S-G,Ligue 1,FW,22-216,28,"1,832",13,9,12.2,9.2,12.2,70000000.0
+Cody Gakpo,Liverpool,Premier League,FW,25-334,27,"1,416",8,3,6.0,3.5,6.0,70000000.0
+Anthony Gordon,Newcastle Utd,Premier League,FW,24-041,26,"2,108",6,5,7.8,4.9,6.3,65000000.0
+Achraf Hakimi,Paris S-G,Ligue 1,DF,26-153,22,"1,826",4,6,2.7,6.0,2.7,65000000.0
+João Neves,Paris S-G,Ligue 1,"MF,DF",20-191,24,"1,558",3,8,2.7,3.9,2.7,65000000.0
+Oihan Sancet,Athletic Club,La Liga,MF,24-346,21,"1,347",13,1,8.3,1.4,6.7,60000000.0
+Jules Koundé,Barcelona,La Liga,DF,26-145,30,"2,425",2,3,1.8,3.8,1.8,60000000.0
+Martín Zubimendi,Real Sociedad,La Liga,MF,26-063,28,"2,329",2,1,1.8,0.9,1.8,60000000.0
+Désiré Doué,Paris S-G,Ligue 1,"FW,MF",19-307,25,"1,429",5,6,3.6,6.5,3.6,60000000.0
+Dani Olmo,Barcelona,La Liga,"MF,FW",26-334,18,905,7,2,4.2,2.6,3.4,60000000.0
+Federico Dimarco,Inter,Serie A,"DF,FW",27-147,26,"1,836",4,6,2.8,5.2,2.8,60000000.0
+Loïs Openda,RB Leipzig,Bundesliga,"FW,MF",25-049,27,"2,076",8,5,8.7,3.0,7.9,60000000.0
+Ibrahima Konaté,Liverpool,Premier League,DF,25-316,24,"1,984",1,2,1.5,0.9,1.5,60000000.0
+Dejan Kulusevski,Tottenham,Premier League,"MF,FW",24-346,27,"2,154",7,4,4.1,6.1,4.1,60000000.0
+Warren Zaïre-Emery,Paris S-G,Ligue 1,"MF,DF",19-029,23,"1,656",1,1,1.4,0.9,1.4,60000000.0
+Ademola Lookman,Atalanta,Serie A,"FW,MF",27-168,24,"1,703",13,5,9.2,5.3,8.4,60000000.0
+Alejandro Balde,Barcelona,La Liga,DF,21-170,27,"2,040",0,4,0.5,3.4,0.5,60000000.0
+Micky van de Ven,Tottenham,Premier League,DF,23-352,11,905,0,2,0.6,1.2,0.6,55000000.0
+Nuno Mendes,Paris S-G,Ligue 1,DF,22-291,20,"1,405",1,2,2.0,4.0,2.0,55000000.0
+Levi Colwill,Chelsea,Premier League,DF,22-039,28,"2,519",1,1,0.7,1.1,0.7,55000000.0
+Matheus Cunha,Wolves,Premier League,"MF,FW",25-314,26,"2,143",13,4,6.7,6.6,6.7,55000000.0
+Eberechi Eze,Crystal Palace,Premier League,"MF,FW",26-281,26,"2,095",2,8,6.4,4.7,6.4,55000000.0
+Amadou Onana,Aston Villa,Premier League,MF,23-233,19,"1,166",2,0,1.8,0.2,1.8,55000000.0
+Bruno Fernandes,Manchester Utd,Premier League,MF,30-210,29,"2,465",8,9,8.7,6.4,6.3,55000000.0
+Ethan Nwaneri,Arsenal,Premier League,"FW,MF",18-016,21,716,3,2,0.9,1.0,0.9,55000000.0
+Kobbie Mainoo,Manchester Utd,Premier League,MF,19-352,18,"1,285",0,0,0.5,1.5,0.5,55000000.0
+Cristian Romero,Tottenham,Premier League,DF,26-344,15,"1,191",1,0,1.1,0.5,1.1,55000000.0
+Nicolas Jackson,Chelsea,Premier League,FW,23-290,24,"1,817",9,5,11.5,4.0,11.5,55000000.0
+Leny Yoro,Manchester Utd,Premier League,DF,19-144,15,787,0,0,0.7,0.0,0.7,55000000.0
+Gabriel Martinelli,Arsenal,Premier League,"FW,MF",23-292,26,"1,704",6,4,4.9,4.3,4.9,55000000.0
+Marcus Rashford,Aston Villa,Premier League,FW,27-157,7,295,1,2,1.3,2.0,1.3,50000000.0
+Alphonso Davies,Bayern Munich,Bundesliga,DF,24-155,19,"1,560",1,2,1.2,1.6,1.2,50000000.0
+Pablo Barrios,Atlético Madrid,La Liga,MF,21-295,23,"1,781",0,2,0.9,1.4,0.9,50000000.0
+Dayot Upamecano,Bayern Munich,Bundesliga,DF,26-161,20,"1,759",2,0,1.2,0.5,1.2,50000000.0
+Aleksandar Pavlovic,Bayern Munich,Bundesliga,MF,20-338,15,"1,041",1,0,0.4,0.2,0.4,50000000.0
+Christian Pulisic,Milan,Serie A,"FW,MF",26-200,27,"1,885",9,7,9.9,5.2,6.7,50000000.0
+Tijjani Reijnders,Milan,Serie A,MF,26-251,30,"2,498",9,3,5.6,2.9,5.6,50000000.0
+Pedro Neto,Chelsea,Premier League,FW,25-028,27,"1,621",3,4,2.1,4.5,2.1,50000000.0
+Darwin Núñez,Liverpool,Premier League,FW,25-286,24,986,5,2,5.0,1.2,5.0,50000000.0
+Bryan Mbeumo,Brentford,Premier League,FW,25-242,30,"2,694",16,5,9.8,6.7,5.9,50000000.0
+Morgan Rogers,Aston Villa,Premier League,"FW,MF",22-254,30,"2,513",8,6,5.7,6.1,5.7,50000000.0
+Ollie Watkins,Aston Villa,Premier League,FW,29-097,31,"2,142",13,6,13.9,2.7,12.3,50000000.0
+Ben White,Arsenal,Premier League,DF,27-180,12,766,0,1,0.4,0.7,0.4,50000000.0
+Castello Lukeba,RB Leipzig,Bundesliga,DF,22-110,18,"1,127",0,0,0.4,0.2,0.4,50000000.0
+Jamie Gittens,Dortmund,Bundesliga,"FW,MF",20-241,28,"1,633",8,3,3.7,2.5,3.7,50000000.0
+Jeremie Frimpong,Leverkusen,Bundesliga,"DF,MF",24-117,28,"1,964",4,5,3.9,3.9,3.9,50000000.0
+Jarrad Branthwaite,Everton,Premier League,DF,22-283,24,"1,988",0,1,0.8,0.6,0.8,50000000.0
+Joshua Kimmich,Bayern Munich,Bundesliga,MF,30-057,27,"2,307",1,6,1.4,6.2,1.4,50000000.0
+Piero Hincapié,Leverkusen,Bundesliga,DF,23-087,26,"2,206",2,2,2.6,3.0,2.6,50000000.0
+James Maddison,Tottenham,Premier League,MF,28-134,28,"1,611",9,5,5.8,3.6,5.8,50000000.0
+Morgan Gibbs-White,Nott'ham Forest,Premier League,MF,25-069,27,"2,198",5,7,4.2,4.4,4.2,50000000.0
+Mohammed Kudus,West Ham,Premier League,"FW,MF",24-247,25,"2,077",3,2,5.9,2.3,5.9,50000000.0
+Brennan Johnson,Tottenham,Premier League,FW,23-318,27,"1,789",9,2,9.2,2.0,9.2,50000000.0
+Curtis Jones,Liverpool,Premier League,"MF,FW",24-066,25,"1,257",3,3,4.0,0.9,4.0,50000000.0
+Kaoru Mitoma,Brighton,Premier League,"FW,MF",27-321,31,"2,467",7,3,7.5,4.4,7.5,45000000.0
+Lisandro Martínez,Manchester Utd,Premier League,DF,27-078,20,"1,751",2,1,1.3,1.1,1.3,45000000.0
+Jonathan David,Lille,Ligue 1,FW,25-082,26,"2,060",14,3,14.1,3.6,8.6,45000000.0
+Gonçalo Ramos,Paris S-G,Ligue 1,FW,23-290,16,728,6,2,8.7,1.6,7.9,45000000.0
+Marc Guéhi,Crystal Palace,Premier League,DF,24-267,29,"2,609",3,2,1.7,1.1,1.7,45000000.0
+Alessandro Buongiorno,Napoli,Serie A,DF,25-304,21,"1,861",1,0,0.8,0.6,0.8,45000000.0
+Pedro Porro,Tottenham,Premier League,DF,25-205,29,"2,283",2,5,1.5,3.2,1.5,45000000.0
+Christopher Nkunku,Chelsea,Premier League,FW,27-143,25,872,3,2,4.7,2.0,4.6,45000000.0
+Mateo Retegui,Atalanta,Serie A,FW,25-342,28,"1,720",22,4,14.1,3.2,11.0,45000000.0
+Willian Pacho,Paris S-G,Ligue 1,DF,23-172,25,"1,923",0,1,0.2,0.2,0.2,45000000.0
+Arda Güler,Real Madrid,La Liga,"MF,FW",20-040,20,715,1,3,1.9,2.3,1.9,45000000.0
+Brahim Díaz,Real Madrid,La Liga,"FW,MF",25-246,25,"1,161",4,2,4.5,2.5,4.5,45000000.0
+Kenan Yıldız,Juventus,Serie A,"FW,MF",19-337,29,"1,966",5,2,3.8,3.9,3.8,45000000.0
+Rasmus Højlund,Manchester Utd,Premier League,FW,22-061,25,"1,479",3,0,3.0,1.2,3.0,45000000.0
+Alejandro Garnacho,Manchester Utd,Premier League,"MF,FW",20-279,29,"1,732",4,1,6.0,2.8,6.0,45000000.0
+Dušan Vlahović,Juventus,Serie A,FW,25-068,23,"1,568",9,2,10.9,1.1,7.8,45000000.0
+Victor Boniface,Leverkusen,Bundesliga,FW,24-104,17,989,8,1,7.8,1.1,7.1,45000000.0
+Sven Botman,Newcastle Utd,Premier League,DF,25-084,3,224,0,0,0.0,0.0,0.0,45000000.0
+Destiny Udogie,Tottenham,Premier League,DF,22-129,23,"1,744",0,1,0.3,1.4,0.3,45000000.0
+Bernardo Silva,Manchester City,Premier League,"MF,FW",30-239,26,"2,041",2,4,3.0,4.2,3.0,45000000.0
+Jarrod Bowen,West Ham,Premier League,"FW,MF",28-107,27,"2,366",8,5,6.8,5.3,6.1,45000000.0
+Frenkie de Jong,Barcelona,La Liga,MF,27-329,18,723,2,2,0.6,1.8,0.6,45000000.0
+Dominic Solanke,Tottenham,Premier League,FW,27-204,21,"1,868",7,3,9.2,2.8,9.2,45000000.0
+Sandro Tonali,Newcastle Utd,Premier League,MF,24-333,27,"1,820",2,1,3.2,0.6,3.2,45000000.0
+Dean Huijsen,Bournemouth,Premier League,DF,19-357,25,"1,874",2,1,1.7,1.9,1.7,42000000.0
+Maghnes Akliouche,Monaco,Ligue 1,"FW,MF",23-040,26,"1,957",4,8,7.0,6.1,6.2,40000000.0
+Pau Torres,Aston Villa,Premier League,DF,28-080,19,"1,639",0,0,0.5,0.0,0.5,40000000.0
+David Raya,Arsenal,Premier League,GK,29-203,31,"2,790",0,0,0.0,0.0,0.0,40000000.0
+Exequiel Palacios,Leverkusen,Bundesliga,MF,26-183,19,831,1,6,1.4,2.2,1.4,40000000.0
+Nico Schlotterbeck,Dortmund,Bundesliga,DF,25-126,23,"1,982",0,4,1.3,2.1,1.3,40000000.0
+João Palhinha,Bayern Munich,Bundesliga,MF,29-271,14,656,0,0,0.7,0.2,0.7,40000000.0
+Theo Hernández,Milan,Serie A,DF,27-182,28,"2,254",3,3,2.5,4.3,1.7,40000000.0
+Teun Koopmeiners,Juventus,Serie A,"MF,FW",27-037,26,"1,906",2,3,3.6,2.7,3.6,40000000.0
+Scott McTominay,Napoli,Serie A,MF,28-119,26,"2,239",6,2,5.6,1.6,5.6,40000000.0
+Edmond Tapsoba,Leverkusen,Bundesliga,DF,26-063,23,"2,020",0,0,1.1,0.2,1.1,40000000.0
+Mathys Tel,Bayern Munich,Bundesliga,"FW,MF",19-344,8,256,0,1,0.7,0.3,0.7,40000000.0
+Moise Kean,Fiorentina,Serie A,FW,25-037,28,"2,344",17,3,15.4,1.8,13.8,40000000.0
+Karim Adeyemi,Dortmund,Bundesliga,"FW,MF",23-078,19,"1,161",4,4,4.3,5.2,4.3,40000000.0
+Pape Matar Sarr,Tottenham,Premier League,MF,22-204,28,"1,423",3,2,3.1,1.5,3.1,40000000.0
+Noni Madueke,Chelsea,Premier League,FW,23-027,24,"1,476",7,3,7.6,3.6,7.6,40000000.0
+Takefusa Kubo,Real Sociedad,La Liga,"MF,FW",23-306,27,"1,729",5,0,3.1,2.9,3.1,40000000.0
+Amad Diallo,Manchester Utd,Premier League,"FW,MF",22-269,22,"1,594",6,6,4.1,3.9,4.1,40000000.0
+Riccardo Calafiori,Arsenal,Premier League,DF,22-322,17,925,2,1,0.9,0.3,0.9,40000000.0
+Conor Gallagher,Atlético Madrid,La Liga,MF,25-059,23,"1,200",2,2,1.9,1.0,1.9,40000000.0
+Robin Le Normand,Atlético Madrid,La Liga,DF,28-146,19,"1,490",0,0,1.1,0.5,1.1,40000000.0
+Andrea Cambiaso,Juventus,Serie A,"DF,FW",25-045,26,"1,815",2,1,0.5,2.2,0.5,40000000.0
+Gregor Kobel,Dortmund,Bundesliga,GK,27-121,26,"2,340",0,0,0.0,0.0,0.0,40000000.0
+Serhou Guirassy,Dortmund,Bundesliga,FW,29-025,24,"2,073",15,1,17.3,3.7,15.7,40000000.0
+Hugo Larsson,Eint Frankfurt,Bundesliga,MF,20-283,27,"1,923",3,0,3.0,1.2,3.0,40000000.0
+Khéphren Thuram,Juventus,Serie A,MF,24-011,28,"1,729",3,4,3.2,3.3,3.2,40000000.0
+Éder Militão,Real Madrid,La Liga,DF,27-078,12,938,1,1,0.6,0.5,0.6,40000000.0
+Gabriel Jesus,Arsenal,Premier League,FW,28-003,17,608,3,0,3.0,0.7,3.0,40000000.0
+Rico Lewis,Manchester City,Premier League,"DF,MF",20-136,24,"1,703",1,2,1.4,0.3,1.4,40000000.0
+Matthijs de Ligt,Manchester Utd,Premier League,DF,25-237,28,"2,089",2,0,2.5,0.3,2.5,40000000.0
+João Gomes,Wolves,Premier League,MF,24-053,29,"2,429",3,1,2.6,1.1,2.6,40000000.0
+Roméo Lavia,Chelsea,Premier League,MF,21-090,11,541,0,1,0.2,0.7,0.2,40000000.0
+Boubacar Kamara,Aston Villa,Premier League,MF,25-134,19,"1,200",0,0,0.3,0.4,0.3,38000000.0
+Charles De Ketelaere,Atalanta,Serie A,"MF,FW",24-027,29,"1,762",5,5,5.1,5.3,5.1,38000000.0
+Leroy Sané,Bayern Munich,Bundesliga,FW,29-085,24,"1,315",9,4,8.7,4.4,8.7,38000000.0
+Angelo Stiller,Stuttgart,Bundesliga,MF,24-002,27,"2,366",1,5,1.4,5.3,1.4,38000000.0
+Francisco Conceição,Juventus,Serie A,"FW,MF",22-113,20,"1,052",3,3,1.6,4.0,1.6,36000000.0
+Milos Kerkez,Bournemouth,Premier League,DF,21-150,31,"2,717",2,5,0.5,3.2,0.5,35000000.0
+Carlos Baleba,Brighton,Premier League,MF,21-093,27,"2,057",2,1,3.0,1.1,3.0,35000000.0
+Liam Delap,Ipswich Town,Premier League,FW,22-057,30,"2,324",12,2,9.0,1.9,7.4,35000000.0
+Diogo Dalot,Manchester Utd,Premier League,DF,26-019,29,"2,576",0,2,2.0,1.9,2.0,35000000.0
+Adam Wharton,Crystal Palace,Premier League,MF,20-308,15,"1,009",0,0,0.3,2.3,0.3,35000000.0
+Joshua Zirkzee,Manchester Utd,Premier League,"FW,MF",23-319,30,"1,328",3,1,4.5,1.5,4.5,35000000.0
+Hakan Çalhanoğlu,Inter,Serie A,MF,31-057,23,"1,507",5,4,4.0,4.4,0.9,35000000.0
+Guglielmo Vicario,Tottenham,Premier League,GK,28-181,18,"1,620",0,0,0.0,0.0,0.0,35000000.0
+Youri Tielemans,Aston Villa,Premier League,MF,27-334,31,"2,645",2,5,2.7,6.2,1.9,35000000.0
+Antonee Robinson,Fulham,Premier League,DF,27-241,30,"2,629",0,10,0.7,4.0,0.7,35000000.0
+Antoine Semenyo,Bournemouth,Premier League,FW,25-089,30,"2,645",7,4,8.9,5.2,8.9,35000000.0
+Giorgio Scalvini,Atalanta,Serie A,DF,21-116,6,272,0,0,0.1,0.0,0.1,35000000.0
+Enzo Millot,Stuttgart,Bundesliga,"MF,FW",22-263,26,"1,628",4,4,7.1,2.8,6.3,35000000.0
+Archie Gray,Tottenham,Premier League,"DF,MF",19-025,21,"1,245",0,0,0.0,0.1,0.0,35000000.0
+Jack Grealish,Manchester City,Premier League,"FW,MF",29-208,17,699,1,1,1.1,1.8,1.1,35000000.0
+Santiago Castro,Bologna,Serie A,FW,20-189,29,"2,117",8,4,7.0,2.3,6.2,35000000.0
+Matheus Nunes,Manchester City,Premier League,"DF,MF",26-222,20,"1,134",0,4,0.5,3.3,0.5,35000000.0
+Rayan Aït-Nouri,Wolves,Premier League,DF,23-304,30,"2,549",3,5,2.3,3.5,2.3,35000000.0
+Ezri Konsa,Aston Villa,Premier League,DF,27-165,27,"2,306",1,0,0.7,0.2,0.7,35000000.0
+Manu Koné,Roma,Serie A,MF,23-324,26,"1,881",2,1,2.9,1.3,2.9,35000000.0
+Mohamed Simakan,RB Leipzig,Bundesliga,DF,24-338,1,54,0,0,0.0,0.3,0.0,35000000.0
+Gianluigi Donnarumma,Paris S-G,Ligue 1,GK,26-040,21,"1,821",0,0,0.0,0.0,0.0,35000000.0
+Malo Gusto,Chelsea,Premier League,DF,21-322,25,"1,641",0,1,1.7,1.0,1.7,35000000.0
+Abdukodir Khusanov,Lens,Ligue 1,DF,21-036,13,975,0,0,0.2,0.3,0.2,35000000.0
+Mason Greenwood,Marseille,Ligue 1,"FW,MF",23-187,27,"2,191",15,3,12.2,4.2,7.4,35000000.0
+Anthony Elanga,Nott'ham Forest,Premier League,FW,22-344,31,"1,975",6,8,3.9,4.3,3.9,35000000.0
+Harvey Elliott,Liverpool,Premier League,"MF,FW",22-002,11,128,0,1,0.2,0.8,0.2,35000000.0
+Jonathan Burkardt,Mainz 05,Bundesliga,FW,24-269,24,"1,665",15,2,11.9,2.7,11.1,35000000.0
+Kingsley Coman,Bayern Munich,Bundesliga,FW,28-297,22,"1,039",4,4,3.8,3.2,3.8,35000000.0
+Rayan Cherki,Lyon,Ligue 1,"FW,MF",21-232,24,"1,578",7,9,4.5,8.3,4.5,35000000.0
+Mikel Merino,Arsenal,Premier League,"MF,FW",28-288,23,"1,329",6,1,3.9,1.4,3.9,35000000.0
+Justin Kluivert,Bournemouth,Premier League,"MF,FW",25-336,28,"1,936",12,6,9.9,4.7,5.1,35000000.0
+Joachim Andersen,Crystal Palace,Premier League,DF,28-310,1,90,0,0,0.0,0.0,0.0,32000000.0
+Evan Ferguson,Brighton,Premier League,FW,20-169,13,246,1,0,0.5,0.4,0.5,32000000.0
+Leon Bailey,Aston Villa,Premier League,"FW,MF",27-240,23,"1,138",1,2,1.7,1.5,1.7,32000000.0
+Emile Smith Rowe,Fulham,Premier League,MF,24-252,27,"1,790",5,2,4.1,1.1,4.1,32000000.0
+Georginio Rutter,Brighton,Premier League,"MF,FW",22-351,28,"1,656",5,3,4.6,2.5,4.6,32000000.0
+André Onana,Manchester Utd,Premier League,GK,29-004,30,"2,700",0,0,0.0,0.2,0.0,32000000.0
+Jacob Ramsey,Aston Villa,Premier League,"FW,MF",23-313,23,"1,341",1,3,1.3,2.0,1.3,32000000.0
+Jan Paul van Hecke,Brighton,Premier League,DF,24-302,29,"2,509",1,1,1.3,1.5,1.3,32000000.0
+Manuel Akanji,Manchester City,Premier League,DF,29-261,20,"1,707",0,0,0.7,0.4,0.7,32000000.0
+Nathan Aké,Manchester City,Premier League,DF,30-047,10,678,0,0,0.2,0.0,0.2,32000000.0
+Mattéo Guendouzi,Lazio,Serie A,MF,25-357,30,"2,640",1,3,1.0,2.9,1.0,32000000.0
+Davide Frattesi,Inter,Serie A,MF,25-166,24,940,5,1,3.8,0.7,3.8,32000000.0
+Noussair Mazraoui,Manchester Utd,Premier League,DF,27-143,30,"2,308",0,1,0.6,1.3,0.6,32000000.0
+Mohamed Amoura,Wolfsburg,Bundesliga,FW,24-332,24,"1,976",10,8,7.0,3.4,5.5,32000000.0
+Elliot Anderson,Nott'ham Forest,Premier League,MF,22-151,30,"2,137",1,6,1.6,3.0,1.6,30000000.0
+Hiroki Ito,Bayern Munich,Bundesliga,DF,25-329,6,250,1,0,0.4,0.4,0.4,30000000.0
+Artem Dovbyk,Roma,Serie A,FW,27-289,26,"1,985",11,2,11.3,2.1,9.7,30000000.0
+John Stones,Manchester City,Premier League,"DF,MF",30-313,11,548,2,0,0.4,0.1,0.4,30000000.0
+Ayyoub Bouaddi,Lille,Ligue 1,MF,17-186,21,"1,031",0,1,0.0,1.0,0.0,30000000.0
+Mikel Oyarzabal,Real Sociedad,La Liga,FW,27-350,26,"1,587",5,2,5.4,2.3,3.8,30000000.0
+Lucas Chevalier,Lille,Ligue 1,GK,23-151,28,"2,520",0,0,0.0,0.9,0.0,30000000.0
+Edson Álvarez,West Ham,Premier League,MF,27-164,25,"1,633",0,1,0.3,0.8,0.3,30000000.0
+Bilal El Khannouss,Leicester City,Premier League,MF,20-331,25,"1,585",2,1,0.7,2.3,0.7,30000000.0
+Lewis Hall,Newcastle Utd,Premier League,DF,20-210,27,"2,189",0,4,0.4,4.3,0.4,30000000.0
+Reece James,Chelsea,Premier League,"DF,MF",25-119,12,690,1,0,0.2,0.3,0.2,30000000.0
+Pervis Estupiñán,Brighton,Premier League,DF,27-075,24,"1,862",1,1,0.7,1.9,0.7,30000000.0
+Lucas Hernández,Paris S-G,Ligue 1,DF,29-051,13,652,0,0,0.0,0.0,0.0,30000000.0
+Randal Kolo Muani,Juventus,Serie A,FW,26-122,8,625,5,1,2.6,0.6,1.8,30000000.0
+Yoane Wissa,Brentford,Premier League,FW,28-215,27,"2,200",14,2,13.8,1.6,13.8,30000000.0
+Samuele Ricci,Torino,Serie A,MF,23-228,29,"2,458",1,1,1.2,0.5,1.2,30000000.0
+Yankuba Minteh,Brighton,Premier League,"FW,MF",20-258,25,"1,337",5,4,3.3,4.3,3.3,30000000.0
+David Neres,Napoli,Serie A,FW,28-034,23,"1,065",2,4,1.9,2.7,1.9,30000000.0
+Cheick Doucouré,Crystal Palace,Premier League,MF,25-088,13,452,0,0,0.4,0.0,0.4,30000000.0
+Cristhian Mosquera,Valencia,La Liga,DF,20-283,29,"2,599",1,0,0.4,0.0,0.4,30000000.0
+Eliesse Ben Seghir,Monaco,Ligue 1,"MF,FW",20-049,27,"1,558",6,3,5.3,4.8,3.8,30000000.0
+Jadon Sancho,Chelsea,Premier League,FW,25-012,24,"1,497",2,4,1.8,3.3,1.8,30000000.0
+Giorgi Mamardashvili,Valencia,La Liga,GK,24-189,26,"2,340",0,0,0.0,0.1,0.0,30000000.0
+Leandro Trossard,Arsenal,Premier League,FW,30-123,31,"2,001",5,5,5.4,5.0,5.4,30000000.0
+Jonathan Tah,Leverkusen,Bundesliga,DF,29-054,27,"2,430",2,0,0.9,0.3,0.9,30000000.0
+Benjamin Pavard,Inter,Serie A,DF,29-009,21,"1,480",0,1,0.5,0.8,0.5,30000000.0
+Youssouf Fofana,Milan,Serie A,MF,26-086,29,"2,173",1,4,1.3,2.5,1.3,30000000.0
+Raúl Asencio,Real Madrid,La Liga,DF,22-052,16,"1,099",0,1,0.1,0.5,0.1,30000000.0
+Harvey Barnes,Newcastle Utd,Premier League,FW,27-118,24,992,5,3,3.7,3.0,3.7,30000000.0
+Denis Zakaria,Monaco,Ligue 1,MF,28-137,20,"1,691",4,2,3.8,0.9,3.0,30000000.0
+Marc Cucurella,Chelsea,Premier League,DF,26-258,28,"2,344",4,1,2.2,1.7,2.2,30000000.0
+Isak Hien,Atalanta,Serie A,DF,26-083,24,"1,787",0,0,0.8,0.1,0.8,30000000.0
+Jean-Philippe Mateta,Crystal Palace,Premier League,FW,27-282,29,"2,257",13,2,11.6,3.0,10.0,30000000.0
+Rodrigo Bentancur,Tottenham,Premier League,MF,27-285,20,"1,336",2,0,1.3,0.4,1.3,30000000.0
+Simon Adingra,Brighton,Premier League,"FW,MF",23-095,22,743,2,1,1.6,1.4,1.6,30000000.0
+Matty Cash,Aston Villa,Premier League,DF,27-242,20,"1,476",1,1,0.3,1.1,0.3,28000000.0
+Joe Willock,Newcastle Utd,Premier League,"MF,FW",25-229,26,843,0,2,0.9,1.6,0.9,28000000.0
+Vitaliy Mykolenko,Everton,Premier League,DF,25-312,28,"2,452",0,1,0.4,1.5,0.4,28000000.0
+Nathan Collins,Brentford,Premier League,DF,23-341,30,"2,700",2,1,2.3,1.4,2.3,28000000.0
+Antonio Nusa,RB Leipzig,Bundesliga,"MF,DF",19-354,21,"1,440",3,3,1.6,2.6,1.6,28000000.0
+Myles Lewis-Skelly,Arsenal,Premier League,DF,18-192,16,930,1,0,0.0,0.3,0.0,28000000.0
+Manuel Locatelli,Juventus,Serie A,MF,27-088,28,"2,136",0,2,0.7,1.0,0.7,28000000.0
+Ian Maatsen,Aston Villa,Premier League,DF,23-027,23,707,0,2,0.4,2.0,0.4,28000000.0
+Denzel Dumfries,Inter,Serie A,"DF,FW",28-353,25,"1,761",6,2,5.1,2.6,5.1,28000000.0
+Nikola Milenković,Nott'ham Forest,Premier League,DF,27-176,30,"2,700",4,2,3.6,0.8,3.6,28000000.0
+Mason Mount,Manchester Utd,Premier League,"MF,FW",26-086,9,260,0,0,0.5,0.1,0.5,28000000.0
+Nicolò Rovella,Lazio,Serie A,MF,23-123,25,"2,094",0,2,1.0,1.9,1.0,28000000.0
+Felix Nmecha,Dortmund,Bundesliga,MF,24-178,20,"1,152",2,1,0.3,0.8,0.3,28000000.0
+Brais Méndez,Real Sociedad,La Liga,MF,28-089,21,"1,259",3,1,2.8,1.7,2.8,28000000.0
+Jean-Clair Todibo,West Ham,Premier League,DF,25-097,20,"1,228",0,0,0.2,0.0,0.2,28000000.0
+Marcos Llorente,Atlético Madrid,La Liga,"DF,MF",30-066,24,"1,703",2,3,0.7,3.6,0.7,28000000.0
+Yves Bissouma,Tottenham,Premier League,MF,28-219,22,"1,145",2,0,0.6,0.2,0.6,28000000.0
+Ibrahim Sangaré,Nott'ham Forest,Premier League,MF,27-125,8,279,0,1,0.0,0.4,0.0,28000000.0
+Unai Simón,Athletic Club,La Liga,GK,27-299,12,"1,080",0,0,0.0,0.0,0.0,28000000.0
+Virgil van Dijk,Liverpool,Premier League,DF,33-272,30,"2,700",1,1,1.6,0.5,1.6,28000000.0
+Mario Gila,Lazio,Serie A,DF,24-220,25,"2,181",1,0,0.9,0.5,0.9,28000000.0
+Wesley Fofana,Chelsea,Premier League,DF,24-110,14,"1,172",0,0,0.4,0.4,0.4,27000000.0
+Lutsharel Geertruida,RB Leipzig,Bundesliga,DF,24-262,19,"1,313",1,0,1.1,0.8,1.1,27000000.0
+Jørgen Strand Larsen,Wolves,Premier League,FW,25-059,29,"2,245",11,2,7.8,2.4,7.8,27000000.0
+Mats Wieffer,Brighton,Premier League,MF,25-141,19,514,1,1,0.5,0.8,0.5,27000000.0
+Patrik Schick,Leverkusen,Bundesliga,FW,29-072,25,"1,254",17,0,10.4,0.6,10.4,27000000.0
+Kevin Schade,Brentford,Premier League,FW,23-130,30,"1,665",7,2,5.9,3.1,5.9,27000000.0
+Kevin De Bruyne,Manchester City,Premier League,MF,33-282,20,"1,103",2,6,2.6,6.1,2.6,27000000.0
+Pierre Kalulu,Juventus,Serie A,DF,24-305,23,"1,828",1,0,0.7,0.2,0.7,26000000.0
+Axel Disasi,Chelsea,Premier League,DF,27-026,6,364,1,0,0.3,0.1,0.3,25000000.0
+Tom Bischof,Hoffenheim,Bundesliga,"MF,FW",19-282,26,"2,146",5,2,1.7,3.1,1.7,25000000.0
+Nayef Aguerd,Real Sociedad,La Liga,DF,29-007,20,"1,670",0,0,2.4,0.1,2.4,25000000.0
+David Raum,RB Leipzig,Bundesliga,DF,26-349,20,"1,603",1,4,0.5,6.4,0.5,25000000.0
+Edon Zhegrova,Lille,Ligue 1,"FW,MF",26-006,12,978,4,1,2.3,2.2,2.3,25000000.0
+Leif Davis,Ipswich Town,Premier League,DF,25-084,29,"2,471",1,2,0.9,4.3,0.9,25000000.0
+Tyler Dibling,Southampton,Premier League,"FW,MF",19-025,26,"1,550",2,0,2.4,1.4,2.4,25000000.0
+Samuel Lino,Atlético Madrid,La Liga,"MF,DF",25-104,25,"1,251",3,2,5.5,2.2,5.5,25000000.0
+Álex Remiro,Real Sociedad,La Liga,GK,30-013,28,"2,520",0,0,0.0,0.0,0.0,25000000.0
+João Félix,Milan,Serie A,MF,25-147,9,486,0,0,1.8,0.7,1.8,25000000.0
+Wilfried Singo,Monaco,Ligue 1,DF,24-102,21,"1,556",1,2,1.5,1.5,1.5,25000000.0
+Andrey Santos,Strasbourg,Ligue 1,MF,20-338,25,"2,225",9,1,3.9,2.7,3.9,25000000.0
+Elye Wahi,Marseille,Ligue 1,FW,22-094,13,574,3,1,6.0,0.4,5.2,25000000.0
+Sander Berge,Fulham,Premier League,MF,27-051,23,"1,734",0,0,0.2,0.6,0.2,25000000.0
+Lucas Bergvall,Tottenham,Premier League,MF,19-063,23,997,0,1,0.6,0.4,0.6,25000000.0
+Oscar Bobb,Manchester City,Premier League,FW,21-268,1,6,0,0,0.0,0.0,0.0,25000000.0
+Conor Bradley,Liverpool,Premier League,DF,21-271,12,372,0,0,0.5,0.0,0.5,25000000.0
+Calvin Bassey,Fulham,Premier League,DF,25-096,28,"2,444",1,0,1.0,0.1,1.0,25000000.0
+Benoît Badiashile,Chelsea,Premier League,DF,24-011,5,334,0,0,0.0,0.0,0.0,25000000.0
+Odilon Kossounou,Atalanta,Serie A,DF,24-092,12,720,0,0,0.5,0.0,0.5,25000000.0
+Federico Gatti,Juventus,Serie A,DF,26-286,28,"2,185",1,0,2.5,0.5,2.5,25000000.0
+Aleksandr Golovin,Monaco,Ligue 1,"MF,FW",28-311,19,"1,153",3,0,2.3,2.4,2.3,25000000.0
+Bart Verbruggen,Brighton,Premier League,GK,22-231,29,"2,610",0,1,0.0,0.0,0.0,25000000.0
+Alexander Sørloth,Atlético Madrid,La Liga,FW,29-122,26,"1,096",11,2,9.5,1.5,8.8,25000000.0
+Mikkel Damsgaard,Brentford,Premier League,"MF,FW",24-277,30,"2,248",2,10,2.4,7.2,2.4,25000000.0
+Kevin Danso,Tottenham,Premier League,DF,26-199,4,347,0,0,0.3,0.0,0.3,25000000.0
+Assane Diao,Betis,La Liga,FW,19-211,10,277,1,2,0.8,1.5,0.8,25000000.0
+Miguel Gutiérrez,Girona,La Liga,"DF,MF",23-253,27,"2,283",1,5,1.5,4.1,1.5,25000000.0
+Donyell Malen,Aston Villa,Premier League,FW,26-087,8,234,2,0,1.1,0.0,1.1,25000000.0
+Emiliano Martínez,Aston Villa,Premier League,GK,32-216,30,"2,610",0,0,0.0,0.4,0.0,25000000.0
+Thibaut Courtois,Real Madrid,La Liga,GK,32-330,24,"2,160",0,0,0.0,0.0,0.0,25000000.0
+Malick Fofana,Lyon,Ligue 1,FW,20-006,24,"1,206",4,4,3.6,2.5,3.6,25000000.0
+Dan Ndoye,Bologna,Serie A,FW,24-163,25,"1,711",7,3,6.2,2.3,4.6,25000000.0
+Facundo Medina,Lens,Ligue 1,DF,25-313,23,"2,004",0,1,1.3,1.6,1.3,25000000.0
+Evann Guessand,Nice,Ligue 1,"FW,MF",23-279,28,"2,340",11,7,8.0,4.5,8.0,25000000.0
+Adrien Rabiot,Marseille,Ligue 1,MF,30-003,22,"1,855",5,2,4.3,2.3,4.3,25000000.0
+Taylor Harwood-Bellis,Southampton,Premier League,DF,23-066,27,"2,210",1,0,1.7,0.8,1.7,25000000.0
+Joe Gomez,Liverpool,Premier League,DF,27-318,9,519,0,0,0.3,0.1,0.3,25000000.0
+Dwight McNeil,Everton,Premier League,"MF,FW",25-135,14,"1,144",3,3,0.9,3.5,0.9,25000000.0
+Tyrick Mitchell,Crystal Palace,Premier League,DF,25-217,30,"2,520",0,4,1.2,5.3,1.2,25000000.0
+Daniel Muñoz,Crystal Palace,Premier League,DF,28-315,29,"2,508",4,4,4.2,3.8,4.2,25000000.0
+Rodrigo De Paul,Atlético Madrid,La Liga,MF,30-317,27,"1,619",3,3,1.2,3.9,1.2,25000000.0
+Patrick Dorgu,Lecce,Serie A,"DF,FW",20-162,21,"1,840",3,1,3.3,1.5,3.3,25000000.0
+Radu Drăgușin,Tottenham,Premier League,DF,23-062,16,"1,252",0,0,0.1,0.4,0.1,25000000.0
+Maximilian Beier,Dortmund,Bundesliga,"FW,MF",22-171,27,"1,477",7,5,7.2,3.3,7.2,25000000.0
+Konrad Laimer,Bayern Munich,Bundesliga,DF,27-314,23,"1,228",1,1,1.3,2.2,1.3,25000000.0
+Serge Gnabry,Bayern Munich,Bundesliga,"FW,MF",29-266,21,870,5,3,6.3,4.1,5.5,25000000.0
+Stanislav Lobotka,Napoli,Serie A,MF,30-132,26,"2,216",0,1,0.3,1.1,0.3,25000000.0
+Mike Maignan,Milan,Serie A,GK,29-277,30,"2,700",0,0,0.0,0.8,0.0,25000000.0
+Alex Iwobi,Fulham,Premier League,"FW,MF",28-338,30,"2,382",7,4,3.9,6.1,3.9,25000000.0
+Brajan Gruda,Brighton,Premier League,"FW,MF",20-310,15,489,0,1,0.3,0.7,0.3,25000000.0
+Nuno Tavares,Lazio,Serie A,DF,25-070,20,"1,517",0,8,1.0,4.4,1.0,25000000.0
+Pietro Comuzzo,Fiorentina,Serie A,DF,20-045,27,"1,942",0,0,0.4,0.5,0.4,25000000.0
+Dango Ouattara,Bournemouth,Premier League,FW,23-054,28,"1,685",7,4,7.7,4.7,7.7,25000000.0
+Giuliano Simeone,Atlético Madrid,La Liga,"MF,DF",22-109,24,"1,351",1,5,1.8,3.6,1.8,25000000.0
+Bafodé Diakité,Lille,Ligue 1,DF,24-090,27,"2,430",4,1,2.1,0.2,2.1,25000000.0
+Sam Beukema,Bologna,Serie A,DF,26-140,29,"2,472",0,1,1.4,0.9,1.4,25000000.0
+Julian Brandt,Dortmund,Bundesliga,MF,28-339,24,"1,890",3,6,3.9,6.8,3.9,25000000.0
+Lucas Beraldo,Paris S-G,Ligue 1,DF,21-133,19,"1,612",1,0,0.7,0.3,0.7,25000000.0
+Mika Biereth,Monaco,Ligue 1,FW,22-057,11,892,12,2,9.8,3.7,8.2,25000000.0
+Takehiro Tomiyasu,Arsenal,Premier League,DF,26-152,1,7,0,0,0.2,0.0,0.2,25000000.0
+Marco Carnesecchi,Atalanta,Serie A,GK,24-279,27,"2,430",0,0,0.0,0.2,0.0,25000000.0
+Thiago Almada,Lyon,Ligue 1,"MF,FW",23-345,10,475,1,2,1.6,1.7,1.6,25000000.0
+Jan Oblak,Atlético Madrid,La Liga,GK,32-089,28,"2,520",0,0,0.0,0.0,0.0,25000000.0
+Alberto Moleiro,Las Palmas,La Liga,"FW,MF",21-188,27,"2,077",6,0,5.2,2.6,5.2,25000000.0
+Nahuel Molina,Atlético Madrid,La Liga,DF,27-000,22,"1,329",0,3,0.5,1.3,0.5,25000000.0
+Jack Hinshelwood,Brighton,Premier League,"DF,MF",19-360,19,"1,415",2,0,1.4,0.9,1.4,24000000.0
+Callum Hudson-Odoi,Nott'ham Forest,Premier League,FW,24-150,26,"1,984",5,2,2.3,2.7,2.3,24000000.0
+Gianluca Scamacca,Atalanta,Serie A,FW,26-095,1,6,0,0,0.1,0.0,0.1,24000000.0
+Weston McKennie,Juventus,Serie A,"MF,DF",26-221,24,"1,733",2,3,2.4,2.5,2.4,24000000.0
+Arthur Theate,Eint Frankfurt,Bundesliga,DF,24-316,25,"2,209",0,0,1.5,0.6,1.5,24000000.0
+Lewis Ferguson,Bologna,Serie A,MF,25-225,13,713,1,1,0.8,0.9,0.0,24000000.0
+Antonio Rüdiger,Real Madrid,La Liga,DF,32-034,27,"2,111",0,0,1.8,0.2,1.8,24000000.0
+Marcos Senesi,Bournemouth,Premier League,DF,27-331,13,963,0,0,0.8,0.2,0.8,24000000.0
+Keane Lewis-Potter,Brentford,Premier League,"DF,FW",24-043,30,"2,459",1,2,2.5,2.0,2.5,23000000.0
+Julio Enciso,Ipswich Town,Premier League,"FW,MF",21-073,7,430,0,2,0.7,1.0,0.7,22000000.0
+Aitor Paredes,Athletic Club,La Liga,DF,24-342,17,"1,290",3,0,2.2,0.1,2.2,22000000.0
+Raoul Bellanova,Torino,Serie A,DF,24-324,1,87,0,0,0.0,0.1,0.0,22000000.0
+Leon Goretzka,Bayern Munich,Bundesliga,MF,30-059,21,"1,112",4,1,2.5,1.4,2.5,22000000.0
+Lorenzo Lucca,Udinese,Serie A,FW,24-208,30,"2,149",10,1,6.8,1.5,6.0,22000000.0
+Romelu Lukaku,Napoli,Serie A,FW,31-328,28,"2,179",11,8,10.6,3.1,7.4,22000000.0
+Omari Hutchinson,Ipswich Town,Premier League,"MF,FW",21-158,27,"2,223",3,2,2.3,2.5,2.3,22000000.0
+Sean Longstaff,Newcastle Utd,Premier League,MF,27-158,21,746,0,0,0.6,0.2,0.6,22000000.0
+Vitaly Janelt,Brentford,Premier League,MF,26-331,29,"2,157",1,3,0.8,2.2,0.8,22000000.0
+Caoimhín Kelleher,Liverpool,Premier League,GK,26-134,9,810,0,0,0.0,0.0,0.0,22000000.0
+Yunus Musah,Milan,Serie A,"MF,FW",22-128,25,"1,411",0,2,1.9,1.6,1.9,22000000.0
+Arthur Vermeeren,RB Leipzig,Bundesliga,MF,20-058,22,"1,236",0,1,0.2,0.5,0.2,22000000.0
+Deniz Undav,Stuttgart,Bundesliga,"FW,MF",28-261,21,"1,270",7,1,9.2,1.6,9.2,22000000.0
+Facundo Buonanotte,Leicester City,Premier League,"FW,MF",20-104,26,"1,354",4,2,3.5,2.8,3.5,22000000.0
+Kiernan Dewsbury-Hall,Chelsea,Premier League,"MF,FW",26-212,10,200,0,1,0.2,1.0,0.2,22000000.0
+Jakub Kiwior,Arsenal,Premier League,DF,25-050,10,492,0,0,0.1,0.2,0.1,22000000.0
+Maxence Lacroix,Crystal Palace,Premier League,DF,25-000,27,"2,424",1,1,2.9,0.4,2.9,22000000.0
+Aaron Wan-Bissaka,West Ham,Premier League,DF,27-131,30,"2,614",2,2,1.0,2.5,1.0,22000000.0
+Antoine Griezmann,Atlético Madrid,La Liga,"FW,MF",34-016,29,"2,109",8,5,6.2,5.4,4.6,22000000.0
+Lewis Miley,Newcastle Utd,Premier League,MF,18-340,9,193,1,0,0.5,0.0,0.5,22000000.0
+Oleksandr Zinchenko,Arsenal,Premier League,"DF,MF",28-112,10,299,0,0,0.2,0.0,0.2,22000000.0
+Eddie Nketiah,Crystal Palace,Premier League,"FW,MF",25-311,22,750,1,1,3.5,1.5,3.5,22000000.0
+Matt O'Riley,Brighton,Premier League,MF,24-136,14,544,1,1,1.2,1.2,1.2,22000000.0
+Jarell Quansah,Liverpool,Premier League,DF,22-067,10,292,0,0,0.0,0.0,0.0,22000000.0
+Crysencio Summerville,West Ham,Premier League,"FW,MF",23-158,19,786,1,1,1.6,1.7,1.6,22000000.0
+Iliman Ndiaye,Everton,Premier League,FW,25-031,26,"1,973",7,0,4.5,1.5,2.9,22000000.0
+Ritsu Doan,Freiburg,Bundesliga,"FW,MF",26-294,28,"2,341",8,6,5.7,2.7,5.7,22000000.0
+Amine Adli,Leverkusen,Bundesliga,"MF,FW",24-331,14,533,2,0,2.2,0.3,2.2,22000000.0
+Enzo Boyomo,Osasuna,La Liga,DF,23-181,25,"2,177",2,0,1.3,0.8,1.3,20000000.0
+Habib Diarra,Strasbourg,Ligue 1,"MF,FW",21-093,23,"1,947",4,3,3.0,4.0,1.4,20000000.0
+Iñaki Williams,Athletic Club,La Liga,FW,30-295,28,"2,312",5,8,6.2,6.7,6.2,20000000.0
+Yan Couto,Dortmund,Bundesliga,"DF,FW",22-307,18,817,0,0,0.2,0.9,0.2,20000000.0
+Marco Asensio,Paris S-G,Ligue 1,"FW,MF",29-075,12,618,2,4,5.6,2.7,5.6,20000000.0
+Saïd Benrahma,Lyon,Ligue 1,"FW,MF",29-239,13,735,1,3,2.0,2.1,2.0,20000000.0
+Leonardo Balerdi,Marseille,Ligue 1,DF,26-070,23,"1,927",0,0,0.6,0.7,0.6,20000000.0
+Folarin Balogun,Monaco,Ligue 1,FW,23-277,9,489,3,0,4.0,0.9,4.0,20000000.0
+Andreas Pereira,Fulham,Premier League,MF,29-095,27,"1,601",2,4,3.3,3.7,2.5,20000000.0
+Jordan Pickford,Everton,Premier League,GK,31-030,31,"2,790",0,1,0.0,0.4,0.0,20000000.0
+Lamine Camara,Monaco,Ligue 1,MF,21-095,24,"1,678",2,6,2.3,3.8,2.3,20000000.0
+Carlos Soler,West Ham,Premier League,"MF,FW",28-094,26,"1,180",1,1,1.2,1.1,1.2,20000000.0
+Marcus Tavernier,Bournemouth,Premier League,"FW,MF",26-015,22,"1,505",3,5,5.2,2.8,5.2,20000000.0
+Andrew Robertson,Liverpool,Premier League,DF,31-026,28,"2,106",0,0,0.9,4.1,0.9,20000000.0
+Robert Sánchez,Chelsea,Premier League,GK,27-139,24,"2,160",0,0,0.0,0.0,0.0,20000000.0
+Alex Scott,Bournemouth,Premier League,MF,21-228,14,503,0,0,0.5,0.3,0.5,20000000.0
+Lesley Ugochukwu,Southampton,Premier League,MF,21-011,19,"1,095",0,1,0.4,1.0,0.4,20000000.0
+Fábio Silva,Las Palmas,La Liga,FW,22-261,21,"1,608",8,2,7.7,1.0,5.3,20000000.0
+Joan García,Espanyol,La Liga,GK,23-337,29,"2,610",0,0,0.1,0.0,0.1,20000000.0
+Sergio Gómez,Real Sociedad,La Liga,"MF,DF",24-214,28,"2,177",1,5,0.8,7.2,0.8,20000000.0
+Yangel Herrera,Girona,La Liga,MF,27-082,22,"1,690",4,3,3.1,1.4,3.1,20000000.0
+Mikel Jauregizar,Athletic Club,La Liga,MF,21-145,26,"1,664",2,1,0.7,1.3,0.7,20000000.0
+Sofyan Amrabat,Fiorentina,Serie A,MF,28-228,2,180,0,0,0.0,0.1,0.0,20000000.0
+Neco Williams,Nott'ham Forest,Premier League,DF,23-358,28,"1,964",1,2,2.1,1.4,2.1,20000000.0
+Orel Mangala,Everton,Premier League,MF,27-019,19,"1,261",1,0,1.1,0.6,1.1,20000000.0
+Sepp van den Berg,Brentford,Premier League,DF,23-107,23,"1,866",0,0,0.8,0.2,0.8,20000000.0
+Dominic Calvert-Lewin,Everton,Premier League,FW,28-021,22,"1,574",3,1,6.1,0.6,6.1,20000000.0
+Mattia Zaccagni,Lazio,Serie A,FW,29-294,27,"2,147",8,6,6.2,3.8,4.6,20000000.0
+Aleix García,Leverkusen,Bundesliga,MF,27-282,23,"1,235",3,3,0.9,4.7,0.9,20000000.0
+Jesper Lindstrøm,Everton,Premier League,FW,25-036,25,"1,239",0,1,2.1,2.0,2.1,20000000.0
+Filip Jørgensen,Chelsea,Premier League,GK,22-355,6,540,0,0,0.0,0.0,0.0,20000000.0
+Wout Faes,Leicester City,Premier League,DF,27-003,27,"2,185",1,0,1.2,0.1,1.2,20000000.0
+Amadou Haidara,RB Leipzig,Bundesliga,MF,27-065,24,"1,196",0,1,1.1,0.8,1.1,20000000.0
+Konstantinos Koulierakis,Wolfsburg,Bundesliga,DF,21-129,25,"2,018",0,2,0.6,0.9,0.6,20000000.0
+Giovani Lo Celso,Betis,La Liga,"MF,FW",28-362,18,"1,113",7,2,4.1,3.6,1.8,20000000.0
+Óscar Mingueza,Celta Vigo,La Liga,"MF,DF",25-328,26,"2,076",3,6,0.9,4.9,0.9,20000000.0
+José María Giménez,Atlético Madrid,La Liga,DF,30-076,23,"1,639",0,1,0.3,0.2,0.3,20000000.0
+Andriy Lunin,Real Madrid,La Liga,GK,26-054,5,450,0,1,0.0,0.9,0.0,20000000.0
+Malick Thiaw,Milan,Serie A,DF,23-241,21,"1,729",0,0,0.7,0.1,0.7,20000000.0
+Fikayo Tomori,Milan,Serie A,DF,27-108,15,"1,060",0,1,0.1,0.5,0.1,20000000.0
+Jamie Leweling,Stuttgart,Bundesliga,"MF,FW",24-039,22,"1,393",2,2,1.1,3.3,1.1,20000000.0
+Lovro Majer,Wolfsburg,Bundesliga,MF,27-079,4,145,2,0,1.1,0.0,0.4,20000000.0
+Ange-Yoan Bonny,Parma,Serie A,FW,21-163,30,"1,972",6,3,8.7,2.1,6.4,20000000.0
+Miguel Almirón,Newcastle Utd,Premier League,FW,31-055,9,157,0,0,0.5,0.3,0.5,20000000.0
+James Garner,Everton,Premier League,"MF,DF",24-024,14,964,0,1,0.1,1.1,0.1,20000000.0
+Jacob Greaves,Ipswich Town,Premier League,DF,24-206,19,"1,665",1,0,1.2,0.0,1.2,20000000.0
+Matteo Ruggeri,Atalanta,Serie A,DF,22-269,24,"1,527",0,2,0.2,1.7,0.2,20000000.0
+Giacomo Raspadori,Napoli,Serie A,"FW,MF",25-047,18,736,4,0,3.0,1.6,3.0,20000000.0
+Georges Mikautadze,Lyon,Ligue 1,FW,24-157,28,"1,138",8,4,7.9,3.5,5.5,20000000.0
+Julian Ryerson,Dortmund,Bundesliga,DF,27-140,23,"1,797",1,2,0.4,3.5,0.4,20000000.0
+Maximilian Mittelstädt,Stuttgart,Bundesliga,DF,28-019,25,"1,953",1,5,0.6,3.9,0.6,20000000.0
+Guillaume Restes,Toulouse,Ligue 1,GK,20-026,22,"1,913",0,0,0.0,0.0,0.0,20000000.0
+Arnaud Kalimuendo,Rennes,Ligue 1,FW,23-076,26,"2,062",13,1,11.7,1.2,6.5,20000000.0
+Amine Gouiri,Rennes,Ligue 1,"MF,FW",25-049,19,"1,037",3,2,3.5,0.4,3.5,20000000.0
+Tosin Adarabioyo,Chelsea,Premier League,DF,27-194,17,"1,092",1,1,0.9,0.2,0.9,20000000.0
+Ola Aina,Nott'ham Forest,Premier League,DF,28-180,30,"2,569",2,1,0.6,0.7,0.6,20000000.0
+Gustav Isaksen,Lazio,Serie A,FW,23-352,30,"1,829",3,2,3.1,1.8,3.1,20000000.0
+Morten Frendrup,Genoa,Serie A,MF,23-364,30,"2,653",2,0,1.4,0.7,1.4,20000000.0
+Riccardo Orsolini,Bologna,Serie A,FW,28-072,22,"1,374",11,3,7.7,3.2,5.4,20000000.0
+Emanuel Emegha,Strasbourg,Ligue 1,FW,22-062,22,"1,846",12,2,14.2,2.2,14.2,20000000.0
+Angel Gomes,Lille,Ligue 1,MF,24-218,14,736,1,1,1.7,2.1,0.9,20000000.0
+Reiss Nelson,Arsenal,Premier League,FW,25-117,1,3,0,0,0.0,0.0,0.0,18000000.0
+Nadiem Amiri,Mainz 05,Bundesliga,MF,28-161,25,"2,025",6,4,4.4,5.7,2.8,18000000.0
+Nathan Tella,Leverkusen,Bundesliga,"MF,FW",25-275,21,"1,045",2,2,2.6,0.7,2.6,18000000.0
+Mathías Olivera,Napoli,Serie A,DF,27-157,24,"1,682",0,1,0.6,1.3,0.6,18000000.0
+Nicolò Fagioli,Juventus,Serie A,MF,24-053,17,571,0,0,0.6,0.1,0.6,18000000.0
+Strahinja Pavlović,Milan,Serie A,DF,23-317,17,"1,260",1,1,1.2,1.1,1.2,18000000.0
+Ivan Ilić,Torino,Serie A,MF,24-020,13,721,1,0,0.9,0.6,0.9,18000000.0
+Michael Kayode,Fiorentina,Serie A,"DF,FW",20-270,5,127,0,0,0.1,0.2,0.1,18000000.0
+Ander Barrenetxea,Real Sociedad,La Liga,"MF,FW",23-100,23,967,1,2,1.4,1.2,1.4,18000000.0
+Lloyd Kelly,Juventus,Serie A,DF,26-182,6,478,0,0,0.3,0.0,0.3,18000000.0
+Gianluca Mancini,Roma,Serie A,DF,28-354,29,"2,423",1,0,1.3,0.8,1.3,18000000.0
+Tyler Adams,Bournemouth,Premier League,MF,26-051,21,"1,380",0,3,1.2,0.8,1.2,18000000.0
+Kristoffer Ajer,Brentford,Premier League,DF,26-354,17,"1,213",0,0,0.7,1.2,0.7,18000000.0
+Paul Wanner,Heidenheim,Bundesliga,"MF,FW",19-104,25,"1,525",3,1,3.5,1.1,2.7,18000000.0
+Xaver Schlager,RB Leipzig,Bundesliga,MF,27-190,4,181,0,0,0.1,0.7,0.1,18000000.0
+Sacha Boey,Bayern Munich,Bundesliga,DF,24-205,9,419,0,1,0.1,1.0,0.1,18000000.0
+Ferland Mendy,Real Madrid,La Liga,DF,29-302,14,"1,005",0,1,0.0,0.5,0.0,18000000.0
+Taiwo Awoniyi,Nott'ham Forest,Premier League,FW,27-237,23,363,1,0,2.1,0.1,2.1,18000000.0
+Enzo Le Fée,Roma,Serie A,MF,25-062,6,318,0,0,0.2,0.1,0.2,18000000.0
+Jhon Lucumí,Bologna,Serie A,DF,26-284,24,"1,969",0,1,0.5,0.3,0.5,18000000.0
+Beñat Prados,Athletic Club,La Liga,MF,24-057,23,"1,295",1,0,0.9,1.0,0.9,18000000.0
+Jean-Ricner Bellegarde,Wolves,Premier League,"MF,FW",26-283,29,"1,438",2,6,1.3,3.6,1.3,18000000.0
+Ben Chilwell,Crystal Palace,Premier League,DF,28-106,5,111,0,0,0.1,0.2,0.1,18000000.0
+Renato Veiga,Juventus,Serie A,DF,21-251,5,418,0,0,0.5,0.0,0.5,18000000.0
+Chris Führich,Stuttgart,Bundesliga,"MF,FW",27-087,27,"1,551",1,2,2.1,2.6,2.1,18000000.0
+Robin Koch,Eint Frankfurt,Bundesliga,DF,28-263,24,"2,046",1,0,1.1,0.1,1.1,18000000.0
+John McGinn,Aston Villa,Premier League,"MF,FW",30-170,27,"1,885",0,3,2.2,3.2,2.2,18000000.0
+Rodrigo Riquelme,Atlético Madrid,La Liga,"DF,MF",25-004,13,429,0,1,0.7,0.6,0.7,18000000.0
+Kyle Walker-Peters,Southampton,Premier League,DF,27-358,28,"2,468",0,2,0.6,2.6,0.6,18000000.0
+Federico Chiesa,Liverpool,Premier League,FW,27-163,3,28,0,0,0.2,0.0,0.2,18000000.0
+Kelechi Iheanacho,Sevilla,La Liga,FW,28-185,9,400,0,0,1.5,0.3,1.5,18000000.0
+Koni De Winter,Genoa,Serie A,DF,22-298,19,"1,629",3,0,1.7,0.2,1.7,18000000.0
+Michele Di Gregorio,Juventus,Serie A,GK,27-253,25,"2,250",0,0,0.0,0.5,0.0,18000000.0
+Igor Zubeldia,Real Sociedad,La Liga,DF,28-007,24,"2,021",0,0,0.4,0.4,0.4,18000000.0
+Ludovic Blas,Rennes,Ligue 1,"MF,FW",27-096,24,"1,995",6,7,4.7,3.7,4.7,18000000.0
+Dilane Bakwa,Strasbourg,Ligue 1,"MF,FW",22-223,23,"1,918",4,8,3.9,5.1,3.9,18000000.0
+Wilson Odobert,Tottenham,Premier League,FW,20-129,9,416,0,0,0.7,0.1,0.7,18000000.0
+Benjamin Bourigeaud,Rennes,Ligue 1,MF,31-082,1,80,1,0,0.2,0.0,0.2,18000000.0
+Lucas Beltrán,Fiorentina,Serie A,"MF,FW",24-008,27,"1,589",4,4,5.1,2.9,2.7,18000000.0
+Jaka Bijol,Udinese,Serie A,DF,26-060,29,"2,610",1,0,2.0,0.5,2.0,18000000.0
+Waldemar Anton,Dortmund,Bundesliga,DF,28-260,20,"1,409",0,2,0.8,0.8,0.8,18000000.0
+Wilfred Ndidi,Leicester City,Premier League,MF,28-111,21,"1,735",0,4,1.6,1.7,1.6,18000000.0
+Can Uzun,Eint Frankfurt,Bundesliga,"MF,FW",19-146,17,568,4,1,2.7,1.1,2.7,18000000.0
+Konstantinos Mavropanos,West Ham,Premier League,DF,27-116,27,"1,759",0,0,1.2,0.5,1.2,17000000.0
+Nicolás Domínguez,Nott'ham Forest,Premier League,"MF,FW",26-282,27,"1,493",0,0,1.4,1.2,1.4,17000000.0
+Trevoh Chalobah,Chelsea,Premier League,DF,25-275,7,386,0,1,0.2,1.1,0.2,17000000.0
+Harry Wilson,Fulham,Premier League,"FW,MF",28-015,19,839,5,1,3.2,1.0,3.2,17000000.0
+Luis Sinisterra,Bournemouth,Premier League,"FW,MF",25-293,12,236,1,1,1.2,1.4,1.2,17000000.0
+Emmanuel Agbadou,Reims,Ligue 1,DF,27-293,14,"1,260",0,0,0.5,0.3,0.5,17000000.0
+Mile Svilar,Roma,Serie A,GK,25-222,30,"2,700",0,0,0.0,0.0,0.0,17000000.0
+Yasin Ayari,Brighton,Premier League,MF,21-182,27,"1,543",0,1,2.1,2.1,2.1,17000000.0
+Tim Kleindienst,Gladbach,Bundesliga,FW,29-218,25,"2,202",15,5,12.9,5.2,11.2,17000000.0
+Benjamin Henrichs,RB Leipzig,Bundesliga,DF,28-042,15,935,0,2,0.5,1.4,0.4,17000000.0
+Timothy Weah,Juventus,Serie A,"FW,DF",25-043,22,"1,304",5,2,3.4,1.4,3.4,17000000.0
+Diogo Leite,Union Berlin,Bundesliga,DF,26-073,26,"2,213",0,1,1.1,1.0,1.1,17000000.0
+El Bilal Touré,Stuttgart,Bundesliga,"FW,MF",23-185,12,356,2,1,1.6,1.1,1.6,17000000.0
+Alexis Saelemaekers,Milan,Serie A,"DF,FW",25-283,1,90,0,0,0.0,0.1,0.0,17000000.0
+Paul Nebel,Mainz 05,Bundesliga,MF,22-178,26,"1,900",8,3,4.5,2.6,4.5,17000000.0
+Chrislain Matsima,Augsburg,Bundesliga,DF,22-326,24,"2,011",1,0,1.4,0.1,1.4,17000000.0
+Martin Terrier,Leverkusen,Bundesliga,"MF,FW",28-033,15,584,2,1,2.4,0.9,2.4,17000000.0
+Kaishu Sano,Mainz 05,Bundesliga,MF,24-097,28,"2,503",0,0,0.7,0.7,0.7,17000000.0
+Rico Henry,Brentford,Premier League,DF,27-272,1,4,0,0,0.0,0.0,0.0,17000000.0
+Granit Xhaka,Leverkusen,Bundesliga,MF,32-191,28,"2,451",2,7,0.8,4.3,0.8,17000000.0
+Nick Woltemade,Stuttgart,Bundesliga,"FW,MF",23-051,23,"1,257",9,2,7.3,3.5,5.7,17000000.0
+Nicolò Zaniolo,Atalanta,Serie A,"FW,MF",25-278,14,356,2,2,0.9,0.5,0.9,16000000.0
+Ruben Loftus-Cheek,Milan,Serie A,MF,29-073,14,695,0,0,0.5,1.4,0.5,16000000.0
+Jack Harrison,Everton,Premier League,FW,28-137,27,"1,658",1,0,3.1,3.5,3.1,16000000.0
+Billy Gilmour,Brighton,Premier League,MF,23-299,2,98,0,0,0.1,0.0,0.1,16000000.0
+Andrea Pinamonti,Genoa,Serie A,FW,25-322,30,"2,413",8,1,7.1,1.6,6.3,16000000.0
+Nicolas Seiwald,RB Leipzig,Bundesliga,"MF,DF",23-337,24,"1,549",0,0,0.1,1.0,0.1,16000000.0
+Andreas Skov Olsen,Wolfsburg,Bundesliga,"FW,MF",25-098,8,352,0,1,0.4,1.5,0.4,16000000.0
+Aaron Ramsdale,Southampton,Premier League,GK,26-327,22,"1,980",0,0,0.0,0.0,0.0,16000000.0
+Issa Diop,Fulham,Premier League,DF,28-087,21,"1,339",0,0,0.5,0.1,0.5,16000000.0
+Beñat Turrientes,Real Sociedad,La Liga,MF,23-065,17,748,0,0,0.4,0.2,0.4,16000000.0
+Luke Shaw,Manchester Utd,Premier League,DF,29-268,2,70,0,0,0.0,0.0,0.0,16000000.0
+Mathias Jensen,Brentford,Premier League,MF,29-095,16,736,0,1,0.2,1.5,0.2,16000000.0
+Jacob Murphy,Newcastle Utd,Premier League,FW,30-041,26,"1,745",5,9,3.9,6.7,3.9,16000000.0
+Brice Samba,Lens,Ligue 1,GK,30-346,15,"1,350",0,0,0.0,0.0,0.0,15000000.0
+Romano Schmid,Werder Bremen,Bundesliga,MF,25-069,26,"2,314",4,4,3.1,5.1,3.1,15000000.0
+Rocco Reitz,Gladbach,Bundesliga,MF,22-312,21,"1,345",1,1,1.1,1.3,1.1,15000000.0
+Julen Agirrezabala,Athletic Club,La Liga,GK,24-101,14,"1,206",0,0,0.0,0.0,0.0,15000000.0
+Milan Škriniar,Paris S-G,Ligue 1,DF,30-054,5,382,0,0,0.2,0.1,0.2,15000000.0
+Jake O'Brien,Everton,Premier League,DF,23-326,14,"1,031",2,0,0.7,0.6,0.7,15000000.0
+Giovanni Di Lorenzo,Napoli,Serie A,DF,31-245,30,"2,700",3,2,2.6,3.7,2.6,15000000.0
+Boulaye Dia,Lazio,Serie A,"MF,FW",28-141,27,"1,677",7,3,5.0,3.3,5.0,15000000.0
+Thomas Partey,Arsenal,Premier League,"MF,DF",31-297,29,"2,279",3,2,1.8,1.9,1.8,15000000.0
+Nathan Patterson,Everton,Premier League,"DF,FW",23-172,8,203,0,0,0.1,0.3,0.1,15000000.0
+Kalvin Phillips,Ipswich Town,Premier League,MF,29-125,18,"1,214",0,0,0.4,0.2,0.4,15000000.0
+Noah Okafor,Milan,Serie A,FW,24-317,11,414,1,0,1.5,0.3,1.5,15000000.0
+Ismaël Doukouré,Strasbourg,Ligue 1,"DF,MF",21-256,24,"2,048",0,1,0.1,1.0,0.1,15000000.0
+Robert Lewandowski,Barcelona,La Liga,FW,36-228,29,"2,299",25,2,24.0,2.3,20.8,15000000.0
+Philipp Lienhart,Freiburg,Bundesliga,DF,28-269,26,"2,230",1,0,0.5,0.5,0.5,15000000.0
+Lewis Cook,Bournemouth,Premier League,"MF,DF",28-062,30,"2,572",1,3,0.9,4.1,0.9,15000000.0
+Jack Clarke,Ipswich Town,Premier League,"FW,MF",24-134,25,890,0,4,0.9,1.9,0.9,15000000.0
+Tammy Abraham,Milan,Serie A,FW,27-186,25,"1,086",3,3,6.9,2.0,5.3,15000000.0
+Nathaniel Brown,Eint Frankfurt,Bundesliga,"DF,MF",21-294,20,"1,473",3,4,2.2,2.8,2.2,15000000.0
+Aimar Oroz,Osasuna,La Liga,"MF,FW",23-130,28,"2,177",4,1,3.1,1.8,3.1,15000000.0
+Yacine Adli,Fiorentina,Serie A,MF,24-251,22,"1,125",3,4,0.5,2.2,0.5,15000000.0
+Kristjan Asllani,Inter,Serie A,MF,23-028,18,711,0,2,0.8,1.6,0.8,15000000.0
+Timothy Castagne,Fulham,Premier League,DF,29-122,20,"1,432",0,1,0.4,1.2,0.4,15000000.0
+Ilias Akhomach,Villarreal,La Liga,"MF,FW",20-355,11,584,1,0,0.6,1.0,0.6,15000000.0
+Logan Costa,Toulouse,Ligue 1,DF,24-005,1,90,0,0,0.0,0.5,0.0,15000000.0
+Ismaël Bennacer,Milan,Serie A,MF,27-126,6,300,0,0,0.1,0.1,0.1,15000000.0
+Lucas Martínez Quarta,Fiorentina,Serie A,DF,28-331,8,351,1,0,0.7,0.0,0.7,15000000.0
+Maxence Caqueret,Lyon,Ligue 1,MF,25-050,9,573,0,0,0.7,0.4,0.7,15000000.0
+Hákon Arnar Haraldsson,Lille,Ligue 1,"MF,FW",21-361,19,"1,299",4,2,3.2,1.9,3.2,15000000.0
+Carney Chukwuemeka,Dortmund,Bundesliga,MF,21-168,5,138,1,0,0.4,0.6,0.4,15000000.0
+Arsen Zakharyan,Real Sociedad,La Liga,"MF,FW",21-315,3,73,1,0,0.2,0.1,0.2,15000000.0
+Cesare Casadei,Torino,Serie A,MF,22-086,7,485,1,1,0.6,0.2,0.6,15000000.0
+George Ilenikhena,Monaco,Ligue 1,FW,18-233,20,637,3,2,4.8,1.3,4.8,15000000.0
+Thilo Kehrer,Monaco,Ligue 1,DF,28-197,24,"2,115",4,0,1.3,0.3,1.3,15000000.0
+Andreas Christensen,Barcelona,La Liga,DF,28-361,1,27,0,0,0.0,0.0,0.0,15000000.0
+Ángel Correa,Atlético Madrid,La Liga,"FW,MF",30-028,25,694,3,1,4.2,1.2,4.2,15000000.0
+Raheem Sterling,Arsenal,Premier League,"FW,MF",30-119,13,355,0,2,1.3,0.4,1.3,15000000.0
+Kenny Tete,Fulham,Premier League,DF,29-179,15,"1,262",0,2,1.0,0.7,1.0,15000000.0
+Chadi Riad,Crystal Palace,Premier League,DF,21-293,1,90,0,0,0.0,0.0,0.0,15000000.0
+Marc-André ter Stegen,Barcelona,La Liga,GK,32-341,6,494,0,0,0.0,0.0,0.0,15000000.0
+Djed Spence,Tottenham,Premier League,DF,24-240,17,"1,154",1,1,0.3,1.5,0.3,15000000.0
+Eric García,Barcelona,La Liga,"MF,DF",24-087,21,"1,051",1,1,1.6,0.4,1.6,15000000.0
+Bryan Gil,Girona,La Liga,"FW,MF",24-054,25,"1,721",3,3,2.3,2.9,2.3,15000000.0
+Terem Moffi,Nice,Ligue 1,FW,25-316,2,28,0,0,0.4,0.0,0.4,15000000.0
+Marshall Munetsi,Reims,Ligue 1,MF,28-288,19,"1,692",4,2,4.0,2.0,4.0,15000000.0
+Mohammed Salisu,Monaco,Ligue 1,DF,25-354,14,"1,021",1,0,0.8,0.1,0.8,15000000.0
+Ernest Nuamah,Lyon,Ligue 1,"FW,MF",21-156,23,"1,052",3,1,2.2,1.5,2.2,15000000.0
+Sebastian Nanasi,Strasbourg,Ligue 1,"FW,MF",22-325,25,"1,838",5,3,5.4,3.2,5.4,15000000.0
+Takumi Minamino,Monaco,Ligue 1,"MF,FW",30-080,25,"1,790",4,3,7.3,5.9,7.3,15000000.0
+Harry Maguire,Manchester Utd,Premier League,DF,32-032,21,"1,361",1,0,1.4,0.3,1.4,15000000.0
+Robert Andrich,Leverkusen,Bundesliga,"MF,DF",30-196,20,"1,398",2,2,1.3,0.3,1.3,15000000.0
+Antonín Kinský,Tottenham,Premier League,GK,22-024,4,360,0,0,0.0,0.1,0.0,15000000.0
+James Justin,Leicester City,Premier League,DF,27-042,28,"2,363",2,1,1.5,0.5,1.5,15000000.0
+Jeanuël Belocian,Leverkusen,Bundesliga,"DF,MF",20-048,5,68,0,0,0.0,0.0,0.0,15000000.0
+Christoph Baumgartner,RB Leipzig,Bundesliga,"MF,FW",25-248,26,"1,355",2,1,3.4,1.3,3.4,15000000.0
+Flynn Downes,Southampton,Premier League,MF,26-076,21,"1,611",1,0,0.6,0.9,0.6,15000000.0
+Patrick Wimmer,Wolfsburg,Bundesliga,"MF,FW",23-311,22,"1,254",3,4,3.1,2.5,3.1,15000000.0
+Adrien Truffert,Rennes,Ligue 1,"DF,MF",23-137,26,"2,122",1,0,2.1,1.7,2.0,15000000.0
+Daichi Kamada,Crystal Palace,Premier League,MF,28-244,26,"1,108",0,0,0.8,1.1,0.8,15000000.0
+Dean Henderson,Crystal Palace,Premier League,GK,28-025,30,"2,700",0,0,0.0,0.1,0.0,15000000.0
+Mads Hermansen,Leicester City,Premier League,GK,24-269,23,"2,025",0,0,0.0,0.0,0.0,15000000.0
+Rodrigo Gomes,Wolves,Premier League,"DF,FW",21-273,18,595,1,0,0.4,0.8,0.4,15000000.0
+Mateus Fernandes,Southampton,Premier League,MF,20-270,28,"2,231",1,3,3.3,2.1,3.3,15000000.0
+Tiago Santos,Lille,Ligue 1,DF,22-257,7,404,0,0,0.4,0.6,0.4,15000000.0
+Mamadou Sarr,Strasbourg,Ligue 1,DF,19-220,21,"1,847",0,1,0.6,0.3,0.6,15000000.0
+Mikey Moore,Tottenham,Premier League,"FW,MF",17-238,7,185,0,1,0.2,0.3,0.2,15000000.0
+Jonas Wind,Wolfsburg,Bundesliga,"FW,MF",26-058,25,"1,525",8,3,4.8,3.5,3.1,15000000.0
+Noah Atubolu,Freiburg,Bundesliga,GK,22-316,24,"2,127",0,0,0.0,0.0,0.0,15000000.0
+Piotr Zieliński,Inter,Serie A,MF,30-321,22,840,2,2,2.5,0.9,0.9,14000000.0
+Nikola Krstović,Lecce,Serie A,FW,25-001,30,"2,507",10,3,10.5,2.6,8.2,14000000.0
+Boubakary Soumaré,Leicester City,Premier League,MF,26-038,23,"1,638",0,0,0.2,0.4,0.2,14000000.0
+Carlos Alcaraz,Southampton,Premier League,MF,22-127,1,10,0,0,0.1,0.1,0.1,14000000.0
+Zion Suzuki,Parma,Serie A,GK,22-228,30,"2,684",0,0,0.0,0.0,0.0,14000000.0
+Oumar Solet,Udinese,Serie A,DF,25-058,12,"1,042",1,1,0.7,0.5,0.7,14000000.0
+Nicolò Savona,Juventus,Serie A,DF,22-018,22,"1,405",2,1,0.5,1.2,0.5,14000000.0
+Samuel Chukwueze,Milan,Serie A,"FW,MF",25-319,23,846,3,0,2.5,2.3,2.5,14000000.0
+Dara O'Shea,Ipswich Town,Premier League,DF,26-033,28,"2,492",0,2,1.1,0.5,1.1,14000000.0
+Cameron Archer,Southampton,Premier League,FW,23-259,27,"1,182",2,0,4.9,0.3,4.1,14000000.0
+Samuel Mbangula,Juventus,Serie A,FW,21-080,21,704,3,3,0.5,1.4,0.5,14000000.0
+Victor Nelsson,Roma,Serie A,DF,26-174,3,168,0,0,0.0,0.0,0.0,14000000.0
+Fabio Miretti,Genoa,Serie A,"MF,FW",21-246,24,"1,598",3,3,3.1,2.0,3.1,14000000.0
+Matteo Gabbia,Milan,Serie A,DF,25-167,19,"1,529",1,0,0.8,0.2,0.8,14000000.0
+Anton Stach,Hoffenheim,Bundesliga,"MF,DF",26-142,24,"2,054",1,1,1.3,1.4,1.3,14000000.0
+Lorenzo Pellegrini,Roma,Serie A,MF,28-291,22,"1,456",2,1,4.5,2.1,3.7,14000000.0
+Thierno Barry,Villarreal,La Liga,FW,22-167,27,"1,696",9,3,9.7,2.2,8.9,14000000.0
+Tommaso Baldanzi,Roma,Serie A,"MF,FW",22-014,23,684,1,1,1.3,0.9,1.3,14000000.0
+Kamil Grabara,Wolfsburg,Bundesliga,GK,26-088,22,"1,955",0,0,0.0,0.0,0.0,14000000.0
+Adam Armstrong,Southampton,Premier League,"FW,MF",28-055,20,"1,248",2,2,3.3,1.2,2.3,14000000.0
+Ryan Yates,Nott'ham Forest,Premier League,MF,27-136,28,"1,726",2,1,2.2,1.1,2.2,13000000.0
+Danilho Doekhi,Union Berlin,Bundesliga,DF,26-280,27,"2,430",1,0,2.5,1.0,2.5,13000000.0
+Armando Broja,Everton,Premier League,FW,23-208,8,209,0,0,0.1,0.1,0.1,13000000.0
+Ramón Sosa,Nott'ham Forest,Premier League,"FW,MF",25-218,16,263,1,0,0.9,0.5,0.9,13000000.0
+Enes Ünal,Bournemouth,Premier League,"FW,MF",27-331,17,345,2,1,2.7,0.4,2.7,13000000.0
+Kamaldeen Sulemana,Southampton,Premier League,"FW,MF",23-050,18,822,1,0,0.9,0.4,0.9,13000000.0
+Nehuén Pérez,Udinese,Serie A,DF,24-286,2,180,0,0,0.0,0.0,0.0,13000000.0
+Diego Gómez,Brighton,Premier League,MF,22-010,9,396,0,0,0.3,0.5,0.3,13000000.0
+Daniel Podence,Wolves,Premier League,"MF,FW",29-167,2,48,0,0,0.0,0.0,0.0,13000000.0
+Álvaro Morata,Milan,Serie A,"FW,MF",32-165,16,"1,099",5,0,3.9,0.8,3.9,13000000.0
+Giovanni Fabbian,Bologna,Serie A,MF,22-082,24,878,3,1,2.1,1.1,2.1,13000000.0
+Gonçalo Guedes,Wolves,Premier League,"MF,FW",28-128,24,770,2,4,2.2,1.1,2.2,13000000.0
+Samuel Iling-Junior,Bologna,Serie A,"FW,MF",21-184,7,118,1,0,0.1,0.1,0.1,13000000.0
+Dennis Man,Parma,Serie A,"FW,MF",26-223,29,"1,945",4,4,4.3,4.2,4.3,12500000.0
+Alessio Romagnoli,Lazio,Serie A,DF,30-084,25,"2,043",1,0,1.8,0.2,1.8,12000000.0
+Atakan Karazor,Stuttgart,Bundesliga,MF,28-175,26,"2,090",1,4,1.2,2.2,1.2,12000000.0
+Abde Ezzalzouli,Betis,La Liga,"FW,MF",23-110,25,"1,613",1,1,7.2,1.7,6.4,12000000.0
+Jordan Teze,Monaco,Ligue 1,DF,25-188,12,377,1,0,1.2,1.0,1.2,12000000.0
+Franck Honorat,Gladbach,Bundesliga,FW,28-238,13,"1,047",2,4,3.4,4.1,3.4,12000000.0
+Gorka Guruzeta,Athletic Club,La Liga,FW,28-206,28,"1,387",6,2,4.6,0.8,4.5,12000000.0
+Abakar Sylla,Strasbourg,Ligue 1,DF,22-102,17,831,1,0,0.4,0.0,0.4,12000000.0
+Josha Vagnoman,Stuttgart,Bundesliga,"DF,MF",24-116,23,"1,702",1,1,1.4,1.5,1.4,12000000.0
+Alex Meret,Napoli,Serie A,GK,28-015,27,"2,375",0,0,0.0,0.0,0.0,12000000.0
+Tiago Tomás,Wolfsburg,Bundesliga,"FW,MF",22-294,26,"1,749",6,1,5.3,2.4,5.3,12000000.0
+Jens Odgaard,Bologna,Serie A,"MF,FW",26-006,25,"1,638",6,0,3.5,1.5,3.5,12000000.0
+Kirian Rodríguez,Las Palmas,La Liga,MF,29-032,21,"1,758",0,3,1.6,1.5,1.6,12000000.0
+Tijjani Noslin,Lazio,Serie A,"FW,MF",25-273,25,791,2,2,1.7,1.4,1.7,12000000.0
+Max Aarons,Bournemouth,Premier League,DF,25-092,3,86,0,0,0.0,0.0,0.0,12000000.0
+Yarek Gasiorowski,Valencia,La Liga,DF,20-084,14,940,0,0,1.1,0.1,1.1,12000000.0
+Moses Simon,Nantes,Ligue 1,"FW,MF",29-268,26,"2,099",7,9,4.9,6.0,2.6,12000000.0
+Osame Sahraoui,Lille,Ligue 1,"FW,MF",23-299,24,"1,162",3,3,2.8,3.2,2.8,12000000.0
+Devyne Rensch,Roma,Serie A,DF,22-078,7,348,0,1,0.1,0.8,0.1,12000000.0
+Vanja Milinković-Savić,Torino,Serie A,GK,28-045,29,"2,610",0,0,0.0,0.1,0.0,12000000.0
+Luca Ranieri,Fiorentina,Serie A,DF,25-348,30,"2,572",1,2,0.9,1.5,0.9,12000000.0
+Niccolò Pisilli,Roma,Serie A,MF,20-195,23,"1,115",2,1,2.1,0.7,2.1,12000000.0
+Mattias Svanberg,Wolfsburg,Bundesliga,MF,26-091,19,"1,197",3,1,3.6,1.7,3.6,12000000.0
+Jens Stage,Werder Bremen,Bundesliga,MF,28-149,22,"1,720",7,5,5.5,2.5,5.5,12000000.0
+Philip Billing,Napoli,Serie A,MF,28-299,4,104,1,0,0.8,0.1,0.8,12000000.0
+Alexander Nübel,Stuttgart,Bundesliga,GK,28-188,28,"2,520",0,1,0.0,0.4,0.0,12000000.0
+Merlin Röhl,Freiburg,Bundesliga,"MF,FW",22-275,16,912,0,1,0.8,1.6,0.8,12000000.0
+Romain Esse,Crystal Palace,Premier League,MF,19-328,2,8,1,0,0.3,0.0,0.3,12000000.0
+Arne Engels,Augsburg,Bundesliga,"MF,FW",21-210,1,79,0,0,0.4,0.0,0.4,12000000.0
+Johan Vásquez,Genoa,Serie A,DF,26-166,30,"2,557",2,0,2.2,0.3,2.2,12000000.0
+Youssouf Ndayishimiye,Nice,Ligue 1,DF,26-161,20,"1,662",1,0,0.5,0.1,0.5,12000000.0
+Juanlu Sánchez,Sevilla,La Liga,"MF,DF",21-234,24,"1,236",4,3,1.8,1.2,1.8,12000000.0
+Oliver Skipp,Leicester City,Premier League,MF,24-202,17,824,0,0,0.1,0.2,0.1,12000000.0
+Sammie Szmodics,Ipswich Town,Premier League,"FW,MF",29-194,19,979,4,0,3.4,0.2,3.4,12000000.0
+Yukinari Sugawara,Southampton,Premier League,"DF,MF",24-282,27,"1,440",1,1,0.4,2.2,0.4,12000000.0
+Adam Webster,Brighton,Premier League,DF,30-092,11,617,0,0,0.0,0.5,0.0,12000000.0
+Chris Richards,Crystal Palace,Premier League,DF,25-009,17,"1,338",0,0,0.5,0.1,0.5,12000000.0
+Jens Cajuste,Ipswich Town,Premier League,MF,25-239,24,"1,604",1,0,0.4,0.6,0.4,12000000.0
+Bryan Zaragoza,Osasuna,La Liga,"FW,MF",23-346,21,"1,434",1,5,2.2,2.6,2.2,12000000.0
+David Brooks,Bournemouth,Premier League,"FW,MF",27-272,24,793,2,0,2.2,1.7,2.2,12000000.0
+Zakaria Aboukhlal,Toulouse,Ligue 1,"MF,FW",25-047,23,"1,827",7,2,10.1,1.5,8.5,12000000.0
+Matthis Abline,Nantes,Ligue 1,FW,22-009,28,"2,248",8,2,7.6,3.1,6.8,12000000.0
+Melvin Bard,Nice,Ligue 1,"DF,MF",24-151,18,"1,398",1,0,1.7,1.4,1.7,12000000.0
+Quentin Merlin,Marseille,Ligue 1,DF,22-325,20,"1,279",1,3,1.3,2.7,1.3,12000000.0
+Niclas Füllkrug,West Ham,Premier League,FW,32-056,11,452,3,1,1.7,1.5,1.7,12000000.0
+Guido Rodríguez,West Ham,Premier League,MF,30-359,20,"1,018",0,0,0.2,0.1,0.2,12000000.0
+Albert Grønbaek,Southampton,Premier League,"FW,MF",23-318,4,143,0,0,0.1,0.0,0.1,12000000.0
+Caleb Okoli,Leicester City,Premier League,DF,23-267,17,"1,034",0,0,0.1,0.0,0.1,12000000.0
+Christian Nørgaard,Brentford,Premier League,MF,31-027,26,"2,100",4,2,3.2,0.8,3.2,12000000.0
+Ryan Christie,Bournemouth,Premier League,MF,30-043,29,"2,117",2,3,1.8,3.5,1.8,12000000.0
+El Chadaille Bitshiabu,RB Leipzig,Bundesliga,DF,19-325,16,721,0,0,0.3,0.4,0.3,12000000.0
+Eren Dinkçi,Freiburg,Bundesliga,"MF,FW",23-114,23,"1,196",0,3,1.1,2.2,1.1,12000000.0
+Andrea Colpani,Fiorentina,Serie A,"FW,MF",25-330,22,"1,414",2,1,2.7,1.3,2.7,12000000.0
+Saúl Coco,Torino,Serie A,DF,26-056,28,"2,520",2,0,1.1,0.0,1.1,12000000.0
+Alexis Claude-Maurice,Augsburg,Bundesliga,"MF,FW",26-304,22,"1,642",9,1,3.4,1.0,3.4,12000000.0
+Jefferson Lerma,Crystal Palace,Premier League,"MF,DF",30-163,25,"1,721",0,1,0.9,1.5,0.9,12000000.0
+Tariq Lamptey,Brighton,Premier League,DF,24-188,13,765,2,2,0.4,0.8,0.4,12000000.0
+Thijs Dallinga,Bologna,Serie A,"FW,MF",24-246,24,635,2,0,3.4,0.4,3.4,12000000.0
+Patson Daka,Leicester City,Premier League,"FW,MF",26-179,17,542,1,0,0.8,0.0,0.8,12000000.0
+Lucas Digne,Aston Villa,Premier League,DF,31-260,29,"2,151",0,4,0.8,4.1,0.8,12000000.0
+Álex Berenguer,Athletic Club,La Liga,"FW,MF",29-276,28,"1,756",5,7,6.0,4.4,5.2,12000000.0
+Jon Aramburu,Real Sociedad,La Liga,DF,22-257,26,"1,936",0,1,0.4,0.9,0.4,12000000.0
+Tyrell Malacia,Manchester Utd,Premier League,DF,25-232,3,100,0,0,0.0,0.0,0.0,12000000.0
+Soungoutou Magassa,Monaco,Ligue 1,MF,21-180,16,883,0,1,0.5,0.8,0.5,12000000.0
+Christian Mawissa,Monaco,Ligue 1,DF,19-353,18,"1,226",0,0,0.1,0.0,0.1,12000000.0
+Breel Embolo,Monaco,Ligue 1,"FW,MF",28-051,24,"1,434",5,4,9.5,4.5,9.5,12000000.0
+Sofiane Diop,Nice,Ligue 1,"MF,FW",24-301,23,952,6,3,5.9,1.8,5.9,12000000.0
+Kyogo Furuhashi,Rennes,Ligue 1,FW,30-076,5,115,0,0,0.1,0.0,0.1,12000000.0
+Seko Fofana,Rennes,Ligue 1,MF,29-334,10,503,1,1,0.7,0.7,0.7,12000000.0
+Amir Rrahmani,Napoli,Serie A,DF,31-041,30,"2,686",1,2,2.5,0.6,2.5,12000000.0
+Finn Jeltsch,Stuttgart,Bundesliga,DF,18-263,6,380,0,0,0.0,0.1,0.0,12000000.0
+Ko Itakura,Gladbach,Bundesliga,DF,28-069,25,"2,250",1,0,0.8,0.8,0.8,12000000.0
+Bernd Leno,Fulham,Premier League,GK,33-033,30,"2,700",0,1,0.0,0.1,0.0,11000000.0
+Jan Bednarek,Southampton,Premier League,DF,28-359,24,"1,991",2,0,0.7,0.5,0.7,11000000.0
+Stephy Mavididi,Leicester City,Premier League,FW,26-310,27,"1,397",3,1,1.6,2.4,1.6,11000000.0
+Callum Wilson,Newcastle Utd,Premier League,FW,33-038,9,188,0,0,0.3,0.1,0.3,11000000.0
+Mandela Keita,Parma,Serie A,MF,22-331,23,"1,279",0,2,0.1,1.0,0.1,11000000.0
+Juan Miranda,Bologna,Serie A,DF,25-077,25,"1,764",0,6,0.4,4.9,0.4,11000000.0
+Wilfried Zaha,Lyon,Ligue 1,FW,32-147,4,73,0,0,0.1,0.0,0.1,11000000.0
+Roland Sallai,Freiburg,Bundesliga,"FW,MF",27-319,2,46,0,0,0.1,0.1,0.1,11000000.0
+Álex Moreno,Nott'ham Forest,Premier League,"DF,MF",31-302,14,865,0,1,0.2,1.0,0.2,11000000.0
+Kepa Arrizabalaga,Bournemouth,Premier League,GK,30-185,24,"2,160",0,0,0.1,0.0,0.1,11000000.0
+Warren Bondo,Milan,Serie A,MF,21-203,4,162,0,0,0.0,0.1,0.0,10000000.0
+Nordi Mukiele,Leverkusen,Bundesliga,DF,27-156,15,899,1,0,1.4,1.0,1.4,10000000.0
+Pau López,Girona,La Liga,GK,30-114,1,45,0,0,0.0,0.0,0.0,10000000.0
+Diego López,Valencia,La Liga,"MF,FW",22-328,30,"2,165",7,4,5.3,3.9,5.3,10000000.0
+Stefan Posch,Atalanta,Serie A,DF,27-327,4,342,0,0,0.2,0.0,0.2,10000000.0
+Gift Orban,Hoffenheim,Bundesliga,FW,22-263,12,657,4,0,3.4,0.0,3.4,10000000.0
+Robin Hack,Gladbach,Bundesliga,FW,26-222,26,"1,685",4,5,4.0,2.8,4.0,10000000.0
+Raphaël Guerreiro,Bayern Munich,Bundesliga,"DF,MF",31-105,19,"1,303",3,2,2.2,2.5,2.2,10000000.0
+Mario Hermoso,Leverkusen,Bundesliga,DF,29-292,4,293,0,0,0.4,0.2,0.4,10000000.0
+Tom Rothe,Union Berlin,Bundesliga,"DF,MF",20-159,20,"1,239",2,2,1.6,1.3,1.6,10000000.0
+Marcel Sabitzer,Dortmund,Bundesliga,"MF,FW",31-020,23,"1,472",0,0,1.6,1.1,1.6,10000000.0
+Anthony Rouault,Stuttgart,Bundesliga,DF,23-312,18,"1,212",1,0,0.5,0.3,0.5,10000000.0
+Kiliann Sildillia,Freiburg,Bundesliga,DF,22-325,16,760,2,0,0.5,0.5,0.5,10000000.0
+Joe Scally,Gladbach,Bundesliga,DF,22-096,25,"2,080",0,0,0.4,1.0,0.4,10000000.0
+Corentin Tolisso,Lyon,Ligue 1,MF,30-246,27,"2,047",6,3,5.0,4.8,5.0,10000000.0
+Reda Belahyane,Lazio,Serie A,MF,20-309,3,91,0,0,0.0,0.0,0.0,10000000.0
+Abdallah Sima,Brest,Ligue 1,"FW,MF",23-293,21,976,4,2,4.4,0.9,4.4,10000000.0
+Gonzalo Montiel,Sevilla,La Liga,"DF,MF",28-095,6,113,0,0,0.0,0.0,0.0,10000000.0
+Iván Martín,Girona,La Liga,MF,26-051,24,"1,664",1,1,1.0,1.8,1.0,10000000.0
+Arouna Sangante,Le Havre,Ligue 1,DF,22-359,11,853,2,0,0.5,0.1,0.5,10000000.0
+Ayoze Pérez,Villarreal,La Liga,FW,31-251,21,"1,347",12,1,8.7,2.2,8.7,10000000.0
+Iñaki Peña,Barcelona,La Liga,GK,26-035,15,"1,306",0,0,0.0,0.0,0.0,10000000.0
+Pape Gueye,Villarreal,La Liga,MF,26-072,25,"1,760",2,0,2.4,0.9,2.4,10000000.0
+Omar El Hilali,Espanyol,La Liga,DF,21-206,28,"2,468",0,2,0.0,0.7,0.0,10000000.0
+Michel Aebischer,Bologna,Serie A,MF,28-090,9,427,0,0,0.3,0.3,0.3,10000000.0
+Nabil Fekir,Betis,La Liga,MF,31-262,2,180,0,1,0.7,0.5,0.7,10000000.0
+Juan Foyth,Villarreal,La Liga,DF,27-084,11,812,1,0,1.4,0.3,1.4,10000000.0
+Hugo Duro,Valencia,La Liga,FW,25-147,23,"1,713",8,2,6.6,1.2,6.6,10000000.0
+Héctor Fort,Barcelona,La Liga,DF,18-247,12,375,0,0,0.1,0.7,0.1,10000000.0
+Marin Pongračić,Fiorentina,Serie A,DF,27-207,13,900,0,0,0.1,0.3,0.1,10000000.0
+Francesco Camarda,Milan,Serie A,"FW,MF",17-027,9,161,0,0,0.4,0.4,0.4,10000000.0
+Matteo Politano,Napoli,Serie A,"FW,MF",31-246,29,"2,147",3,2,2.6,3.7,2.6,10000000.0
+Tommaso Pobega,Bologna,Serie A,MF,25-265,16,927,2,2,1.7,1.3,1.6,10000000.0
+Daniel Maldini,Atalanta,Serie A,"FW,MF",23-177,3,84,0,0,0.1,0.0,0.1,10000000.0
+Isaac Romero,Sevilla,La Liga,FW,24-323,25,"1,927",3,2,5.2,2.0,4.4,10000000.0
+Javi Rodríguez,Celta Vigo,La Liga,DF,21-284,28,"1,942",2,2,1.6,0.9,1.6,10000000.0
+Cyril Ngonge,Napoli,Serie A,"FW,DF",24-315,12,180,0,0,0.7,0.4,0.7,10000000.0
+Rolando Mandragora,Fiorentina,Serie A,MF,27-281,22,"1,332",2,2,1.6,2.0,0.8,10000000.0
+Andrew Omobamidele,Strasbourg,Ligue 1,DF,22-287,4,241,0,0,0.0,0.0,0.0,10000000.0
+Lucas Perri,Lyon,Ligue 1,GK,27-117,28,"2,520",0,0,0.0,0.0,0.0,10000000.0
+Chris Wood,Nott'ham Forest,Premier League,FW,33-120,29,"2,344",18,3,11.0,1.9,8.7,10000000.0
+James Ward-Prowse,Nott'ham Forest,Premier League,MF,30-156,9,400,0,1,0.1,1.1,0.1,10000000.0
+Harry Winks,Leicester City,Premier League,MF,29-063,22,"1,538",0,2,0.2,1.2,0.2,10000000.0
+Timo Werner,Tottenham,Premier League,"FW,MF",29-031,18,516,0,3,1.0,2.5,1.0,10000000.0
+Marco Friedl,Werder Bremen,Bundesliga,DF,27-021,20,"1,621",0,0,0.1,0.2,0.1,10000000.0
+Maximilian Eggestein,Freiburg,Bundesliga,MF,28-119,27,"2,305",1,0,1.5,1.3,1.5,10000000.0
+Nicola Zalewski,Roma,Serie A,"DF,FW",23-073,12,533,0,0,0.3,0.8,0.3,10000000.0
+Wataru Endo,Liverpool,Premier League,MF,32-056,15,148,0,0,0.0,0.0,0.0,10000000.0
+Keito Nakamura,Reims,Ligue 1,FW,24-252,26,"2,122",9,2,6.7,2.1,6.7,10000000.0
+Ismaël Koné,Marseille,Ligue 1,"MF,FW",22-304,8,360,0,0,0.3,0.4,0.3,10000000.0
+Nélson Semedo,Wolves,Premier League,DF,31-141,27,"2,325",0,4,0.7,2.6,0.7,10000000.0
+Adama Traoré,Fulham,Premier League,"FW,MF",29-071,28,"1,473",2,5,3.8,4.1,3.8,10000000.0
+Kieran Tierney,Arsenal,Premier League,"DF,FW",27-305,7,97,0,0,0.2,0.8,0.2,10000000.0
+James Tarkowski,Everton,Premier League,DF,32-138,31,"2,781",1,1,1.1,2.2,1.1,10000000.0
+Diego Conde,Villarreal,La Liga,GK,26-160,21,"1,872",0,1,0.0,0.2,0.0,10000000.0
+Dani Ceballos,Real Madrid,La Liga,MF,28-242,15,832,0,0,0.3,1.4,0.3,10000000.0
+Mathis Amougou,Saint-Étienne,Ligue 1,MF,19-078,17,859,0,0,0.5,0.4,0.5,10000000.0
+Neil El Aynaoui,Lens,Ligue 1,MF,23-278,18,"1,087",4,1,2.6,1.2,1.0,10000000.0
+Lilian Brassier,Marseille,Ligue 1,DF,25-155,12,779,0,0,0.2,0.0,0.2,10000000.0
+Hicham Boudaoui,Nice,Ligue 1,MF,25-195,23,"1,915",2,2,2.5,2.1,2.5,10000000.0
+Moïse Bombito,Nice,Ligue 1,DF,25-007,23,"1,862",0,0,0.7,0.2,0.7,10000000.0
+Mahdi Camara,Brest,Ligue 1,"MF,FW",26-280,28,"2,149",5,2,3.2,1.8,3.2,10000000.0
+Krépin Diatta,Monaco,Ligue 1,DF,26-040,14,399,0,0,0.2,0.8,0.2,10000000.0
+Zuriko Davitashvili,Saint-Étienne,Ligue 1,"FW,MF",24-050,25,"2,089",7,5,5.9,3.4,4.3,10000000.0
+Youssoufa Moukoko,Nice,Ligue 1,"FW,MF",20-137,11,204,2,1,2.2,0.8,2.2,10000000.0
+Gabriel Moscardo,Reims,Ligue 1,MF,19-190,3,32,0,0,0.0,0.0,0.0,10000000.0
+Diego Moreira,Strasbourg,Ligue 1,"DF,MF",20-243,26,"2,103",1,6,1.9,6.2,1.9,10000000.0
+Mark Flekken,Brentford,Premier League,GK,31-297,29,"2,555",0,1,0.0,0.2,0.0,10000000.0
+Loum Tchaouna,Lazio,Serie A,"FW,MF",21-210,22,595,1,0,2.4,0.6,2.4,10000000.0
+Nick Pope,Newcastle Utd,Premier League,GK,32-352,19,"1,710",0,0,0.0,0.0,0.0,10000000.0
+Tim Iroegbunam,Everton,Premier League,MF,21-280,15,554,0,1,0.2,0.2,0.2,10000000.0
+Nnamdi Collins,Eint Frankfurt,Bundesliga,DF,21-086,19,"1,237",1,1,0.8,1.0,0.8,10000000.0
+Anthony Caci,Mainz 05,Bundesliga,DF,27-279,27,"2,238",1,7,2.8,5.4,2.8,10000000.0
+Sebastiano Esposito,Empoli,Serie A,"MF,FW",22-278,26,"1,745",8,0,5.2,1.8,3.7,10000000.0
+Saša Lukić,Fulham,Premier League,MF,28-236,23,"1,804",0,2,0.8,2.6,0.8,10000000.0
+Victor Lindelöf,Manchester Utd,Premier League,DF,30-263,8,244,0,0,0.0,0.1,0.0,10000000.0
+Sergio Arribas,Betis,La Liga,DF,22-055,1,90,0,0,0.0,0.0,0.0,10000000.0
+Jakub Moder,Brighton,Premier League,MF,25-364,4,11,0,0,0.0,0.2,0.0,10000000.0
+Ainsley Maitland-Niles,Lyon,Ligue 1,DF,27-220,26,"1,575",1,3,2.1,2.8,2.1,10000000.0
+Senny Mayulu,Paris S-G,Ligue 1,MF,18-324,14,474,1,0,2.1,0.7,2.1,10000000.0
+Nasser Djiga,Wolves,Premier League,DF,22-142,3,20,0,0,0.0,0.0,0.0,10000000.0
+Tommy Doyle,Wolves,Premier League,MF,23-171,24,488,0,1,0.6,0.5,0.6,10000000.0
+Neal Maupay,Marseille,Ligue 1,FW,28-235,20,979,4,4,3.7,2.2,3.7,10000000.0
+Azor Matusiwa,Rennes,Ligue 1,MF,26-343,22,"1,614",0,0,0.2,0.8,0.2,10000000.0
+Sergi Altimira,Betis,La Liga,MF,23-224,26,"1,647",0,1,1.6,1.5,1.5,10000000.0
+Andy Diouf,Lens,Ligue 1,MF,21-324,27,"1,690",1,1,1.9,1.8,1.9,10000000.0
+David Alaba,Real Madrid,La Liga,DF,32-286,6,272,0,0,0.0,0.1,0.0,10000000.0
+Amine Harit,Marseille,Ligue 1,MF,27-292,9,472,2,3,0.7,1.3,0.7,10000000.0
+Ansgar Knauff,Eint Frankfurt,Bundesliga,"MF,DF",23-086,25,"1,239",1,5,2.5,4.7,2.5,10000000.0
+Alphonse Areola,West Ham,Premier League,GK,32-038,20,"1,720",0,0,0.0,0.0,0.0,10000000.0
+Rasmus Kristensen,Eint Frankfurt,Bundesliga,DF,27-269,25,"2,093",2,2,1.1,2.4,1.1,10000000.0
+Ellyes Skhiri,Eint Frankfurt,Bundesliga,MF,29-331,24,"1,721",0,2,0.8,1.2,0.8,9000000.0
+Will Hughes,Crystal Palace,Premier League,MF,29-354,25,"1,650",0,3,0.9,2.5,0.9,9000000.0
+Máximo Perrone,Como,Serie A,MF,22-089,20,"1,364",0,2,0.8,1.5,0.8,9000000.0
+Bence Dárdai,Wolfsburg,Bundesliga,MF,19-072,16,946,1,1,0.6,1.0,0.6,9000000.0
+Yehvann Diouf,Reims,Ligue 1,GK,25-141,27,"2,430",0,0,0.1,0.0,0.1,9000000.0
+Bazoumana Touré,Hoffenheim,Bundesliga,"FW,DF",19-035,7,212,0,1,0.8,0.4,0.8,9000000.0
+Borja Mayoral,Getafe,La Liga,FW,28-001,15,605,4,1,2.9,0.4,2.1,9000000.0
+Aster Vranckx,Wolfsburg,Bundesliga,MF,22-184,11,337,0,0,0.0,0.0,0.0,9000000.0
+Lucas Ocampos,Sevilla,La Liga,FW,30-269,2,175,0,1,0.2,0.3,0.2,9000000.0
+Senne Lynen,Werder Bremen,Bundesliga,MF,26-046,26,"2,211",0,0,0.8,0.5,0.8,9000000.0
+Alidu Seidu,Rennes,Ligue 1,DF,24-306,11,803,0,0,0.1,0.3,0.1,9000000.0
+Fabian Schär,Newcastle Utd,Premier League,DF,33-107,25,"2,142",2,0,1.6,0.3,1.6,9000000.0
+Soumaïla Coulibaly,Brest,Ligue 1,DF,21-174,7,438,0,0,0.2,0.1,0.2,9000000.0
+Stefan Bajcetic,Las Palmas,La Liga,"MF,DF",20-166,8,498,1,0,0.2,0.2,0.2,9000000.0
+Lorenz Assignon,Rennes,Ligue 1,"DF,MF",24-288,25,"1,821",2,4,1.1,3.3,1.1,9000000.0
+Ryan Sessegnon,Fulham,Premier League,"DF,MF",24-323,8,110,2,1,0.7,0.5,0.7,9000000.0
+Gabriel Gudmundsson,Lille,Ligue 1,DF,25-342,26,"1,661",2,0,0.7,1.1,0.7,9000000.0
+Matteo Pessina,Monza,Serie A,MF,27-350,11,854,0,0,0.2,0.1,0.2,9000000.0
+Jonathan Bamba,Celta Vigo,La Liga,"FW,MF",29-011,12,811,0,1,0.8,1.8,0.8,9000000.0
+Amir Richardson,Fiorentina,Serie A,MF,23-072,20,727,0,0,0.4,0.2,0.4,9000000.0
+Albert Sambi Lokonga,Sevilla,La Liga,MF,25-166,18,"1,267",0,2,0.4,0.7,0.4,9000000.0
+Stefan Ortega,Manchester City,Premier League,GK,32-151,10,900,0,0,0.0,0.0,0.0,9000000.0
+Valentin Rongier,Marseille,Ligue 1,"MF,DF",30-120,19,"1,117",3,1,0.9,1.1,0.9,9000000.0
+Ben Johnson,Ipswich Town,Premier League,"DF,FW",25-072,19,"1,132",0,1,0.9,0.6,0.9,9000000.0
+Valentin Gendrey,Hoffenheim,Bundesliga,DF,24-289,20,"1,264",1,1,1.1,1.8,1.1,8500000.0
+Alessandro Circati,Parma,Serie A,DF,21-178,4,360,0,0,0.0,0.0,0.0,8500000.0
+Julien Duranville,Dortmund,Bundesliga,"FW,MF",18-336,10,262,0,0,0.1,0.3,0.1,8500000.0
+Patrick Osterhage,Freiburg,Bundesliga,MF,25-064,25,"1,820",0,0,1.1,1.2,1.1,8500000.0
+Elia Caprile,Napoli,Serie A,GK,23-224,4,325,0,0,0.0,0.0,0.0,8000000.0
+Marc Guiu,Chelsea,Premier League,FW,19-092,3,73,0,0,0.0,0.0,0.0,8000000.0
+Matthias Ginter,Freiburg,Bundesliga,DF,31-077,27,"2,111",2,0,1.8,0.6,1.8,8000000.0
+Robin Gosens,Union Berlin,Bundesliga,DF,30-275,1,90,0,0,0.0,0.1,0.0,8000000.0
+Jackson Tchatchoua,Hellas Verona,Serie A,"DF,MF",23-204,28,"2,447",2,2,1.5,1.8,1.5,8000000.0
+Vedat Muriqi,Mallorca,La Liga,FW,30-347,24,"1,743",7,2,9.5,2.0,7.1,8000000.0
+Ben Godfrey,Ipswich Town,Premier League,DF,27-081,2,108,0,0,0.0,0.0,0.0,8000000.0
+Carlos Forbs,Wolves,Premier League,"MF,FW",21-018,9,237,0,0,0.1,0.0,0.1,8000000.0
+Romain Del Castillo,Brest,Ligue 1,FW,29-008,20,"1,058",5,3,4.6,2.7,1.4,8000000.0
+Emil Holm,Bologna,Serie A,DF,24-328,16,881,1,1,0.5,0.4,0.5,8000000.0
+Sergi Cardona,Villarreal,La Liga,DF,25-272,27,"2,355",1,6,2.1,5.1,2.1,8000000.0
+Nico Elvedi,Gladbach,Bundesliga,DF,28-188,20,"1,755",1,1,2.0,0.4,2.0,8000000.0
+Sergio Reguilón,Tottenham,Premier League,DF,28-111,3,123,0,0,0.1,0.0,0.1,8000000.0
+Mads Roerslev,Brentford,Premier League,DF,25-286,19,"1,101",0,2,0.2,3.0,0.2,8000000.0
+Santi Comesaña,Villarreal,La Liga,MF,28-183,26,"1,840",3,2,3.0,1.7,3.0,8000000.0
+Anass Zaroury,Lens,Ligue 1,"FW,MF",24-150,21,980,0,1,1.1,2.1,1.1,8000000.0
+José Sá,Wolves,Premier League,GK,32-079,24,"2,160",0,0,0.0,0.1,0.0,8000000.0
+Matt Targett,Newcastle Utd,Premier League,DF,29-200,1,12,0,0,0.0,0.0,0.0,8000000.0
+Anass Salah-Eddine,Roma,Serie A,DF,23-078,3,152,0,1,0.3,0.1,0.3,8000000.0
+Alexandre Lacazette,Lyon,Ligue 1,FW,33-313,25,"1,628",11,2,11.8,3.1,8.0,8000000.0
+Nabil Bentaleb,Lille,Ligue 1,"MF,FW",30-133,6,151,1,0,0.6,0.0,0.6,8000000.0
+Giovanni Simeone,Napoli,Serie A,FW,29-275,25,372,1,1,2.6,0.7,2.6,8000000.0
+Marco Brescianini,Atalanta,Serie A,MF,25-076,23,827,3,2,2.8,0.9,2.8,8000000.0
+Jacopo Fazzini,Empoli,Serie A,"MF,FW",22-021,13,801,0,0,0.8,0.2,0.8,8000000.0
+Lukas Klostermann,RB Leipzig,Bundesliga,DF,28-307,23,"1,388",0,0,0.2,0.1,0.2,8000000.0
+Valentín Barco,Sevilla,La Liga,"DF,FW",20-257,7,288,0,0,0.3,0.6,0.3,8000000.0
+Berat Djimsiti,Atalanta,Serie A,DF,32-046,27,"2,057",1,2,2.4,1.2,2.4,8000000.0
+Anastasios Douvikas,Como,Serie A,FW,25-247,7,202,1,0,1.4,0.1,1.4,8000000.0
+Paulo Dybala,Roma,Serie A,"FW,MF",31-142,24,"1,417",6,3,6.4,5.0,4.0,8000000.0
+Chuba Akpom,Lille,Ligue 1,FW,29-179,8,340,2,0,2.6,0.3,1.8,8000000.0
+Yerson Mosquera,Wolves,Premier League,DF,23-339,5,441,0,0,0.3,0.1,0.3,8000000.0
+Jordan Lotomba,Nice,Ligue 1,"MF,DF",26-189,2,35,0,0,0.0,0.0,0.0,8000000.0
+Presnel Kimpembe,Paris S-G,Ligue 1,DF,29-236,1,13,0,0,0.0,0.0,0.0,8000000.0
+Junya Ito,Reims,Ligue 1,FW,32-028,27,"2,287",4,3,4.5,6.4,4.5,8000000.0
+Abdoulaye Doucouré,Everton,Premier League,MF,32-095,27,"2,155",2,1,3.2,2.0,3.2,8000000.0
+Jordan James,Rennes,Ligue 1,MF,20-278,18,"1,037",0,1,0.7,1.6,0.7,8000000.0
+Lewis Dunk,Brighton,Premier League,DF,33-136,21,"1,723",0,0,0.7,0.5,0.7,8000000.0
+Samuel Edozie,Southampton,Premier League,"DF,FW",22-068,2,65,0,0,0.0,0.1,0.0,8000000.0
+Fisayo Dele-Bashiru,Lazio,Serie A,"MF,FW",24-059,17,727,3,0,1.0,0.4,1.0,8000000.0
+Eiran Cashin,Brighton,Premier League,DF,23-148,1,19,0,0,0.0,0.0,0.0,8000000.0
+Nikola Vlašić,Torino,Serie A,"MF,FW",27-184,24,"1,658",4,3,2.2,1.8,1.4,8000000.0
+Solly March,Brighton,Premier League,"FW,MF",30-260,5,59,0,0,0.1,0.1,0.1,8000000.0
+Carlos Vicente,Alavés,La Liga,"FW,MF",25-348,29,"2,372",4,3,2.4,4.1,2.4,8000000.0
+Jesús Areso,Osasuna,La Liga,DF,25-278,27,"2,278",0,2,0.1,1.9,0.1,8000000.0
+Maxwel Cornet,Southampton,Premier League,FW,28-191,2,72,0,0,0.2,0.0,0.2,8000000.0
+Saba Goglichidze,Empoli,Serie A,DF,20-285,26,"2,010",0,0,0.2,0.1,0.2,8000000.0
+Lucas Gourna-Douath,Roma,Serie A,MF,21-244,2,137,0,0,0.1,0.0,0.1,8000000.0
+M'Bala Nzola,Lens,Ligue 1,FW,28-231,20,"1,446",6,1,8.6,1.3,8.6,8000000.0
+Ethan Pinnock,Brentford,Premier League,DF,31-312,22,"1,913",2,0,1.1,1.2,1.1,8000000.0
+Conor Chaplin,Ipswich Town,Premier League,"MF,FW",28-049,16,624,1,1,1.2,0.6,1.2,8000000.0
+Geoffrey Kondogbia,Marseille,Ligue 1,"DF,MF",32-050,20,"1,570",0,0,0.4,0.1,0.4,8000000.0
+Sam Johnstone,Wolves,Premier League,GK,32-012,7,630,0,0,0.0,0.0,0.0,8000000.0
+Eric Dier,Bayern Munich,Bundesliga,DF,31-081,15,928,0,1,0.8,0.1,0.8,8000000.0
+Ben Davies,Tottenham,Premier League,DF,31-347,9,721,0,0,0.2,0.1,0.2,8000000.0
+Kassoum Ouattara,Monaco,Ligue 1,"DF,FW",20-174,12,391,0,1,0.2,1.2,0.2,8000000.0
+André Gomes,Lille,Ligue 1,MF,31-250,17,"1,030",0,0,0.5,0.7,0.5,8000000.0
+Kike Salas,Sevilla,La Liga,DF,22-348,23,"1,565",1,2,0.9,0.6,0.9,8000000.0
+Ross Barkley,Aston Villa,Premier League,MF,31-122,16,554,3,1,1.7,0.6,1.7,8000000.0
+Chiedozie Ogbene,Ipswich Town,Premier League,FW,27-340,5,238,0,0,0.0,0.1,0.0,8000000.0
+Paul Onuachu,Southampton,Premier League,FW,30-313,20,853,4,1,3.2,0.5,3.2,8000000.0
+Sandi Lovrić,Udinese,Serie A,MF,27-009,30,"1,982",2,3,2.3,3.1,2.3,8000000.0
+Pablo Rosario,Nice,Ligue 1,"MF,DF",28-089,24,"1,437",2,1,3.1,0.5,2.3,8000000.0
+Gerónimo Rulli,Marseille,Ligue 1,GK,32-321,27,"2,430",0,0,0.0,0.0,0.0,8000000.0
+Santiago Bueno,Wolves,Premier League,DF,26-148,24,"1,536",0,0,0.4,0.0,0.4,8000000.0
+Yann Gboho,Toulouse,Ligue 1,"MF,FW",24-082,24,"1,818",2,3,4.5,2.7,4.5,8000000.0
+Omar Alderete,Getafe,La Liga,DF,28-101,26,"2,299",0,0,1.2,0.9,1.2,8000000.0
+Alan Matturro,Genoa,Serie A,DF,20-177,13,900,0,0,0.2,0.2,0.2,8000000.0
+Marc Roca,Betis,La Liga,MF,28-131,14,906,2,2,1.1,1.0,1.1,8000000.0
+Hans Nicolussi Caviglia,Venezia,Serie A,MF,24-292,27,"2,141",4,2,1.5,1.4,1.5,8000000.0
+Niklas Süle,Dortmund,Bundesliga,DF,29-215,9,563,0,0,0.5,0.0,0.5,8000000.0
+Lukas Ullrich,Gladbach,Bundesliga,DF,21-021,19,"1,404",1,2,0.9,1.8,0.9,8000000.0
+Maarten Vandevoordt,RB Leipzig,Bundesliga,GK,23-039,3,225,0,0,0.0,0.0,0.0,8000000.0
+Roberto Piccoli,Cagliari,Serie A,FW,24-069,30,"2,515",7,1,9.6,0.9,8.8,8000000.0
+Jonas Urbig,Bayern Munich,Bundesliga,GK,21-241,4,360,0,0,0.0,0.0,0.0,8000000.0
+Javi Puado,Espanyol,La Liga,"FW,MF",26-316,27,"2,310",10,2,8.9,1.6,5.8,8000000.0
+Reinildo Mandava,Atlético Madrid,La Liga,DF,31-075,19,941,0,0,0.1,0.1,0.1,8000000.0
+Stefano Turati,Monza,Serie A,GK,23-213,27,"2,406",0,0,0.0,0.0,0.0,7500000.0
+Abdel Abqar,Alavés,La Liga,DF,26-027,28,"2,388",0,1,0.8,0.2,0.8,7500000.0
+Akor Adams,Sevilla,La Liga,FW,25-067,3,44,0,0,0.0,0.0,0.0,7500000.0
+Djibril Sow,Sevilla,La Liga,MF,28-059,23,"1,573",1,1,1.9,0.8,1.9,7500000.0
+Hugo Álvarez,Celta Vigo,La Liga,"MF,DF",21-278,22,"1,387",4,2,2.3,0.8,2.3,7500000.0
+Yeray Álvarez,Athletic Club,La Liga,DF,30-072,18,"1,511",1,0,0.5,0.2,0.5,7500000.0
+Ameen Al-Dakhil,Stuttgart,Bundesliga,DF,23-031,7,432,0,0,0.1,0.2,0.1,7500000.0
+Marvin Ducksch,Werder Bremen,Bundesliga,FW,31-030,26,"1,934",7,7,8.6,6.0,7.0,7500000.0
+Antonio Blanco,Alavés,La Liga,MF,24-257,27,"2,041",0,1,0.7,1.4,0.7,7500000.0
+Davide Calabria,Milan,Serie A,DF,28-121,7,316,0,0,0.3,0.2,0.3,7500000.0
+Maduka Okoye,Udinese,Serie A,GK,25-221,18,"1,620",0,0,0.0,0.0,0.0,7500000.0
+Pablo Torre,Barcelona,La Liga,"MF,FW",22-003,10,310,3,1,0.4,0.8,0.4,7500000.0
+Clément Lenglet,Atlético Madrid,La Liga,DF,29-293,17,"1,463",1,1,1.5,1.1,1.5,7500000.0
+Mario Lemina,Wolves,Premier League,"MF,DF",31-217,17,"1,364",1,3,1.4,1.1,1.4,7500000.0
+Diego Coppola,Hellas Verona,Serie A,DF,21-099,27,"2,297",1,0,0.5,0.1,0.5,7500000.0
+Jon Pacheco,Real Sociedad,La Liga,DF,24-088,11,629,0,0,0.1,0.0,0.1,7500000.0
+Gerard Martín,Barcelona,La Liga,DF,23-095,20,641,1,2,0.2,0.7,0.2,7500000.0
+Donny van de Beek,Girona,La Liga,MF,27-353,23,"1,381",2,2,1.5,3.3,1.4,7500000.0
+Enzo Barrenechea,Valencia,La Liga,MF,23-319,23,"1,663",1,2,1.1,0.8,1.1,7500000.0
+Jurgen Ekkelenkamp,Udinese,Serie A,MF,25-001,27,"1,501",3,2,1.8,1.1,1.8,7500000.0
+Benedict Hollerbach,Union Berlin,Bundesliga,"FW,MF",23-324,27,"1,999",7,1,5.7,1.4,5.7,7500000.0
+Oscar Højlund,Eint Frankfurt,Bundesliga,MF,20-092,17,612,1,0,0.9,1.0,0.9,7500000.0
+Vincenzo Grifo,Freiburg,Bundesliga,"FW,MF",31-364,28,"1,981",8,8,7.4,5.3,5.1,7500000.0
+Javi López,Real Sociedad,La Liga,DF,23-012,23,"1,591",0,0,0.1,0.4,0.1,7500000.0
+Ridle Baku,RB Leipzig,Bundesliga,"DF,MF",26-363,13,911,1,0,1.1,0.5,1.1,7000000.0
+Nicolò Casale,Lazio,Serie A,DF,27-051,2,135,0,0,0.0,0.0,0.0,7000000.0
+Alberto Dossena,Como,Serie A,DF,26-175,23,"1,825",0,2,0.8,0.7,0.8,7000000.0
+Ramy Bensebaini,Dortmund,Bundesliga,DF,29-355,25,"1,562",1,5,1.3,2.7,1.3,7000000.0
+Lucas Da Cunha,Como,Serie A,MF,23-301,29,"2,017",3,1,1.5,2.6,1.5,7000000.0
+Samuel Dahl,Roma,Serie A,"DF,MF",25-033,2,43,0,0,0.0,0.0,0.0,7000000.0
+Myron Boadu,Bochum,Bundesliga,FW,24-082,14,677,7,1,5.6,0.6,4.8,7000000.0
+Sebastiaan Bornauw,Wolfsburg,Bundesliga,DF,26-015,14,787,2,1,1.2,0.5,1.2,7000000.0
+Vladimír Coufal,West Ham,Premier League,DF,32-227,15,736,0,0,0.2,0.6,0.2,7000000.0
+Yannik Engelhardt,Como,Serie A,"MF,DF",24-058,21,"1,077",1,1,0.6,1.4,0.6,7000000.0
+Bryan Cristante,Roma,Serie A,MF,30-034,22,"1,426",2,2,1.1,1.0,1.1,7000000.0
+Patrick Cutrone,Como,Serie A,FW,27-093,28,"1,824",6,3,6.0,2.0,5.2,7000000.0
+Junior Dina Ebimbe,Eint Frankfurt,Bundesliga,"MF,FW",24-136,7,293,0,1,0.9,0.9,0.9,7000000.0
+Emre Can,Dortmund,Bundesliga,"DF,MF",31-084,25,"1,863",3,0,2.0,0.5,0.4,7000000.0
+İlkay Gündoğan,Manchester City,Premier League,MF,34-164,26,"1,624",0,3,1.8,2.5,1.8,7000000.0
+Danny Ings,West Ham,Premier League,"FW,MF",32-257,15,284,1,2,2.3,1.3,2.3,7000000.0
+Frank Onyeka,Brentford,Premier League,MF,27-095,2,25,0,0,0.0,0.0,0.0,7000000.0
+William Osula,Newcastle Utd,Premier League,FW,21-245,10,71,0,0,0.0,0.1,0.0,7000000.0
+Andrés García,Aston Villa,Premier League,"DF,MF",22-058,6,312,0,0,0.0,0.2,0.0,7000000.0
+Oumar Diakité,Reims,Ligue 1,FW,21-107,24,"1,599",4,1,5.5,1.1,4.7,7000000.0
+Joris Chotard,Montpellier,Ligue 1,MF,23-194,18,"1,446",1,0,1.1,0.3,1.1,7000000.0
+Charlie Cresswell,Toulouse,Ligue 1,DF,22-232,25,"2,053",2,1,2.7,1.6,2.7,7000000.0
+Himad Abdelli,Angers,Ligue 1,"MF,FW",25-140,26,"2,312",6,1,5.6,2.9,2.5,7000000.0
+Sergio Akieme,Reims,Ligue 1,DF,27-111,23,"1,938",1,1,1.0,1.4,1.0,7000000.0
+Mitchel Bakker,Lille,Ligue 1,"FW,DF",24-290,20,"1,012",2,2,2.9,2.6,2.9,7000000.0
+Dan Burn,Newcastle Utd,Premier League,DF,32-332,28,"2,520",0,0,1.1,0.5,1.1,7000000.0
+Pablo Sarabia,Wolves,Premier League,"MF,FW",32-330,17,610,2,2,2.6,1.5,2.6,7000000.0
+Harrison Reed,Fulham,Premier League,MF,30-069,10,78,0,0,0.1,0.1,0.1,7000000.0
+Jeremy Sarmiento,Brighton,Premier League,MF,22-294,1,9,0,0,0.0,0.0,0.0,7000000.0
+Matz Sels,Nott'ham Forest,Premier League,GK,33-039,31,"2,790",0,0,0.0,0.0,0.0,7000000.0
+Kacper Urbanski,Monza,Serie A,MF,20-211,6,417,0,0,0.1,0.1,0.1,7000000.0
+Stefan de Vrij,Inter,Serie A,DF,33-060,22,"1,366",2,0,0.9,0.0,0.9,7000000.0
+Joël Veltman,Brighton,Premier League,DF,33-081,19,"1,643",0,0,0.5,0.5,0.5,7000000.0
+Joseph Okumu,Reims,Ligue 1,DF,27-315,17,"1,371",1,0,1.0,0.0,1.0,7000000.0
+Michael Folorunsho,Fiorentina,Serie A,"FW,MF",27-058,10,527,0,0,0.7,0.6,0.7,7000000.0
+Casper Tengstedt,Hellas Verona,Serie A,"FW,MF",24-309,22,"1,383",6,1,5.3,0.9,4.5,7000000.0
+Ismail Jakobs,Monaco,Ligue 1,DF,25-232,2,180,0,0,0.0,0.2,0.0,7000000.0
+Rafa Marín,Napoli,Serie A,DF,22-322,1,6,0,0,0.0,0.0,0.0,7000000.0
+Denis Vavro,Wolfsburg,Bundesliga,DF,28-361,23,"1,956",1,0,1.2,0.2,1.2,7000000.0
+Umut Tohumcu,Hoffenheim,Bundesliga,"MF,FW",20-238,10,346,0,1,0.1,0.2,0.1,7000000.0
+Jacob Ondrejka,Parma,Serie A,"FW,MF",22-216,6,131,1,0,0.4,0.0,0.4,7000000.0
+Nicolò Cambiaghi,Bologna,Serie A,FW,24-099,10,309,1,3,0.3,1.7,0.3,7000000.0
+Baptiste Santamaria,Nice,Ligue 1,MF,30-028,9,747,0,0,0.8,0.9,0.8,7000000.0
+Adrià Pedrosa,Sevilla,La Liga,DF,26-328,23,"1,790",1,1,0.5,0.8,0.5,7000000.0
+Jon Moncayola,Osasuna,La Liga,MF,26-328,27,"1,890",0,0,1.5,2.4,1.5,7000000.0
+Lucas Stassin,Saint-Étienne,Ligue 1,FW,20-129,23,"1,450",7,4,6.2,2.8,6.2,7000000.0
+Christopher Wooh,Rennes,Ligue 1,DF,23-200,19,"1,399",0,0,1.3,0.0,1.3,7000000.0
+Nicolás Tagliafico,Lyon,Ligue 1,DF,32-218,19,"1,541",3,1,2.6,0.8,2.6,7000000.0
+Romain Faivre,Brest,Ligue 1,"MF,FW",26-266,19,894,3,2,2.5,1.9,1.7,7000000.0
+Mauro Arambarri,Getafe,La Liga,MF,29-188,27,"1,987",8,0,5.9,0.3,3.6,7000000.0
+Pierre Lees-Melou,Brest,Ligue 1,MF,31-316,15,"1,087",1,2,0.9,2.0,0.9,7000000.0
+Keven Schlotterbeck,Augsburg,Bundesliga,DF,27-343,17,"1,207",3,1,0.8,0.6,0.8,7000000.0
+Fabian Rieder,Stuttgart,Bundesliga,"MF,FW",23-049,19,754,1,3,1.4,2.0,1.4,7000000.0
+Félix Lemaréchal,Strasbourg,Ligue 1,"MF,FW",21-242,20,"1,293",3,2,2.4,1.6,2.4,7000000.0
+Johann Lepenant,Nantes,Ligue 1,MF,22-166,24,"1,766",2,1,1.2,0.9,1.2,7000000.0
+Leopold Querfeld,Union Berlin,Bundesliga,DF,21-107,20,"1,117",1,0,0.8,0.6,0.8,7000000.0
+Hugo Magnetti,Brest,Ligue 1,MF,26-311,26,"1,907",1,0,0.7,0.4,0.7,7000000.0
+Matteo Prati,Cagliari,Serie A,MF,21-099,9,406,0,0,0.1,0.7,0.1,7000000.0
+Ivan Provedel,Lazio,Serie A,GK,31-020,29,"2,610",0,0,0.0,0.3,0.0,7000000.0
+Luca Netz,Gladbach,Bundesliga,DF,21-326,19,838,0,2,0.2,1.9,0.2,7000000.0
+Justin Njinmah,Werder Bremen,Bundesliga,"FW,MF",24-142,21,837,3,1,2.6,0.9,2.6,7000000.0
+Marten de Roon,Atalanta,Serie A,"MF,DF",34-008,29,"2,428",4,3,0.8,1.8,0.8,7000000.0
+Max Moerstedt,Hoffenheim,Bundesliga,FW,0,12,451,0,0,0.8,0.6,0.8,7000000.0
+Pascal Groß,Dortmund,Bundesliga,"MF,DF",33-295,26,"1,985",0,6,2.2,4.0,2.2,7000000.0
+David Jurásek,Hoffenheim,Bundesliga,DF,24-242,12,582,0,0,0.1,0.8,0.1,7000000.0
+Aljoscha Kemlein,Union Berlin,Bundesliga,MF,20-247,15,922,1,0,0.9,0.6,0.9,7000000.0
+Matej Kovar,Leverkusen,Bundesliga,GK,24-324,3,270,0,0,0.0,0.0,0.0,7000000.0
+Maximilian Arnold,Wolfsburg,Bundesliga,MF,30-314,23,"1,971",2,4,0.8,2.4,0.8,7000000.0
+Gaetano Oristanio,Venezia,Serie A,"MF,FW",22-190,30,"2,061",2,3,3.2,2.5,3.2,6500000.0
+Mattia Viti,Empoli,Serie A,DF,23-072,22,"1,872",0,0,0.6,0.1,0.6,6500000.0
+Alexander Prass,Hoffenheim,Bundesliga,DF,23-315,22,"1,521",0,1,0.9,2.8,0.9,6500000.0
+Aarón Martín,Genoa,Serie A,DF,27-349,29,"2,536",0,4,0.7,4.6,0.7,6500000.0
+Remo Freuler,Bologna,Serie A,MF,32-356,29,"2,524",0,2,1.0,1.3,1.0,6500000.0
+Gianluca Busio,Venezia,Serie A,MF,22-313,26,"1,930",1,0,1.6,1.0,1.6,6500000.0
+Carl Starfelt,Celta Vigo,La Liga,DF,29-309,27,"2,256",1,0,0.5,0.2,0.5,6000000.0
+Manu Sánchez,Alavés,La Liga,DF,24-225,26,"2,044",1,0,1.7,0.6,1.7,6000000.0
+Riccardo Sottil,Milan,Serie A,"FW,MF",25-307,3,82,0,0,0.2,0.3,0.2,6000000.0
+Tajon Buchanan,Inter,Serie A,"DF,FW",26-057,6,95,0,0,0.0,0.1,0.0,6000000.0
+Davide Zappacosta,Atalanta,Serie A,DF,32-299,23,"1,548",4,2,1.8,1.8,1.8,6000000.0
+Junior Adamu,Freiburg,Bundesliga,FW,23-304,20,"1,166",2,1,4.4,1.5,4.4,6000000.0
+Felix Agu,Werder Bremen,Bundesliga,DF,25-191,16,"1,260",3,0,1.0,1.4,1.0,6000000.0
+Gabriel Strefezza,Como,Serie A,"FW,MF",27-353,30,"2,219",3,3,3.2,3.0,3.2,6000000.0
+Ibrahim Sulemana,Atalanta,Serie A,MF,21-319,5,122,0,0,0.0,0.0,0.0,6000000.0
+Joe Aribo,Southampton,Premier League,"MF,DF",28-259,29,"1,846",3,0,2.7,1.6,2.7,6000000.0
+Derrick Köhn,Werder Bremen,Bundesliga,"DF,FW",26-061,22,"1,295",2,2,0.7,1.6,0.7,6000000.0
+Luca Jaquez,Stuttgart,Bundesliga,DF,21-308,2,87,0,0,0.0,0.0,0.0,6000000.0
+Borna Sosa,Torino,Serie A,DF,27-075,19,"1,181",0,0,0.3,0.7,0.3,6000000.0
+Moritz Jenz,Mainz 05,Bundesliga,DF,25-341,17,"1,420",0,0,1.0,0.3,1.0,6000000.0
+Issa Kaboré,Werder Bremen,Bundesliga,"DF,FW",23-329,9,308,0,0,0.7,0.8,0.7,6000000.0
+Andreas Hanche-Olsen,Mainz 05,Bundesliga,DF,28-079,17,909,1,1,0.4,0.3,0.4,6000000.0
+Thomas Müller,Bayern Munich,Bundesliga,"MF,FW",35-205,24,907,1,3,3.0,2.3,3.0,6000000.0
+Arnaud Nordin,Mainz 05,Bundesliga,DF,26-293,3,24,0,0,0.0,0.3,0.0,6000000.0
+Igor Matanovic,Eint Frankfurt,Bundesliga,FW,22-006,16,312,1,0,1.1,0.0,1.1,6000000.0
+Junior Mwanga,Strasbourg,Ligue 1,MF,21-330,8,296,0,0,0.0,0.0,0.0,6000000.0
+Kilian Fischer,Wolfsburg,Bundesliga,DF,24-176,26,"1,802",0,0,0.2,0.3,0.2,6000000.0
+Gaëtan Perrin,Auxerre,Ligue 1,"MF,FW",28-303,27,"2,074",8,7,4.5,6.5,4.5,6000000.0
+Julian Weigl,Gladbach,Bundesliga,MF,29-210,26,"2,277",0,2,0.7,1.1,0.7,6000000.0
+Nelson Weiper,Mainz 05,Bundesliga,"FW,MF",20-020,17,510,3,0,2.9,0.7,2.9,6000000.0
+Simone Pafundi,Udinese,Serie A,"MF,FW",19-051,6,65,0,0,0.0,0.0,0.0,6000000.0
+Ibrahima Sissoko,Bochum,Bundesliga,MF,27-161,27,"2,219",2,1,1.3,0.9,1.3,6000000.0
+Martín Payero,Udinese,Serie A,MF,26-207,21,"1,136",1,1,0.9,1.0,0.9,6000000.0
+Tanner Tessmann,Lyon,Ligue 1,MF,23-194,19,952,0,0,0.4,0.1,0.4,6000000.0
+Alassane Pléa,Gladbach,Bundesliga,"MF,FW",32-027,24,"1,481",10,4,6.6,2.7,5.9,6000000.0
+Christian Eriksen,Manchester Utd,Premier League,MF,33-051,17,813,0,1,0.2,2.4,0.2,6000000.0
+Kyle Walker,Milan,Serie A,DF,34-313,8,601,0,0,0.0,0.7,0.0,6000000.0
+Christian Kouamé,Empoli,Serie A,FW,27-121,7,438,1,0,2.5,0.7,2.5,6000000.0
+Michael Keane,Everton,Premier League,DF,32-085,10,813,2,0,0.4,0.1,0.4,6000000.0
+Thomas Kristensen,Udinese,Serie A,DF,23-079,19,"1,319",0,0,0.0,0.3,0.0,6000000.0
+Giovanni Leoni,Parma,Serie A,DF,18-106,11,721,1,0,0.1,0.0,0.1,6000000.0
+Jacob Bruun Larsen,Stuttgart,Bundesliga,MF,26-199,10,364,1,0,0.3,1.1,0.3,6000000.0
+Finn Dahmen,Augsburg,Bundesliga,GK,27-010,13,"1,170",0,0,0.0,0.0,0.0,6000000.0
+Jorge Cuenca,Fulham,Premier League,DF,25-140,6,259,0,0,0.0,0.0,0.0,6000000.0
+Tyrone Mings,Aston Villa,Premier League,DF,32-024,11,871,0,0,0.8,0.2,0.8,6000000.0
+Arijanet Muric,Ipswich Town,Premier League,GK,26-150,18,"1,620",0,0,0.0,0.0,0.0,6000000.0
+Alessandro Zanoli,Genoa,Serie A,"FW,DF",24-185,26,"1,556",1,0,0.4,1.6,0.4,6000000.0
+Noahkai Banks,Augsburg,Bundesliga,DF,18-126,8,278,0,0,0.1,0.0,0.1,6000000.0
+Dan-Axel Zagadou,Stuttgart,Bundesliga,"DF,MF",25-307,2,29,0,0,0.0,0.0,0.0,6000000.0
+Mark McKenzie,Toulouse,Ligue 1,DF,26-040,25,"2,110",1,0,1.4,0.4,1.4,6000000.0
+Gaëtan Laborde,Nice,Ligue 1,FW,30-338,22,"1,361",9,4,9.6,2.8,6.5,6000000.0
+Yahia Fofana,Angers,Ligue 1,GK,24-228,28,"2,520",0,0,0.0,0.1,0.0,6000000.0
+Angelo Fulgini,Lens,Ligue 1,"MF,FW",28-229,20,925,1,1,2.1,2.6,2.1,6000000.0
+Fran Beltrán,Celta Vigo,La Liga,MF,26-062,26,"1,829",2,0,0.7,1.2,0.7,6000000.0
+Ardian Ismajli,Empoli,Serie A,DF,28-188,24,"2,058",0,0,0.3,0.0,0.3,6000000.0
+César Tárrega,Valencia,La Liga,DF,23-039,27,"2,396",2,0,1.8,0.1,1.8,6000000.0
+Luke Thomas,Leicester City,Premier League,DF,23-300,6,453,0,0,0.0,0.1,0.0,6000000.0
+Boubacar Traoré,Wolves,Premier League,MF,23-229,1,1,0,0,0.0,0.0,0.0,6000000.0
+Thierry Correia,Valencia,La Liga,DF,26-028,11,768,0,0,0.3,0.3,0.3,6000000.0
+Martin Valjent,Mallorca,La Liga,DF,29-116,24,"2,133",2,0,0.5,0.0,0.5,6000000.0
+Mohamed Bamba,Reims,Ligue 1,MF,20-180,2,10,0,0,0.0,0.0,0.0,6000000.0
+Benjamin André,Lille,Ligue 1,MF,34-246,25,"2,242",0,2,1.3,1.6,1.3,6000000.0
+Brendan Chardonnet,Brest,Ligue 1,DF,30-105,23,"2,056",1,0,0.6,0.6,0.6,6000000.0
+Jonathan Clauss,Nice,Ligue 1,"DF,MF",32-193,22,"1,769",3,5,2.1,5.5,2.1,6000000.0
+Lorenzo Colombo,Empoli,Serie A,"FW,MF",23-029,30,"1,954",5,2,5.5,2.8,4.8,6000000.0
+Florinel Coman,Cagliari,Serie A,"FW,MF",26-361,5,134,1,0,0.1,0.0,0.1,6000000.0
+Augusto Batalla,Rayo Vallecano,La Liga,GK,28-341,25,"2,250",0,0,0.0,0.0,0.0,6000000.0
+Nicolas Pépé,Villarreal,La Liga,"FW,MF",29-312,19,902,1,2,2.5,2.0,2.5,6000000.0
+Alex Král,Espanyol,La Liga,MF,26-322,29,"2,461",0,1,1.0,1.5,1.0,6000000.0
+Lameck Banda,Lecce,Serie A,"FW,MF",24-067,13,551,0,1,0.8,0.9,0.8,6000000.0
+Marash Kumbulla,Espanyol,La Liga,DF,25-057,27,"2,271",2,0,1.3,0.0,1.3,6000000.0
+Diego Llorente,Betis,La Liga,DF,31-233,29,"2,475",2,0,1.4,0.3,1.4,6000000.0
+Unai Gómez,Athletic Club,La Liga,"MF,FW",21-316,24,844,1,2,1.2,0.8,1.2,6000000.0
+Dominik Greif,Mallorca,La Liga,GK,28-000,25,"2,250",0,0,0.0,0.0,0.0,6000000.0
+Pablo Fornals,Betis,La Liga,"MF,FW",29-043,19,"1,345",1,0,1.5,2.2,1.5,6000000.0
+Chidera Ejuke,Sevilla,La Liga,FW,27-094,19,821,2,1,1.0,1.5,1.0,6000000.0
+James Rodríguez,Rayo Vallecano,La Liga,"MF,FW",33-268,6,140,0,0,0.3,0.2,0.3,6000000.0
+Abel Ruiz,Girona,La Liga,FW,25-068,18,"1,166",4,0,4.5,0.4,3.0,6000000.0
+Rui Silva,Betis,La Liga,GK,31-058,15,"1,350",0,0,0.0,0.1,0.0,6000000.0
+Antonio Sivera,Alavés,La Liga,GK,28-238,25,"2,180",0,0,0.0,0.1,0.0,6000000.0
+Marvin Pieringer,Heidenheim,Bundesliga,"FW,MF",25-184,25,"1,734",7,2,7.6,3.2,5.3,5500000.0
+Daniel Svensson,Dortmund,Bundesliga,"DF,FW",23-053,6,241,0,0,0.0,0.1,0.0,5500000.0
+Zito Luvumbo,Cagliari,Serie A,"FW,MF",23-028,19,"1,135",2,1,1.3,1.6,1.3,5500000.0
+Arnaut Danjuma,Girona,La Liga,"FW,MF",28-065,20,"1,144",2,0,2.8,1.4,2.8,5000000.0
+Sebastian Walukiewicz,Torino,Serie A,DF,25-001,23,"1,439",0,0,0.4,0.3,0.4,5000000.0
+Edoardo Bove,Fiorentina,Serie A,"MF,FW",22-325,12,851,1,2,0.6,1.5,0.6,5000000.0
+Hamza Choudhury,Leicester City,Premier League,"MF,DF",27-187,4,131,0,0,0.0,0.4,0.0,5000000.0
+Lamare Bogarde,Aston Villa,Premier League,"DF,MF",21-091,8,476,0,0,0.0,0.1,0.0,5000000.0
+Nathan Broadhead,Ipswich Town,Premier League,"MF,FW",27-001,15,590,1,0,1.5,0.6,1.5,5000000.0
+Toby Collyer,Manchester Utd,Premier League,MF,21-093,6,179,0,0,0.2,0.3,0.2,5000000.0
+Mario Götze,Eint Frankfurt,Bundesliga,"MF,FW",32-307,23,"1,521",3,2,2.9,3.1,2.9,5000000.0
+Mehdi Taremi,Inter,Serie A,FW,32-262,21,563,1,1,2.9,1.1,2.1,5000000.0
+Mert Kömür,Augsburg,Bundesliga,MF,19-263,14,360,1,1,0.4,0.3,0.4,5000000.0
+Ramon Hendriks,Stuttgart,Bundesliga,DF,23-262,21,995,0,1,0.6,1.1,0.6,5000000.0
+Lennard Maloney,Heidenheim,Bundesliga,MF,25-180,11,760,0,0,0.3,0.0,0.3,5000000.0
+Florian Thauvin,Udinese,Serie A,"FW,MF",32-070,25,"1,956",8,3,8.1,3.8,5.7,5000000.0
+Jordan Veretout,Lyon,Ligue 1,MF,32-036,22,"1,323",2,0,1.7,0.6,1.7,5000000.0
+Adrien Thomasson,Lens,Ligue 1,MF,31-117,26,"2,000",2,3,3.5,4.6,3.5,5000000.0
+Morgan Sanson,Nice,Ligue 1,MF,30-231,1,28,0,0,0.0,0.0,0.0,5000000.0
+Malang Sarr,Lens,Ligue 1,DF,26-073,15,"1,107",0,0,0.2,0.1,0.2,5000000.0
+Becir Omeragic,Montpellier,Ligue 1,"DF,MF",23-076,16,"1,259",0,0,0.3,0.1,0.3,5000000.0
+Bilal Nadir,Marseille,Ligue 1,MF,21-129,13,355,1,0,0.6,0.4,0.6,5000000.0
+Rasmus Nicolaisen,Toulouse,Ligue 1,DF,28-021,7,623,0,1,0.4,0.2,0.4,5000000.0
+Bamo Meïté,Marseille,Ligue 1,DF,23-124,3,26,0,0,0.0,0.0,0.0,5000000.0
+Raúl Jiménez,Fulham,Premier League,FW,33-336,30,"1,912",10,3,10.4,2.8,8.1,5000000.0
+Vitezslav Jaros,Liverpool,Premier League,GK,23-257,1,12,0,0,0.0,0.0,0.0,5000000.0
+Mason Holgate,Everton,Premier League,"FW,DF",28-166,1,6,0,0,0.0,0.0,0.0,5000000.0
+George Hirst,Ipswich Town,Premier League,FW,26-050,19,300,2,1,1.1,0.3,1.1,5000000.0
+Simon Sohm,Parma,Serie A,MF,23-360,30,"2,437",4,0,2.7,1.7,2.7,5000000.0
+Stephan El Shaarawy,Roma,Serie A,"DF,MF",32-161,23,974,3,3,2.3,1.0,2.3,5000000.0
+Ethan Mbappé,Lille,Ligue 1,"MF,FW",18-098,7,199,0,0,1.0,1.5,1.0,5000000.0
+Han-Noah Massengo,Auxerre,Ligue 1,MF,23-273,11,527,0,0,0.3,0.1,0.3,5000000.0
+Daler Kuzyaev,Le Havre,Ligue 1,MF,32-081,12,567,1,0,0.2,0.6,0.2,5000000.0
+Milos Lukovic,Strasbourg,Ligue 1,"FW,MF",19-139,2,12,0,0,0.0,0.0,0.0,5000000.0
+Eliot Matazo,Monaco,Ligue 1,MF,23-050,3,68,0,0,0.0,0.1,0.0,5000000.0
+Suat Serdar,Hellas Verona,Serie A,MF,27-360,15,959,1,1,1.7,0.9,1.7,5000000.0
+Yassine Kechta,Le Havre,Ligue 1,"MF,FW",23-040,24,"1,586",1,0,1.2,1.0,1.2,5000000.0
+Glen Kamara,Rennes,Ligue 1,MF,29-160,13,662,0,1,0.2,0.2,0.2,5000000.0
+Jérémy Le Douaron,Brest,Ligue 1,FW,26-350,2,102,0,0,0.2,0.0,0.2,5000000.0
+Jérémy Jacquet,Rennes,Ligue 1,DF,19-267,6,507,0,1,0.4,0.8,0.4,5000000.0
+Kamory Doumbia,Brest,Ligue 1,MF,22-047,24,"1,046",2,2,2.3,0.9,2.3,5000000.0
+Ricardo Pereira,Leicester City,Premier League,"DF,MF",31-182,4,168,0,0,0.1,0.0,0.1,5000000.0
+Niels Nkounkou,Eint Frankfurt,Bundesliga,"DF,MF",24-156,11,376,0,0,0.2,1.3,0.2,5000000.0
+Moritz Nicolas,Gladbach,Bundesliga,GK,27-167,19,"1,639",0,0,0.0,0.0,0.0,5000000.0
+Salih Özcan,Wolfsburg,Bundesliga,MF,27-085,11,353,0,0,0.1,0.8,0.1,5000000.0
+Tim Oermann,Bochum,Bundesliga,DF,21-182,23,"1,702",0,2,0.1,0.6,0.1,5000000.0
+Djaoui Cissé,Rennes,Ligue 1,MF,21-065,7,575,1,0,0.3,0.2,0.3,5000000.0
+Aurélio Buta,Reims,Ligue 1,DF,28-055,21,"1,561",0,1,0.2,0.4,0.2,5000000.0
+Pedro Chirivella,Nantes,Ligue 1,MF,27-318,25,"1,919",0,2,0.3,1.4,0.3,5000000.0
+Cristian Cásseres Jr.,Toulouse,Ligue 1,MF,25-076,25,"2,066",1,2,0.6,2.1,0.6,5000000.0
+Derek Cornelius,Marseille,Ligue 1,DF,27-132,18,"1,261",0,0,0.8,0.1,0.8,5000000.0
+Benjamin Bouchouari,Saint-Étienne,Ligue 1,MF,23-144,21,"1,479",1,0,0.6,0.9,0.6,5000000.0
+Badredine Bouanani,Nice,Ligue 1,"MF,FW",20-119,20,709,2,0,1.4,1.0,1.4,5000000.0
+Naouirou Ahamada,Rennes,Ligue 1,"MF,FW",23-008,3,58,0,0,0.0,0.0,0.0,5000000.0
+Jeremy Agbonifo,Lens,Ligue 1,"FW,MF",19-164,6,200,1,0,0.6,0.2,0.6,5000000.0
+Jeffrey Schlupp,Crystal Palace,Premier League,"MF,DF",32-104,12,103,0,0,0.2,0.2,0.2,5000000.0
+Axel Tuanzebe,Ipswich Town,Premier League,DF,27-143,16,"1,265",0,1,0.2,0.3,0.2,5000000.0
+Kieran Trippier,Newcastle Utd,Premier League,DF,34-199,18,786,0,0,0.0,0.6,0.0,5000000.0
+André Silva,Werder Bremen,Bundesliga,FW,29-151,6,369,1,0,2.6,0.3,1.0,5000000.0
+Yussuf Poulsen,RB Leipzig,Bundesliga,"FW,MF",30-295,17,299,1,0,2.2,0.4,2.2,5000000.0
+András Schäfer,Union Berlin,Bundesliga,MF,25-358,19,"1,014",1,1,0.5,0.8,0.5,5000000.0
+Williot Swedberg,Celta Vigo,La Liga,"FW,MF",21-064,25,"1,064",3,3,4.5,2.0,4.5,5000000.0
+Hugo Sotelo,Celta Vigo,La Liga,MF,21-108,19,"1,131",0,0,0.1,1.3,0.1,5000000.0
+Umar Sadiq,Real Sociedad,La Liga,FW,28-063,7,227,0,0,0.2,0.2,0.2,5000000.0
+Maroan Sannadi,Athletic Club,La Liga,FW,24-064,7,306,1,0,2.0,0.2,2.0,5000000.0
+Danny Welbeck,Brighton,Premier League,FW,34-131,24,"1,596",8,4,7.1,1.0,7.1,5000000.0
+Luka Romero,Alavés,La Liga,"FW,MF",20-139,6,199,0,0,0.8,0.2,0.0,5000000.0
+Tomás Palacios,Inter,Serie A,DF,21-343,2,11,0,0,0.0,0.0,0.0,5000000.0
+Leandro Paredes,Roma,Serie A,MF,30-281,18,"1,132",1,1,1.3,1.4,0.5,5000000.0
+Fabiano Parisi,Fiorentina,Serie A,"DF,MF",24-148,20,814,1,0,0.3,0.8,0.3,5000000.0
+Emil Audero,Como,Serie A,GK,28-078,8,720,0,0,0.0,0.0,0.0,5000000.0
+Romain Perraud,Betis,La Liga,DF,27-196,22,"1,597",1,0,0.3,1.1,0.3,5000000.0
+Scott McKenna,Las Palmas,La Liga,DF,28-145,23,"1,926",0,0,0.8,0.2,0.8,5000000.0
+Aihen Muñoz,Real Sociedad,La Liga,DF,27-233,15,643,0,0,0.1,0.1,0.1,5000000.0
+Abdul Mumin,Rayo Vallecano,La Liga,DF,26-304,24,"2,017",2,1,0.6,0.2,0.6,5000000.0
+Raúl Moro,Valladolid,La Liga,"FW,MF",22-122,24,"1,696",3,2,2.3,4.1,2.3,5000000.0
+Gerard Moreno,Villarreal,La Liga,FW,32-364,13,614,3,1,4.2,3.0,1.8,5000000.0
+Pablo Maffeo,Mallorca,La Liga,DF,27-268,24,"1,943",0,1,0.3,3.9,0.3,5000000.0
+Iñigo Martínez,Barcelona,La Liga,DF,33-324,23,"2,040",0,3,0.3,2.3,0.3,5000000.0
+Philipp Treu,St. Pauli,Bundesliga,"MF,DF",24-124,26,"2,283",0,2,1.0,2.3,1.0,5000000.0
+Phillip Tietz,Augsburg,Bundesliga,FW,27-271,28,"1,488",6,1,5.1,0.8,4.3,5000000.0
+Eric Smith,St. Pauli,Bundesliga,"DF,MF",28-088,25,"2,197",1,0,1.3,1.4,1.3,5000000.0
+Mergim Berisha,Augsburg,Bundesliga,FW,26-330,1,10,0,0,0.1,0.0,0.1,5000000.0
+Mahmoud Dahoud,Eint Frankfurt,Bundesliga,MF,29-095,9,364,1,1,0.5,0.7,0.5,5000000.0
+Dany Mota,Monza,Serie A,"MF,FW",26-339,26,"1,717",5,2,3.8,1.6,3.8,5000000.0
+Nikola Moro,Bologna,Serie A,MF,27-025,18,"1,107",0,2,0.5,0.8,0.5,5000000.0
+Cher Ndour,Fiorentina,Serie A,MF,20-253,5,248,0,0,0.0,0.0,0.0,5000000.0
+Yorbe Vertessen,Union Berlin,Bundesliga,"MF,FW",24-088,17,718,1,0,1.3,1.6,1.3,5000000.0
+Leonidas Stergiou,Stuttgart,Bundesliga,DF,23-034,9,621,0,2,0.2,0.9,0.2,5000000.0
+Niklas Stark,Werder Bremen,Bundesliga,DF,29-357,20,"1,566",0,1,0.5,0.1,0.5,5000000.0
+Noah Weißhaupt,St. Pauli,Bundesliga,"FW,MF",23-198,12,842,1,0,1.6,1.8,1.6,5000000.0
+Christos Mandas,Lazio,Serie A,GK,23-201,1,90,0,0,0.0,0.0,0.0,5000000.0
+Luca Marianucci,Empoli,Serie A,DF,20-257,12,574,0,0,0.3,0.2,0.3,5000000.0
+Mitchell Weiser,Werder Bremen,Bundesliga,"DF,MF",30-350,26,"2,331",4,6,4.3,3.3,4.3,5000000.0
+Alessandro Bianco,Monza,Serie A,MF,22-187,27,"2,012",1,0,1.2,0.7,1.2,5000000.0
+Mathias Løvik,Parma,Serie A,"DF,FW",21-121,4,83,0,0,0.1,0.1,0.1,5000000.0
+Gvidas Gineitis,Torino,Serie A,MF,20-356,23,957,3,1,0.9,1.8,0.9,5000000.0
+David de Gea,Fiorentina,Serie A,GK,34-150,28,"2,520",0,1,0.0,0.4,0.0,5000000.0
+Jay Idzes,Venezia,Serie A,DF,24-308,28,"2,497",1,0,1.0,0.3,1.0,5000000.0
+Ante Budimir,Osasuna,La Liga,FW,33-258,29,"2,195",15,2,12.5,1.4,7.2,5000000.0
+Zeki Çelik,Roma,Serie A,DF,28-048,23,"1,570",0,2,0.5,1.3,0.5,5000000.0
+Jeff Ekhator,Genoa,Serie A,"FW,MF",18-146,20,659,1,1,1.3,1.0,1.3,5000000.0
+Alieu Fadera,Como,Serie A,"FW,DF",23-154,24,"1,592",1,3,1.6,3.9,1.6,5000000.0
+Marc Bernal,Barcelona,La Liga,MF,17-315,3,242,0,0,0.1,0.0,0.1,5000000.0
+Jordan Zemura,Udinese,Serie A,DF,25-143,21,"1,263",1,2,0.9,0.9,0.9,5000000.0
+Michy Batshuayi,Eint Frankfurt,Bundesliga,"FW,DF",31-186,6,207,2,0,0.8,0.0,0.8,5000000.0
+Matteo Cancellieri,Parma,Serie A,"FW,MF",23-053,26,"1,421",3,0,2.7,0.7,2.7,5000000.0
+Hugo Guillamón,Valencia,La Liga,MF,25-065,12,364,0,0,0.1,0.0,0.1,5000000.0
+Thomas Lemar,Atlético Madrid,La Liga,MF,29-145,2,32,0,0,0.0,0.2,0.0,5000000.0
+Andoni Gorosabel,Athletic Club,La Liga,DF,28-245,15,"1,040",0,2,0.3,1.5,0.3,5000000.0
+Ansu Fati,Barcelona,La Liga,FW,22-157,4,127,0,0,0.6,0.1,0.6,5000000.0
+Kevin Stöger,Gladbach,Bundesliga,"MF,FW",31-222,24,"1,288",2,3,2.6,5.1,1.8,4500000.0
+Jan Schöppner,Heidenheim,Bundesliga,MF,25-298,27,"2,244",3,2,3.1,3.0,3.1,4500000.0
+Grischa Prömel,Hoffenheim,Bundesliga,MF,30-087,2,174,0,0,0.0,0.0,0.0,4500000.0
+Ross Stewart,Southampton,Premier League,"FW,MF",28-269,4,132,0,0,0.1,0.0,0.1,4500000.0
+Adrian Benedyczak,Parma,Serie A,"FW,MF",24-133,8,197,0,0,0.3,0.0,0.3,4500000.0
+Valentino Lazaro,Torino,Serie A,"DF,FW",29-013,29,"2,036",0,6,0.8,3.1,0.8,4500000.0
+Michael Zetterer,Werder Bremen,Bundesliga,GK,29-268,28,"2,520",0,0,0.0,0.0,0.0,4500000.0
+Ki-Jana Hoever,Auxerre,Ligue 1,DF,23-078,24,"1,714",0,2,0.3,2.4,0.3,4500000.0
+Jesper Karlsson,Lecce,Serie A,FW,26-255,10,323,0,0,0.6,0.4,0.6,4500000.0
+Antonino Gallo,Lecce,Serie A,DF,25-091,23,"1,934",0,2,0.2,2.4,0.2,4500000.0
+Filippo Terracciano,Milan,Serie A,"DF,MF",22-057,10,527,0,0,0.2,0.1,0.2,4500000.0
+Phil Harres,Holstein Kiel,Bundesliga,FW,23-012,20,"1,398",8,1,4.9,1.1,4.9,4500000.0
+Samuel Essende,Augsburg,Bundesliga,FW,27-073,25,"1,374",6,2,3.2,1.2,3.2,4500000.0
+Álex Valle,Como,Serie A,DF,20-346,9,714,0,0,0.3,0.4,0.3,4500000.0
+Nicolás Valentini,Hellas Verona,Serie A,DF,24-000,6,451,0,0,0.1,0.0,0.1,4500000.0
+Yunus Emre Konak,Brentford,Premier League,"FW,MF",19-086,7,31,0,0,0.2,0.0,0.2,4500000.0
+Nadir Zortea,Cagliari,Serie A,"DF,FW",25-291,27,"2,073",5,0,2.5,1.9,2.5,4500000.0
+Oladapo Afolayan,St. Pauli,Bundesliga,"FW,MF",27-053,26,"1,413",2,1,2.8,3.4,2.8,4000000.0
+Pol Lozano,Espanyol,La Liga,MF,25-182,22,"1,525",0,0,0.2,0.5,0.2,4000000.0
+Robin Zentner,Mainz 05,Bundesliga,GK,30-160,28,"2,520",0,0,0.0,0.1,0.0,4000000.0
+Ulisses Garcia,Marseille,Ligue 1,DF,29-085,14,516,2,1,1.5,0.7,1.5,4000000.0
+Alban Lafont,Nantes,Ligue 1,GK,26-073,12,"1,080",0,0,0.0,0.0,0.0,4000000.0
+Khalil Fayad,Montpellier,Ligue 1,"MF,FW",20-301,14,665,0,0,0.8,0.2,0.8,4000000.0
+Aron Dønnum,Toulouse,Ligue 1,"DF,MF",26-351,26,"2,155",1,2,1.8,4.0,1.8,4000000.0
+Jonathan Gradit,Lens,Ligue 1,DF,32-133,19,"1,572",0,0,0.6,0.5,0.6,4000000.0
+Philipp Köhn,Monaco,Ligue 1,GK,27-004,13,"1,170",0,0,0.0,0.0,0.0,4000000.0
+Mory Gbane,Reims,Ligue 1,"DF,MF",24-102,7,585,0,0,0.1,0.1,0.1,4000000.0
+Jean-Philippe Gbamin,Nantes,Ligue 1,MF,29-193,14,216,0,0,0.5,0.0,0.5,4000000.0
+Amin Sarr,Hellas Verona,Serie A,FW,24-026,24,"1,315",3,1,1.9,2.0,1.9,4000000.0
+Antonio Sanabria,Torino,Serie A,FW,29-033,22,"1,142",2,1,2.7,0.5,1.9,4000000.0
+Pol Lirola,Marseille,Ligue 1,DF,27-236,15,580,1,2,0.5,0.7,0.5,4000000.0
+Clinton Mata,Lyon,Ligue 1,DF,32-150,25,"2,167",0,3,0.2,1.2,0.2,4000000.0
+Yann Sommer,Inter,Serie A,GK,36-110,28,"2,520",0,0,0.0,0.0,0.0,4000000.0
+Eldor Shomurodov,Roma,Serie A,FW,29-281,19,580,2,2,2.7,0.7,2.7,4000000.0
+Ilaix Moriba,Celta Vigo,La Liga,MF,22-077,25,"1,558",0,1,1.1,1.2,1.1,4000000.0
+Warmed Omari,Lyon,Ligue 1,DF,24-348,1,8,0,0,0.0,0.0,0.0,4000000.0
+Kazeem Olaigbe,Rennes,Ligue 1,"MF,FW",22-094,5,113,0,1,0.3,0.4,0.3,4000000.0
+Ibrahim Salah,Brest,Ligue 1,FW,23-219,12,358,1,1,0.6,0.6,0.6,4000000.0
+Daniel Jebbison,Bournemouth,Premier League,FW,21-236,11,75,0,0,0.2,0.2,0.2,4000000.0
+Farid El Melali,Angers,Ligue 1,FW,27-336,26,"1,686",2,2,2.7,2.9,2.7,4000000.0
+Christopher Operi,Le Havre,Ligue 1,"DF,FW",27-342,13,"1,169",0,2,0.3,2.2,0.3,4000000.0
+Vincent Sierro,Toulouse,Ligue 1,MF,29-180,22,"1,776",4,1,3.0,2.8,1.5,4000000.0
+Sorba Thomas,Nantes,Ligue 1,"FW,MF",25-227,22,"1,128",1,2,1.5,2.6,1.5,4000000.0
+Teddy Teuma,Reims,Ligue 1,MF,31-188,17,750,1,0,1.4,1.1,0.6,4000000.0
+Oussama Targhalline,Le Havre,Ligue 1,MF,22-321,14,990,0,0,0.1,0.7,0.1,4000000.0
+Gabriel Suazo,Toulouse,Ligue 1,DF,27-240,25,"1,785",0,5,0.8,3.2,0.8,4000000.0
+Alessio Zerbin,Napoli,Serie A,"FW,DF",26-034,2,2,0,0,0.0,0.0,0.0,4000000.0
+Santiago Pierotti,Lecce,Serie A,FW,24-003,28,"1,493",4,2,2.7,1.8,2.7,4000000.0
+Saud Abdulhamid,Roma,Serie A,DF,25-262,4,205,0,1,0.0,0.2,0.0,4000000.0
+Ramón Terrats,Villarreal,La Liga,"MF,FW",24-170,11,131,0,0,0.1,0.3,0.1,4000000.0
+Robert Skov,Union Berlin,Bundesliga,"DF,MF",28-321,15,852,2,2,1.7,2.4,0.9,4000000.0
+David Soria,Getafe,La Liga,GK,32-002,29,"2,610",0,0,0.0,0.0,0.0,4000000.0
+Omar Traoré,Heidenheim,Bundesliga,DF,27-061,24,"2,084",0,1,0.4,1.5,0.4,4000000.0
+Lucas Tousart,Union Berlin,Bundesliga,MF,27-342,11,498,0,1,0.3,0.4,0.3,4000000.0
+Luca Mazzitelli,Como,Serie A,MF,29-142,11,335,1,1,0.2,0.6,0.2,4000000.0
+Sergio Herrera,Osasuna,La Liga,GK,31-305,28,"2,520",0,0,0.0,0.0,0.0,4000000.0
+Jorge Herrando,Osasuna,La Liga,DF,24-037,13,916,0,0,0.6,0.0,0.6,4000000.0
+Domagoj Bradarić,Hellas Verona,Serie A,DF,25-117,21,"1,359",0,0,0.1,1.6,0.1,4000000.0
+Ander Guevara,Alavés,La Liga,MF,27-273,26,"1,532",0,1,0.4,0.5,0.4,4000000.0
+Willy Kambwala,Villarreal,La Liga,DF,20-224,11,806,0,0,0.3,0.1,0.3,4000000.0
+Juan Musso,Atalanta,Serie A,GK,30-335,1,90,0,0,0.0,0.0,0.0,4000000.0
+Henrikh Mkhitaryan,Inter,Serie A,MF,36-075,29,"2,220",1,4,1.5,2.7,1.5,4000000.0
+Aritz Elustondo,Real Sociedad,La Liga,DF,31-009,15,891,0,0,0.4,0.1,0.4,4000000.0
+Iñigo Ruiz de Galarreta,Athletic Club,La Liga,MF,31-243,19,"1,071",0,2,0.4,2.1,0.4,4000000.0
+Javi Galán,Atlético Madrid,La Liga,DF,30-138,17,"1,190",0,2,0.1,2.7,0.1,4000000.0
+Jorge de Frutos,Rayo Vallecano,La Liga,"FW,MF",28-045,28,"1,993",4,3,4.6,3.1,4.6,4000000.0
+Guillermo Maripán,Torino,Serie A,DF,30-335,20,"1,620",1,1,0.8,0.6,0.8,4000000.0
+Sergi Darder,Mallorca,La Liga,"MF,FW",31-105,30,"2,044",0,4,1.7,2.9,1.7,4000000.0
+Samuel Gigot,Lazio,Serie A,DF,31-176,11,435,2,0,1.3,0.0,1.3,4000000.0
+Daniele Ghilardi,Hellas Verona,Serie A,DF,22-090,17,"1,405",0,0,0.4,0.2,0.4,4000000.0
+Gianluca Gaetano,Cagliari,Serie A,"MF,FW",24-336,21,851,2,3,4.8,1.1,4.8,4000000.0
+Arne Maier,Augsburg,Bundesliga,MF,26-088,24,826,0,0,1.3,1.4,1.3,4000000.0
+Marin Ljubicic,Union Berlin,Bundesliga,"FW,MF",23-037,7,144,1,1,0.4,0.6,0.4,4000000.0
+Thibault De Smet,Reims,Ligue 1,DF,26-305,5,192,0,0,0.1,0.0,0.1,4000000.0
+Manuel Neuer,Bayern Munich,Bundesliga,GK,39-010,20,"1,800",0,0,0.0,0.5,0.0,4000000.0
+Youssef Maleh,Empoli,Serie A,MF,26-227,22,"1,510",0,1,0.9,0.9,0.9,4000000.0
+Jhoanner Chávez,Lens,Ligue 1,"DF,MF",22-346,10,596,1,0,0.3,0.7,0.3,4000000.0
+Kévin Danois,Auxerre,Ligue 1,MF,20-282,21,"1,379",0,0,1.4,2.2,1.4,4000000.0
+Ludovic Ajorque,Brest,Ligue 1,FW,31-040,25,"2,023",10,1,8.4,2.4,7.6,4000000.0
+Juma Bah,Lens,Ligue 1,DF,18-360,4,197,0,0,0.0,0.0,0.0,4000000.0
+Emmanuel Biumla,Angers,Ligue 1,DF,19-333,16,"1,318",1,0,0.7,0.0,0.7,4000000.0
+Ruben Aguilar,Lens,Ligue 1,"DF,MF",31-345,12,788,1,1,0.4,0.8,0.4,4000000.0
+Juan Cruz,Leganés,La Liga,"FW,DF",24-346,28,"1,818",4,3,1.6,2.6,1.6,4000000.0
+Oliver Scarles,West Ham,Premier League,DF,19-115,12,527,0,0,0.1,0.0,0.1,4000000.0
+László Bénes,Union Berlin,Bundesliga,"MF,FW",27-209,18,482,1,1,0.7,0.9,0.7,4000000.0
+Gabriele Zappa,Cagliari,Serie A,DF,25-105,29,"2,460",2,0,0.8,3.1,0.8,4000000.0
+Duván Zapata,Torino,Serie A,FW,34-005,7,587,3,0,3.4,0.5,3.4,4000000.0
+Harry Toffolo,Nott'ham Forest,Premier League,DF,29-230,3,47,0,0,0.0,0.0,0.0,4000000.0
+Elias Saad,St. Pauli,Bundesliga,"FW,MF",25-100,14,751,3,2,1.8,0.7,1.8,4000000.0
+Max Rosenfelder,Freiburg,Bundesliga,DF,22-055,19,871,0,0,0.1,0.6,0.1,4000000.0
+Wladimiro Falcone,Lecce,Serie A,GK,29-359,30,"2,700",0,0,0.0,0.0,0.0,4000000.0
+Tadeo Allende,Celta Vigo,La Liga,FW,26-045,1,2,0,0,0.0,0.0,0.0,4000000.0
+Tom Krauß,Bochum,Bundesliga,MF,23-288,9,676,0,0,0.3,0.6,0.3,4000000.0
+Sheraldo Becker,Real Sociedad,La Liga,"FW,MF",30-056,20,971,2,1,2.0,2.0,2.0,4000000.0
+Armindo Sieb,Mainz 05,Bundesliga,"FW,MF",22-048,25,734,2,2,2.7,1.1,2.7,4000000.0
+Philipp Sander,Gladbach,Bundesliga,MF,27-044,24,"1,250",1,0,1.0,0.6,1.0,4000000.0
+Anrie Chase,Stuttgart,Bundesliga,DF,21-013,12,734,0,0,0.1,0.0,0.1,4000000.0
+Christian Günter,Freiburg,Bundesliga,DF,32-037,26,"2,207",2,2,0.8,2.5,0.6,4000000.0
+Morgan Guilavogui,St. Pauli,Bundesliga,"FW,MF",27-027,18,"1,308",5,1,5.8,1.7,5.8,4000000.0
+Marco Grüll,Werder Bremen,Bundesliga,"FW,MF",26-274,24,"1,053",6,1,3.9,1.6,3.9,4000000.0
+Michael Gregoritsch,Freiburg,Bundesliga,FW,30-353,17,569,2,1,1.8,0.4,1.8,4000000.0
+Keinan Davis,Udinese,Serie A,FW,27-052,17,709,2,1,1.5,2.0,1.5,4000000.0
+Matteo Darmian,Inter,Serie A,DF,35-125,23,"1,331",3,2,1.5,1.4,1.5,4000000.0
+Flavius Daniliuc,Hellas Verona,Serie A,DF,23-344,16,904,0,0,0.1,0.1,0.1,4000000.0
+Danilo Cataldi,Fiorentina,Serie A,MF,30-243,22,"1,458",3,0,1.0,0.6,1.0,4000000.0
+Ondrej Duda,Hellas Verona,Serie A,MF,30-122,21,"1,791",1,2,0.7,2.7,0.7,4000000.0
+Manuel Lazzari,Lazio,Serie A,DF,31-128,22,"1,246",0,1,0.1,1.0,0.1,4000000.0
+Antoine Makoumbou,Cagliari,Serie A,MF,26-262,26,"1,700",0,1,0.3,0.4,0.3,4000000.0
+Federico Baschirotto,Lecce,Serie A,DF,28-198,30,"2,700",0,0,0.6,0.1,0.6,3800000.0
+Kevin Zeroli,Milan,Serie A,MF,20-085,1,12,0,0,0.0,0.0,0.0,3500000.0
+Niklas Dorsch,Heidenheim,Bundesliga,MF,27-081,17,"1,052",2,2,0.9,1.0,0.9,3500000.0
+Luis Milla,Getafe,La Liga,MF,30-181,25,"2,160",1,2,1.5,2.5,0.7,3500000.0
+Gaetano Castrovilli,Monza,Serie A,MF,28-048,7,310,0,0,0.2,0.2,0.2,3500000.0
+Jordan Ayew,Leicester City,Premier League,"FW,MF",33-207,25,"1,310",4,0,2.8,0.8,2.0,3500000.0
+Fredrik Jensen,Augsburg,Bundesliga,MF,27-209,16,651,0,0,0.6,0.7,0.6,3500000.0
+Samuele Vignato,Monza,Serie A,MF,21-041,15,440,0,0,0.2,0.0,0.2,3500000.0
+Nahuel Estévez,Parma,Serie A,MF,29-143,12,608,0,0,0.1,0.5,0.1,3500000.0
+Marvin Friedrich,Gladbach,Bundesliga,DF,29-114,19,948,0,1,0.4,0.6,0.4,3500000.0
+Justin Diehl,Stuttgart,Bundesliga,"FW,DF",20-130,6,104,1,0,1.0,0.1,1.0,3500000.0
+Pablo Marí,Fiorentina,Serie A,DF,31-218,6,468,0,0,0.0,0.0,0.0,3500000.0
+Lucas Höler,Freiburg,Bundesliga,"FW,MF",30-270,26,"1,496",3,4,6.2,2.1,5.4,3500000.0
+Yannik Keitel,Stuttgart,Bundesliga,MF,25-050,9,240,0,0,0.4,0.0,0.4,3500000.0
+Dominik Kohr,Mainz 05,Bundesliga,"DF,MF",31-065,24,"2,040",1,0,1.2,0.6,1.2,3500000.0
+Leonardo Spinazzola,Napoli,Serie A,"DF,FW",32-012,20,972,1,1,0.4,2.3,0.4,3500000.0
+Mark Travers,Bournemouth,Premier League,GK,25-323,5,450,0,0,0.0,0.0,0.0,3500000.0
+Jay Stansfield,Fulham,Premier League,MF,22-133,1,1,0,0,0.0,0.0,0.0,3500000.0
+Sergio Camello,Rayo Vallecano,La Liga,FW,24-055,23,"1,134",3,2,4.1,2.0,4.1,3500000.0
+Pep Chavarría,Rayo Vallecano,La Liga,DF,26-361,26,"1,994",0,1,1.1,1.2,1.1,3500000.0
+Lucas Torró,Osasuna,La Liga,MF,30-261,26,"2,205",3,0,1.5,0.7,1.5,3500000.0
+Óscar Valentín,Rayo Vallecano,La Liga,MF,30-229,27,"1,463",0,0,0.4,0.8,0.4,3500000.0
+Marco Bizot,Brest,Ligue 1,GK,34-027,27,"2,430",0,0,0.0,0.0,0.0,3500000.0
+Lucas Vázquez,Real Madrid,La Liga,DF,33-279,25,"1,738",1,4,1.3,4.2,1.3,3500000.0
+Josué Casimir,Le Havre,Ligue 1,"FW,MF",23-194,20,"1,399",3,2,2.6,2.5,2.6,3500000.0
+Jean-Charles Castelletto,Nantes,Ligue 1,"DF,MF",30-070,24,"2,080",0,0,1.2,0.1,1.2,3500000.0
+Ruslan Malinovskyi,Genoa,Serie A,"MF,FW",31-337,9,383,0,2,0.2,1.5,0.2,3500000.0
+Florian Neuhaus,Gladbach,Bundesliga,MF,28-021,12,243,0,1,0.5,0.3,0.5,3500000.0
+Nicolas Cozza,Nantes,Ligue 1,"DF,MF",26-088,23,"1,755",1,0,1.2,1.4,1.2,3500000.0
+Shuto Machino,Holstein Kiel,Bundesliga,"FW,MF",25-188,26,"1,522",7,1,4.5,1.8,3.7,3500000.0
+Hassane Kamara,Udinese,Serie A,DF,31-032,24,"1,549",1,3,0.8,1.7,0.8,3500000.0
+Pablo Durán,Celta Vigo,La Liga,"FW,MF",23-316,20,991,4,3,2.9,2.1,2.9,3500000.0
+Răzvan Marin,Cagliari,Serie A,MF,28-318,26,"1,141",3,2,2.2,3.0,0.7,3500000.0
+Paulo Gazzaniga,Girona,La Liga,GK,33-094,30,"2,655",0,0,0.0,0.0,0.0,3500000.0
+Patrizio Masini,Genoa,Serie A,MF,24-069,19,919,1,0,0.4,0.1,0.4,3500000.0
+Nemanja Gudelj,Sevilla,La Liga,"MF,DF",33-141,23,"1,943",0,1,0.5,0.6,0.5,3500000.0
+Cyle Larin,Mallorca,La Liga,FW,29-354,24,"1,298",5,2,5.8,1.3,5.1,3500000.0
+Brooke Norton-Cuffy,Genoa,Serie A,"DF,MF",21-084,8,206,0,0,0.1,0.0,0.1,3500000.0
+Renato Tapia,Leganés,La Liga,"MF,DF",29-252,25,"1,642",1,0,0.5,0.1,0.5,3500000.0
+Oliver Abildgaard,Como,Serie A,MF,28-300,1,7,0,0,0.0,0.0,0.0,3500000.0
+Joel Pohjanpalo,Venezia,Serie A,FW,30-205,20,"1,603",6,0,7.5,1.7,4.3,3500000.0
+Aitor Ruibal,Betis,La Liga,"DF,FW",29-015,22,821,0,2,0.6,1.3,0.6,3500000.0
+Marcus Pedersen,Torino,Serie A,DF,24-264,23,"1,147",0,0,0.6,0.4,0.6,3500000.0
+Mateo Pellegrino,Parma,Serie A,FW,24-036,6,212,2,1,1.1,0.2,1.1,3500000.0
+Dele Alli,Como,Serie A,MF,28-360,1,9,0,0,0.0,0.0,0.0,3500000.0
+Jesper Karlström,Udinese,Serie A,MF,29-289,30,"2,556",0,2,0.5,0.8,0.5,3500000.0
+Lassine Sinayoko,Auxerre,Ligue 1,"FW,MF",25-119,27,"1,696",2,4,4.8,3.6,4.0,3500000.0
+Gideon Mensah,Auxerre,Ligue 1,DF,26-262,22,"1,780",0,1,0.2,2.1,0.2,3500000.0
+Tyrique George,Chelsea,Premier League,FW,19-061,5,89,0,1,0.1,0.7,0.1,3500000.0
+Wesley Saïd,Lens,Ligue 1,FW,29-352,18,779,2,0,3.0,0.8,3.0,3500000.0
+Ryan Manning,Southampton,Premier League,"DF,MF",28-296,18,"1,051",0,0,0.3,2.6,0.3,3500000.0
+Deiver Machado,Lens,Ligue 1,"DF,MF",31-216,22,"1,453",1,3,1.8,1.5,1.8,3500000.0
+Edimilson Fernandes,Brest,Ligue 1,MF,28-356,16,835,0,1,0.4,0.5,0.4,3500000.0
+Gautier Larsonneur,Saint-Étienne,Ligue 1,GK,28-042,26,"2,340",0,0,0.0,0.0,0.0,3500000.0
+Bamba Dieng,Angers,Ligue 1,FW,25-014,18,532,3,0,3.2,0.0,2.4,3500000.0
+Antoine Bernede,Hellas Verona,Serie A,MF,25-315,6,224,1,0,0.7,0.1,0.7,3500000.0
+Sebastiano Luperto,Cagliari,Serie A,DF,28-212,30,"2,700",1,3,2.0,1.3,2.0,3500000.0
+Saúl Ñíguez,Sevilla,La Liga,MF,30-136,17,"1,218",1,6,2.2,2.4,2.2,3500000.0
+Andrea Carboni,Monza,Serie A,DF,24-061,20,"1,666",0,1,0.2,0.3,0.2,3400000.0
+Mërgim Vojvoda,Como,Serie A,DF,30-064,4,184,1,1,0.1,1.2,0.1,3000000.0
+Daniel Fila,Venezia,Serie A,FW,22-228,5,289,0,0,0.3,0.2,0.3,3000000.0
+Justin Devenny,Crystal Palace,Premier League,MF,21-177,16,332,1,0,0.5,0.3,0.5,3000000.0
+Adam Aznou,Bayern Munich,Bundesliga,DF,18-308,2,17,0,0,0.0,0.0,0.0,3000000.0
+Skelly Alvero,Werder Bremen,Bundesliga,MF,22-337,12,236,0,0,0.0,0.0,0.0,3000000.0
+Iker Muñoz,Osasuna,La Liga,MF,22-152,15,411,0,0,0.2,0.2,0.2,3000000.0
+Tanguy Nianzou,Sevilla,La Liga,DF,22-303,6,518,0,0,0.2,0.0,0.2,3000000.0
+Joaquín Correa,Inter,Serie A,"FW,MF",30-236,12,315,1,2,0.9,1.5,0.9,3000000.0
+Kingsley Ehizibue,Udinese,Serie A,DF,29-316,28,"2,081",0,1,1.2,1.9,1.2,3000000.0
+James Sands,St. Pauli,Bundesliga,"MF,DF",24-274,7,453,0,0,0.1,0.0,0.1,3000000.0
+Daniel Peretz,Bayern Munich,Bundesliga,GK,24-270,3,270,0,0,0.0,0.0,0.0,3000000.0
+Amos Pieper,Werder Bremen,Bundesliga,DF,27-079,17,966,0,0,0.3,0.5,0.3,3000000.0
+Jannik Vestergaard,Leicester City,Premier League,DF,32-246,18,"1,391",0,0,0.1,0.1,0.1,3000000.0
+Héctor Bellerín,Betis,La Liga,DF,30-018,7,524,0,1,0.2,2.0,0.2,3000000.0
+Rani Khedira,Union Berlin,Bundesliga,MF,31-069,25,"2,093",1,0,0.6,0.4,0.6,3000000.0
+Kevin Kampl,RB Leipzig,Bundesliga,MF,34-179,23,"1,406",1,0,0.8,1.4,0.8,3000000.0
+Morten Thorsby,Genoa,Serie A,MF,28-336,25,"1,632",0,1,2.5,1.9,2.5,3000000.0
+Michael Svoboda,Venezia,Serie A,DF,26-173,16,"1,314",1,0,0.2,0.6,0.2,3000000.0
+Jonas Hofmann,Leverkusen,Bundesliga,"MF,DF",32-266,7,247,1,1,0.6,0.3,0.6,3000000.0
+Mattia Felici,Cagliari,Serie A,"MF,FW",23-354,18,876,0,3,0.6,1.0,0.6,3000000.0
+Honest Ahanor,Genoa,Serie A,DF,17-042,2,85,0,0,0.1,0.0,0.1,3000000.0
+Antonín Barák,Fiorentina,Serie A,MF,30-124,1,54,0,0,0.1,0.3,0.1,3000000.0
+Bojan Miovski,Girona,La Liga,FW,25-286,15,847,2,1,2.7,0.2,2.7,3000000.0
+Pablo Marín,Real Sociedad,La Liga,MF,21-277,14,534,0,2,0.1,0.6,0.1,3000000.0
+Jean Onana,Genoa,Serie A,MF,25-088,6,161,0,0,0.0,0.1,0.0,3000000.0
+Marco Palestra,Atalanta,Serie A,DF,20-034,7,104,0,0,0.0,0.1,0.0,3000000.0
+Francesco Acerbi,Inter,Serie A,DF,37-055,17,"1,390",0,1,0.3,0.5,0.3,3000000.0
+Valentin Rosier,Leganés,La Liga,DF,28-230,26,"2,083",1,2,0.7,1.0,0.7,3000000.0
+Damián Rodríguez,Celta Vigo,La Liga,MF,22-020,15,792,0,0,0.1,0.7,0.1,3000000.0
+Giangiacomo Magnani,Hellas Verona,Serie A,DF,29-184,17,"1,065",1,0,1.1,0.0,1.1,3000000.0
+Carlos Romero,Espanyol,La Liga,"DF,MF",23-159,25,"1,753",2,1,1.7,1.1,1.7,3000000.0
+Mattia Perin,Juventus,Serie A,GK,32-147,5,450,0,0,0.0,0.0,0.0,3000000.0
+Nahuel Tenaglia,Alavés,La Liga,DF,29-044,26,"2,273",1,1,1.7,1.1,1.7,3000000.0
+John Tolkin,Holstein Kiel,Bundesliga,"DF,FW",22-249,5,268,0,1,0.0,0.4,0.0,3000000.0
+Kevin Trapp,Eint Frankfurt,Bundesliga,GK,34-272,21,"1,845",0,0,0.0,0.0,0.0,3000000.0
+Gabriel Vidovic,Bayern Munich,Bundesliga,MF,21-126,1,1,0,0,0.0,0.0,0.0,3000000.0
+Nikola Vasilj,St. Pauli,Bundesliga,GK,29-125,27,"2,430",0,0,0.0,0.0,0.0,3000000.0
+Haris Tabakovic,Hoffenheim,Bundesliga,FW,30-290,17,616,2,1,2.7,1.0,2.7,3000000.0
+Dani de Wit,Bochum,Bundesliga,"MF,FW",27-068,24,"1,063",2,0,1.8,0.4,1.8,3000000.0
+Marius Wolf,Augsburg,Bundesliga,DF,29-314,27,"1,820",1,3,0.7,2.6,0.7,3000000.0
+Ignatius Ganago,Nantes,Ligue 1,"FW,MF",26-049,11,241,0,0,0.4,0.3,0.4,3000000.0
+Cédric Kipré,Reims,Ligue 1,DF,28-118,22,"1,696",0,1,0.6,1.0,0.6,3000000.0
+Hans Hateboer,Rennes,Ligue 1,DF,31-087,24,"1,589",0,0,0.4,1.5,0.4,3000000.0
+Joël Schingtienne,Venezia,Serie A,DF,22-237,10,691,0,0,0.0,0.0,0.0,3000000.0
+Gautier Lloris,Le Havre,Ligue 1,DF,29-262,26,"2,339",2,1,1.2,0.9,1.2,3000000.0
+Tom Louchet,Nice,Ligue 1,"DF,MF",21-337,19,719,1,0,0.8,1.2,0.8,3000000.0
+Téji Savanier,Montpellier,Ligue 1,MF,33-105,24,"2,057",2,5,3.8,6.4,2.3,3000000.0
+Gabriel Osho,Auxerre,Ligue 1,DF,26-235,19,"1,564",1,0,1.0,0.1,1.0,3000000.0
+Elisha Owusu,Auxerre,Ligue 1,MF,27-150,26,"2,183",1,3,0.3,1.0,0.3,3000000.0
+Abdoulaye Touré,Le Havre,Ligue 1,MF,31-034,21,"1,695",7,1,7.4,0.1,1.8,3000000.0
+Tino Kadewere,Nantes,Ligue 1,"MF,FW",29-091,8,475,1,2,1.6,1.0,1.6,3000000.0
+Antoine Mendy,Nice,Ligue 1,DF,20-314,12,546,0,0,0.4,0.1,0.4,3000000.0
+Ryan Fraser,Southampton,Premier League,"FW,DF",31-041,8,306,0,0,0.0,0.1,0.0,3000000.0
+Modibo Sagnan,Montpellier,Ligue 1,DF,25-357,23,"1,870",2,0,0.7,0.6,0.7,3000000.0
+Luca de la Torre,Celta Vigo,La Liga,MF,26-318,1,4,0,0,0.0,0.0,0.0,3000000.0
+Borja Iglesias,Celta Vigo,La Liga,FW,32-079,30,"1,588",5,2,5.8,1.8,5.8,3000000.0
+Conor Coady,Leicester City,Premier League,DF,32-040,14,994,0,0,0.0,0.1,0.0,3000000.0
+Sébastien Haller,Leganés,La Liga,FW,30-288,8,404,0,0,0.4,0.2,0.4,3000000.0
+Moi Gómez,Osasuna,La Liga,"MF,FW",30-287,22,716,0,0,0.4,0.8,0.4,3000000.0
+Florian Grillitsch,Valladolid,La Liga,MF,29-242,7,335,0,0,0.1,0.6,0.1,3000000.0
+Jean Butez,Como,Serie A,GK,29-302,13,"1,170",0,0,0.0,0.0,0.0,3000000.0
+Liberato Cacace,Empoli,Serie A,"DF,MF",24-191,26,"1,654",2,2,1.7,1.2,1.7,3000000.0
+Jon Guridi,Alavés,La Liga,"MF,FW",30-037,26,"1,595",3,1,3.0,1.0,2.2,3000000.0
+Stole Dimitrievski,Valencia,La Liga,GK,31-102,4,360,0,0,0.0,0.0,0.0,3000000.0
+Patrick Mainka,Heidenheim,Bundesliga,DF,30-151,28,"2,520",1,1,1.7,0.3,1.7,3000000.0
+Jordy Makengo,Freiburg,Bundesliga,DF,23-246,13,297,0,0,0.0,0.1,0.0,3000000.0
+Steve Mounié,Augsburg,Bundesliga,"FW,MF",30-189,14,299,0,0,1.9,0.0,1.9,3000000.0
+Robert Wagner,St. Pauli,Bundesliga,MF,21-266,8,364,0,0,0.1,0.0,0.1,3000000.0
+Lukas Nmecha,Wolfsburg,Bundesliga,"FW,MF",26-113,12,253,2,0,3.4,0.2,3.4,3000000.0
+Adam Obert,Cagliari,Serie A,DF,22-226,17,940,1,1,0.9,0.4,0.9,3000000.0
+Pasquale Mazzocchi,Napoli,Serie A,"DF,FW",29-253,17,617,0,0,0.3,0.4,0.3,3000000.0
+Yerry Mina,Cagliari,Serie A,DF,30-195,26,"2,169",0,0,2.1,0.3,2.1,3000000.0
+Lorenzo Montipò,Hellas Verona,Serie A,GK,29-045,29,"2,610",0,0,0.0,0.0,0.0,3000000.0
+Rémy Cabella,Lille,Ligue 1,"FW,MF",35-029,21,898,0,2,2.7,1.9,2.7,3000000.0
+Ali Abdi,Nice,Ligue 1,"DF,MF",31-107,20,"1,099",3,2,1.9,1.6,1.9,3000000.0
+Augustine Boakye,Saint-Étienne,Ligue 1,"FW,MF",24-154,17,733,3,0,1.8,0.9,1.8,3000000.0
+Shavy Babicka,Toulouse,Ligue 1,"MF,FW",24-309,26,"1,092",4,2,3.0,1.5,3.0,3000000.0
+Mathieu Cafaro,Saint-Étienne,Ligue 1,"MF,FW",28-012,15,732,1,0,1.5,1.3,1.5,3000000.0
+Mikel Vesga,Athletic Club,La Liga,MF,31-320,20,774,0,0,1.2,0.6,0.4,3000000.0
+Clément Akpa,Auxerre,Ligue 1,DF,23-133,24,"1,928",0,1,0.2,0.9,0.2,3000000.0
+Hamari Traoré,Real Sociedad,La Liga,DF,33-069,7,440,0,1,0.0,0.2,0.0,3000000.0
+Walid Cheddira,Espanyol,La Liga,FW,27-074,18,603,1,1,0.9,1.2,0.9,3000000.0
+Seydouba Cissé,Leganés,La Liga,MF,24-055,26,"1,835",2,0,1.3,0.3,1.3,3000000.0
+Samuele Birindelli,Monza,Serie A,"DF,MF",25-261,14,881,2,0,1.0,1.1,1.0,3000000.0
+Vasilije Adžić,Juventus,Serie A,"MF,FW",18-329,3,26,0,0,0.0,0.0,0.0,3000000.0
+Coba da Costa,Getafe,La Liga,"MF,FW",22-254,12,737,1,1,0.8,0.6,0.8,3000000.0
+Sergio Carreira,Celta Vigo,La Liga,"MF,DF",24-175,17,"1,227",0,3,0.3,2.4,0.3,3000000.0
+Maximilian Bauer,Augsburg,Bundesliga,DF,25-056,11,658,0,0,0.2,0.1,0.2,3000000.0
+Oliver Baumann,Hoffenheim,Bundesliga,GK,34-308,23,"2,070",0,0,0.0,0.8,0.0,3000000.0
+Jack Taylor,Ipswich Town,Premier League,MF,26-287,25,540,1,0,0.6,0.5,0.6,3000000.0
+Olivier Deman,Werder Bremen,Bundesliga,DF,25-000,9,67,0,0,0.0,0.1,0.0,3000000.0
+Arthur Chaves,Hoffenheim,Bundesliga,DF,24-067,20,"1,645",0,0,0.5,0.1,0.5,3000000.0
+Tim Breithaupt,Augsburg,Bundesliga,MF,23-058,2,120,0,1,0.1,0.4,0.1,3000000.0
+Emanuele Valeri,Parma,Serie A,DF,26-120,28,"2,297",2,4,1.5,3.3,0.7,3000000.0
+Johannes Eggestein,St. Pauli,Bundesliga,FW,26-333,24,"1,815",3,4,4.7,2.1,3.1,3000000.0
+Dennis Geiger,Hoffenheim,Bundesliga,"MF,FW",26-300,15,531,0,0,0.1,0.4,0.1,3000000.0
+Yannick Gerhardt,Wolfsburg,Bundesliga,"MF,DF",31-024,24,"1,125",1,1,0.8,0.2,0.8,3000000.0
+Armin Gigovic,Holstein Kiel,Bundesliga,MF,23-000,26,"1,484",4,0,1.6,1.4,1.6,3000000.0
+Benedikt Gimber,Heidenheim,Bundesliga,DF,28-046,26,"2,221",0,0,0.7,0.3,0.7,3000000.0
+Tidiam Gomis,RB Leipzig,Bundesliga,"MF,DF",18-241,4,66,0,1,0.1,0.3,0.1,3000000.0
+Unai Núñez,Athletic Club,La Liga,DF,28-066,6,475,0,0,0.2,0.1,0.2,3000000.0
+Carlos Martín,Alavés,La Liga,"FW,MF",22-349,21,"1,181",2,2,2.2,2.7,2.2,3000000.0
+Patrick Ciurria,Monza,Serie A,"MF,DF",30-056,14,892,1,1,0.8,1.9,0.8,3000000.0
+Manolis Saliakas,St. Pauli,Bundesliga,"MF,DF",28-206,23,"1,711",1,1,1.1,2.2,1.1,2800000.0
+Nicolai Remberg,Holstein Kiel,Bundesliga,MF,24-291,27,"1,967",0,1,1.1,0.4,1.1,2800000.0
+Charlie Taylor,Southampton,Premier League,DF,31-200,7,266,0,0,0.0,0.1,0.0,2800000.0
+Unai López,Rayo Vallecano,La Liga,MF,29-158,24,"1,311",3,1,1.4,0.6,1.4,2800000.0
+Florian Lejeune,Rayo Vallecano,La Liga,DF,33-321,29,"2,605",0,2,2.6,1.1,2.6,2800000.0
+Kike Pérez,Venezia,Serie A,MF,28-051,8,636,0,0,0.7,1.0,0.7,2800000.0
+Toni Martínez,Alavés,La Liga,FW,27-280,23,868,4,0,2.9,0.6,2.9,2800000.0
+Mikkel Kaufmann,Heidenheim,Bundesliga,FW,24-093,9,372,0,0,0.5,0.1,0.5,2700000.0
+Matt Doherty,Wolves,Premier League,DF,33-080,24,"1,764",2,1,1.0,1.5,1.0,2500000.0
+Kevin Akpoguma,Hoffenheim,Bundesliga,DF,29-352,26,"1,830",0,0,0.1,0.3,0.1,2500000.0
+Manu Morlanes,Mallorca,La Liga,MF,26-084,21,"1,300",0,0,0.6,0.3,0.6,2500000.0
+Carles Pérez,Getafe,La Liga,"MF,FW",27-049,23,"1,349",3,0,2.4,1.5,2.4,2500000.0
+Mahamadou Diawara,Lyon,Ligue 1,MF,20-048,2,16,0,0,0.0,0.0,0.0,2500000.0
+Faride Alidou,Hellas Verona,Serie A,"FW,MF",23-262,3,71,0,0,0.0,0.0,0.0,2500000.0
+Carles Aleñá,Alavés,La Liga,"MF,FW",27-091,7,522,0,2,0.4,0.6,0.4,2500000.0
+Andrej Ilic,Union Berlin,Bundesliga,FW,25-003,9,524,3,0,2.6,0.1,1.8,2500000.0
+Magnus Knudsen,Holstein Kiel,Bundesliga,MF,23-295,25,"1,578",0,1,0.7,1.3,0.7,2500000.0
+Iago Aspas,Celta Vigo,La Liga,"FW,MF",37-248,23,"1,475",8,3,7.4,3.0,3.5,2500000.0
+Takuma Asano,Mallorca,La Liga,"FW,MF",30-147,19,958,2,0,2.3,0.5,2.3,2500000.0
+Eric Bailly,Villarreal,La Liga,DF,30-359,10,580,0,0,0.3,0.0,0.3,2500000.0
+Julián Malatini,Werder Bremen,Bundesliga,DF,23-310,10,454,1,1,0.2,0.5,0.2,2500000.0
+Juan Bernat,Villarreal,La Liga,"DF,MF",32-036,10,212,0,1,0.3,0.4,0.3,2500000.0
+Mads Pedersen,Augsburg,Bundesliga,DF,28-217,7,235,0,0,0.1,0.0,0.1,2500000.0
+Kauã Santos,Eint Frankfurt,Bundesliga,GK,21-360,8,675,0,0,0.0,0.0,0.0,2500000.0
+Paweł Dawidowicz,Hellas Verona,Serie A,DF,29-321,21,"1,443",0,0,0.3,0.0,0.3,2500000.0
+Alfred Duncan,Venezia,Serie A,MF,32-027,15,938,0,0,0.8,1.1,0.8,2500000.0
+Lassana Coulibaly,Lecce,Serie A,MF,28-361,30,"2,029",0,0,0.2,0.5,0.2,2500000.0
+Enzo Ebosse,Udinese,Serie A,DF,26-026,2,90,0,0,0.0,0.0,0.0,2500000.0
+Tim Drexler,Hoffenheim,Bundesliga,DF,20-031,8,357,0,0,0.1,0.0,0.1,2500000.0
+Janik Haberer,Union Berlin,Bundesliga,"MF,DF",31-004,21,"1,125",0,0,0.5,0.4,0.5,2500000.0
+Péter Gulácsi,RB Leipzig,Bundesliga,GK,34-335,26,"2,295",0,0,0.0,0.0,0.0,2500000.0
+Adama Boiro,Athletic Club,La Liga,DF,22-288,12,763,0,0,0.2,0.2,0.2,2500000.0
+Felix Passlack,Bochum,Bundesliga,"DF,MF",26-312,25,"1,953",1,4,1.1,2.5,1.1,2500000.0
+Matías Vecino,Lazio,Serie A,MF,33-225,13,664,1,2,1.2,2.1,1.2,2500000.0
+Simone Verdi,Como,Serie A,"MF,FW",32-268,9,115,0,0,0.1,0.5,0.1,2500000.0
+Moritz Broschinski,Bochum,Bundesliga,"FW,MF",24-195,28,"1,282",1,3,4.1,1.7,4.1,2500000.0
+Marius Bülter,Hoffenheim,Bundesliga,FW,32-008,19,"1,272",4,1,3.0,2.6,3.0,2500000.0
+Maximiliano Caufriez,Valencia,La Liga,DF,28-049,1,90,0,0,0.0,0.0,0.0,2500000.0
+Eray Cömert,Valladolid,La Liga,"DF,MF",27-061,19,"1,279",0,0,0.5,0.0,0.5,2500000.0
+Kelvin Amian,Nantes,Ligue 1,DF,27-057,24,"1,748",1,0,0.9,0.7,0.9,2500000.0
+Jaydee Canvot,Toulouse,Ligue 1,"DF,MF",18-251,13,730,0,0,0.1,0.3,0.1,2500000.0
+Bertuğ Yıldırım,Getafe,La Liga,FW,22-268,17,925,1,0,2.4,0.9,2.4,2500000.0
+Axel Witsel,Atlético Madrid,La Liga,DF,36-084,12,761,0,1,0.0,0.5,0.0,2500000.0
+Connor Metcalfe,St. Pauli,Bundesliga,MF,25-152,5,258,0,0,0.4,0.1,0.4,2500000.0
+Jonas Omlin,Gladbach,Bundesliga,GK,31-086,7,528,0,0,0.0,0.0,0.0,2500000.0
+David Nemeth,St. Pauli,Bundesliga,DF,24-019,17,"1,507",0,1,0.1,0.1,0.1,2500000.0
+Luka Jović,Milan,Serie A,"FW,MF",27-104,9,207,2,0,1.8,0.7,1.8,2500000.0
+Armando Izzo,Monza,Serie A,DF,33-035,28,"2,375",1,1,0.4,0.8,0.4,2500000.0
+Mats Hummels,Roma,Serie A,DF,36-111,12,869,0,0,0.5,0.1,0.5,2500000.0
+Pedro Díaz,Rayo Vallecano,La Liga,MF,26-305,18,769,3,0,0.9,1.2,0.9,2500000.0
+Valery Fernández,Mallorca,La Liga,"MF,FW",25-134,16,287,2,0,0.8,0.0,0.8,2500000.0
+Álvaro Fernández,Sevilla,La Liga,GK,26-358,8,657,0,0,0.0,0.1,0.0,2500000.0
+Álvaro García,Rayo Vallecano,La Liga,"FW,MF",32-161,28,"1,921",3,5,5.5,4.1,5.5,2500000.0
+Alejandro Francés,Girona,La Liga,DF,22-248,13,890,0,0,0.2,0.0,0.2,2500000.0
+Stanis Idumbo,Sevilla,La Liga,"FW,MF",19-281,12,258,1,1,0.6,0.7,0.6,2500000.0
+Iñigo Lekue,Athletic Club,La Liga,DF,31-337,11,571,0,0,0.2,0.3,0.2,2500000.0
+James Bree,Southampton,Premier League,DF,27-177,14,890,0,1,0.1,0.9,0.1,2500000.0
+Florian Sotoca,Lens,Ligue 1,"FW,MF",34-163,25,"1,567",1,1,3.6,1.4,3.6,2500000.0
+Iker Bravo,Udinese,Serie A,"FW,MF",20-083,23,536,2,1,0.8,0.4,0.8,2500000.0
+Joan Jordán,Alavés,La Liga,MF,30-274,19,"1,147",4,2,4.0,2.0,1.6,2500000.0
+Juanmi Latasa,Valladolid,La Liga,FW,24-014,20,821,3,0,2.6,0.4,2.6,2500000.0
+Wes Burns,Ipswich Town,Premier League,"FW,DF",30-134,18,926,0,1,0.5,1.6,0.5,2500000.0
+Cameron Burgess,Ipswich Town,Premier League,DF,29-167,13,"1,125",0,1,0.7,0.5,0.7,2500000.0
+Antoine Joujou,Le Havre,Ligue 1,"MF,FW",22-025,21,852,0,2,0.6,2.4,0.6,2500000.0
+Kenny Lala,Brest,Ligue 1,DF,33-185,25,"2,236",3,1,3.0,3.1,0.6,2500000.0
+Yoram Zague,Paris S-G,Ligue 1,DF,18-326,3,160,0,0,0.1,0.0,0.1,2500000.0
+Nhoa Sangui,Reims,Ligue 1,"DF,MF",19-038,21,949,0,1,0.1,0.3,0.1,2500000.0
+Rassoul Ndiaye,Le Havre,Ligue 1,MF,23-116,22,"1,019",1,0,1.6,0.5,1.6,2500000.0
+Óscar Perea,Strasbourg,Ligue 1,MF,19-191,1,7,0,0,0.0,0.0,0.0,2500000.0
+Enzo Tchato,Montpellier,Ligue 1,DF,22-134,24,"1,764",0,0,0.1,1.5,0.1,2500000.0
+Emmanuel Sabbi,Le Havre,Ligue 1,"FW,MF",27-103,15,653,0,0,1.9,0.6,1.9,2500000.0
+Mathew Ryan,Lens,Ligue 1,GK,32-363,7,630,0,0,0.0,0.0,0.0,2500000.0
+Rabby Nzingoula,Montpellier,Ligue 1,MF,19-132,21,"1,276",1,0,0.8,1.5,0.8,2500000.0
+Emil Krafth,Newcastle Utd,Premier League,DF,30-247,5,244,0,0,0.0,0.1,0.0,2500000.0
+Saba Sazonov,Torino,Serie A,DF,23-064,1,3,0,0,0.0,0.0,0.0,2500000.0
+Frank Magri,Toulouse,Ligue 1,FW,25-214,24,939,4,0,4.2,0.4,4.2,2500000.0
+Ola Solbakken,Empoli,Serie A,"MF,FW",26-211,15,612,0,0,0.8,0.4,0.8,2500000.0
+Malcolm Jeng,Reims,Ligue 1,DF,20-028,1,45,0,0,0.0,0.0,0.0,2500000.0
+Reda Khadra,Reims,Ligue 1,"MF,FW",23-276,4,78,0,0,0.0,0.0,0.0,2500000.0
+Rémy Labeau Lascary,Lens,Ligue 1,"FW,MF",22-034,14,637,2,1,2.5,1.1,2.5,2500000.0
+Jordan Ferri,Montpellier,Ligue 1,MF,33-025,18,"1,217",0,1,0.3,0.5,0.3,2500000.0
+Budu Zivzivadze,Heidenheim,Bundesliga,FW,31-027,12,894,2,3,1.3,1.4,1.3,2500000.0
+David Zec,Holstein Kiel,Bundesliga,DF,25-091,13,"1,116",2,0,1.2,0.5,1.2,2500000.0
+John Yeboah,Venezia,Serie A,"FW,MF",24-287,25,704,0,1,1.5,0.7,1.5,2500000.0
+Hákon Rafn Valdimarsson,Brentford,Premier League,GK,23-175,2,145,0,0,0.0,0.0,0.0,2500000.0
+Pascal Stenzel,Stuttgart,Bundesliga,DF,29-017,6,139,0,0,0.1,0.0,0.1,2500000.0
+Tim Skarke,Union Berlin,Bundesliga,"FW,MF",28-211,26,952,0,2,2.1,1.2,2.1,2500000.0
+Antonio Sánchez,Mallorca,La Liga,"MF,DF",28-095,25,971,0,0,0.8,0.6,0.8,2500000.0
+Giuseppe Pezzella,Empoli,Serie A,"DF,FW",27-128,28,"2,248",0,3,0.5,3.5,0.5,2500000.0
+Leo Román,Mallorca,La Liga,GK,24-274,5,450,0,0,0.0,0.0,0.0,2500000.0
+Ricardo Rodríguez,Betis,La Liga,DF,32-224,14,959,0,0,0.2,0.3,0.2,2500000.0
+Karol Linetty,Torino,Serie A,MF,30-063,23,"1,282",1,0,0.6,0.2,0.6,2500000.0
+Álvaro Rodríguez,Getafe,La Liga,FW,20-266,17,633,2,0,0.7,0.2,0.7,2500000.0
+Andy Pelmard,Lecce,Serie A,DF,25-025,3,129,0,0,0.0,0.0,0.0,2500000.0
+Luca Pellegrini,Lazio,Serie A,DF,26-030,15,563,0,1,0.2,0.8,0.2,2500000.0
+Pietro Pellegri,Empoli,Serie A,FW,24-020,11,414,3,0,0.3,0.6,0.3,2500000.0
+Botond Balogh,Parma,Serie A,DF,22-304,24,"1,805",0,1,0.2,0.1,0.2,2500000.0
+Arthur Atta,Udinese,Serie A,MF,22-082,21,745,0,1,0.8,1.2,0.8,2500000.0
+Pontus Almqvist,Parma,Serie A,"FW,MF",25-270,28,"1,107",1,1,2.1,1.3,2.1,2500000.0
+Sandro Ramírez,Las Palmas,La Liga,"FW,MF",29-271,24,"1,666",8,3,3.0,2.6,3.0,2500000.0
+Szymon Żurkowski,Empoli,Serie A,MF,27-193,5,106,0,0,0.1,0.0,0.1,2500000.0
+Yvan Neyou,Leganés,La Liga,MF,28-093,24,"1,968",1,1,0.6,0.5,0.6,2500000.0
+Jesús Navas,Sevilla,La Liga,"FW,MF",39-136,15,424,1,0,0.5,0.5,0.5,2500000.0
+Alfonso Pedraza,Villarreal,La Liga,"DF,MF",28-362,4,67,0,0,0.1,0.3,0.1,2500000.0
+Pablo Ibáñez,Osasuna,La Liga,MF,26-198,20,859,0,1,1.3,1.5,1.3,2300000.0
+Mohamed Kaba,Lecce,Serie A,MF,23-161,11,254,0,0,0.3,0.0,0.3,2300000.0
+Johan Mojica,Mallorca,La Liga,DF,32-228,28,"2,212",1,2,0.9,3.5,0.9,2200000.0
+Ylber Ramadani,Lecce,Serie A,MF,28-359,24,"1,552",0,1,0.5,0.8,0.5,2200000.0
+Mateusz Wieteska,Cagliari,Serie A,DF,28-054,5,184,0,0,0.2,0.2,0.2,2200000.0
+Yann Karamoh,Torino,Serie A,"MF,FW",26-272,25,943,0,1,1.2,0.9,1.2,2200000.0
+David López,Mallorca,La Liga,DF,22-062,1,79,0,0,0.0,0.0,0.0,2000000.0
+Hugo Novoa,Alavés,La Liga,"DF,MF",22-095,5,237,0,0,0.5,0.2,0.5,2000000.0
+Craig Dawson,Wolves,Premier League,DF,34-335,15,971,0,0,0.5,0.0,0.5,2000000.0
+Luis Rioja,Alavés,La Liga,FW,31-172,1,23,0,0,0.0,0.1,0.0,2000000.0
+Woyo Coulibaly,Leicester City,Premier League,DF,25-321,4,109,0,0,0.0,0.0,0.0,2000000.0
+Alessandro Vogliacco,Genoa,Serie A,DF,26-204,12,715,2,0,1.3,0.0,1.3,2000000.0
+Brian Oliván,Espanyol,La Liga,DF,31-005,17,"1,017",0,1,0.4,1.1,0.4,2000000.0
+Santiago Mouriño,Alavés,La Liga,DF,23-052,19,"1,309",0,1,0.7,0.8,0.7,2000000.0
+Mattia Bani,Genoa,Serie A,DF,31-117,17,"1,333",0,0,0.7,0.2,0.7,2000000.0
+Oussama El Azzouzi,Bologna,Serie A,MF,23-312,1,8,0,0,0.0,0.0,0.0,2000000.0
+Giorgio Altare,Venezia,Serie A,DF,26-240,12,753,0,0,0.2,0.1,0.2,2000000.0
+Luke Woolfenden,Ipswich Town,Premier League,DF,26-167,13,"1,007",0,0,0.0,0.0,0.0,2000000.0
+Youssouf Sabaly,Betis,La Liga,DF,32-032,19,"1,418",0,1,0.1,0.8,0.1,2000000.0
+Álvaro Tejero,Espanyol,La Liga,"MF,DF",28-260,23,"1,153",1,4,0.6,2.7,0.6,2000000.0
+Junior Messias,Genoa,Serie A,"MF,FW",33-328,11,544,1,1,2.0,0.3,1.1,2000000.0
+Leonardo Bittencourt,Werder Bremen,Bundesliga,MF,31-108,21,893,2,0,1.5,1.3,1.5,2000000.0
+Fabio Chiarodia,Gladbach,Bundesliga,DF,19-305,11,88,0,0,0.0,0.0,0.0,2000000.0
+Maximilian Breunig,Heidenheim,Bundesliga,"FW,MF",24-235,13,350,2,0,3.4,0.2,2.7,2000000.0
+Gerard Gumbau,Rayo Vallecano,La Liga,MF,30-109,15,611,0,1,0.8,1.2,0.8,2000000.0
+Toni Lato,Mallorca,La Liga,DF,27-136,8,437,0,0,0.0,0.4,0.0,2000000.0
+Moussa Diarra,Alavés,La Liga,DF,24-147,23,"1,671",0,0,0.0,0.1,0.0,2000000.0
+Mouctar Diakhaby,Valencia,La Liga,DF,28-108,7,272,2,0,0.7,0.0,0.7,2000000.0
+Dimitri Foulquier,Valencia,La Liga,DF,32-014,27,"1,882",0,1,0.4,1.3,0.4,2000000.0
+Rubén García,Osasuna,La Liga,"FW,MF",31-266,28,"1,827",2,4,1.7,2.3,1.7,2000000.0
+José Gragera,Espanyol,La Liga,MF,24-127,10,569,0,0,0.0,0.0,0.0,2000000.0
+Ander Herrera,Athletic Club,La Liga,MF,35-235,8,273,0,0,1.7,0.1,0.9,2000000.0
+Javi Hernández,Leganés,La Liga,DF,26-339,23,"1,678",0,1,0.4,1.3,0.4,2000000.0
+Antonio Candela,Venezia,Serie A,DF,24-344,14,"1,008",0,1,0.3,0.8,0.3,2000000.0
+Fali Candé,Venezia,Serie A,DF,27-072,9,810,0,1,0.4,0.5,0.4,2000000.0
+Finn Porath,Holstein Kiel,Bundesliga,"DF,MF",28-042,26,"1,820",2,3,1.8,1.9,1.8,2000000.0
+Benedikt Pichler,Holstein Kiel,Bundesliga,FW,27-260,17,773,1,2,2.2,1.1,2.2,2000000.0
+Alessandro Marcandalli,Venezia,Serie A,DF,22-193,3,120,0,0,0.0,0.0,0.0,2000000.0
+Jack Stephens,Southampton,Premier League,DF,31-069,13,894,0,0,0.3,0.1,0.3,2000000.0
+Jason Steele,Brighton,Premier League,GK,34-231,2,180,0,0,0.0,0.0,0.0,2000000.0
+Jonas Rouhi,Juventus,Serie A,DF,21-089,5,210,0,0,0.0,0.0,0.0,2000000.0
+Sergi Roberto,Como,Serie A,MF,33-058,12,684,0,1,0.7,0.7,0.7,2000000.0
+Germán Valera,Valencia,La Liga,MF,23-021,8,148,0,0,0.1,0.0,0.1,2000000.0
+Naci Ünüvar,Espanyol,La Liga,"MF,DF",21-297,2,31,0,0,0.0,0.0,0.0,2000000.0
+Jordan Amavi,Brest,Ligue 1,DF,31-028,11,790,0,0,0.3,0.2,0.3,2000000.0
+Jean-Eudes Aholou,Angers,Ligue 1,MF,31-017,25,"1,891",2,0,1.8,1.0,1.8,2000000.0
+Maxime Bernauer,Saint-Étienne,Ligue 1,DF,26-279,3,134,0,0,0.0,0.0,0.0,2000000.0
+Haris Belkebla,Angers,Ligue 1,MF,31-068,22,"1,792",0,1,0.1,0.9,0.1,2000000.0
+Samuel Amo-Ameyaw,Strasbourg,Ligue 1,"DF,FW",18-262,2,99,1,0,0.4,0.2,0.4,2000000.0
+Andy Delort,Montpellier,Ligue 1,FW,33-179,7,453,0,0,1.0,0.7,1.0,2000000.0
+Nacho Vidal,Osasuna,La Liga,DF,30-072,5,124,0,0,0.0,0.0,0.0,2000000.0
+Fabien Centonze,Nantes,Ligue 1,DF,29-080,2,78,0,0,0.0,0.2,0.0,2000000.0
+Irvin Cardona,Saint-Étienne,Ligue 1,FW,27-241,7,453,2,1,1.4,1.0,1.4,2000000.0
+Kevin Vogt,Union Berlin,Bundesliga,DF,33-195,15,"1,196",1,0,0.8,0.0,0.0,2000000.0
+Florent Muslija,Freiburg,Bundesliga,"FW,MF",26-274,9,168,0,0,0.3,0.3,0.3,2000000.0
+Cristiano Biraghi,Fiorentina,Serie A,DF,32-217,8,433,1,0,0.2,0.3,0.2,2000000.0
+Tomás Conechny,Alavés,La Liga,"FW,MF",27-007,16,724,1,0,2.3,0.3,2.3,2000000.0
+William Carvalho,Betis,La Liga,MF,32-364,6,285,0,0,0.1,0.0,0.1,2000000.0
+Pathé Ciss,Rayo Vallecano,La Liga,MF,31-021,26,"1,575",3,1,1.7,1.1,1.7,2000000.0
+Richie Sagrado,Venezia,Serie A,DF,21-066,3,140,0,0,0.1,0.0,0.1,2000000.0
+Oier Zarraga,Udinese,Serie A,MF,26-092,17,641,0,0,0.1,0.4,0.1,2000000.0
+Adrian Beck,Heidenheim,Bundesliga,"MF,FW",27-301,26,"1,115",2,1,2.4,1.0,2.4,2000000.0
+Timo Becker,Holstein Kiel,Bundesliga,DF,28-012,24,"1,953",0,2,1.2,0.8,1.2,2000000.0
+Andrea Belotti,Como,Serie A,FW,31-107,18,593,2,0,2.5,0.4,2.5,2000000.0
+Maximilian Wittek,Bochum,Bundesliga,DF,29-228,27,"2,170",0,0,1.1,3.6,1.1,2000000.0
+Álvaro Aguado,Espanyol,La Liga,MF,28-340,14,416,0,1,0.4,0.6,0.4,2000000.0
+Paul Joly,Auxerre,Ligue 1,DF,24-303,19,777,0,1,0.4,1.1,0.4,2000000.0
+Ilyes Housni,Le Havre,Ligue 1,"FW,MF",19-327,10,226,0,0,0.2,0.2,0.2,2000000.0
+Joshua King,Toulouse,Ligue 1,"FW,MF",33-081,21,"1,281",5,2,5.2,1.7,5.2,2000000.0
+Benjamin Lecomte,Montpellier,Ligue 1,GK,33-345,23,"2,070",0,0,0.0,0.1,0.0,2000000.0
+Simone Scuffet,Cagliari,Serie A,GK,28-310,13,"1,170",0,0,0.0,0.0,0.0,2000000.0
+Alexis Sánchez,Udinese,Serie A,FW,36-108,9,350,0,0,0.6,0.1,0.6,2000000.0
+Louis Leroux,Nantes,Ligue 1,"MF,DF",19-073,12,522,1,0,1.1,0.7,1.1,2000000.0
+Ibrahim Mbaye,Paris S-G,Ligue 1,"FW,MF",17-072,6,100,1,0,0.9,0.0,0.9,2000000.0
+James Hill,Bournemouth,Premier League,DF,23-086,10,448,0,1,0.3,0.3,0.3,2000000.0
+Thomas Meunier,Lille,Ligue 1,DF,33-206,24,"1,471",1,0,1.6,0.6,1.6,2000000.0
+Hamzat Ojediran,Lens,Ligue 1,"MF,FW",21-143,14,376,1,0,0.5,0.4,0.5,2000000.0
+Nampalys Mendy,Lens,Ligue 1,MF,32-287,7,319,0,0,0.0,0.0,0.0,2000000.0
+Ibrahim Sissoko,Saint-Étienne,Ligue 1,FW,29-130,17,809,3,1,4.3,0.6,3.5,2000000.0
+Ayanda Sishuba,Rennes,Ligue 1,FW,20-063,1,3,0,0,0.0,0.0,0.0,2000000.0
+Falaye Sacko,Montpellier,Ligue 1,DF,29-340,13,"1,043",0,1,0.0,0.2,0.0,2000000.0
+Marvin Senaya,Strasbourg,Ligue 1,DF,24-068,10,227,0,0,0.0,0.1,0.0,2000000.0
+Niklas Schmidt,Toulouse,Ligue 1,MF,27-036,9,205,0,1,0.1,0.7,0.1,2000000.0
+Issiaga Sylla,Montpellier,Ligue 1,DF,31-095,16,"1,002",1,0,1.7,0.3,1.7,2000000.0
+Mathias Pereira Lage,Brest,Ligue 1,"FW,MF",28-127,23,"1,095",2,4,2.3,2.2,2.3,2000000.0
+Edoardo Goldaniga,Como,Serie A,DF,31-155,26,"1,992",0,0,1.8,0.1,1.8,2000000.0
+Gaby Jean,Lecce,Serie A,DF,25-046,18,"1,378",0,0,0.1,0.1,0.1,2000000.0
+Elseid Hysaj,Lazio,Serie A,DF,31-045,7,276,0,2,0.0,0.9,0.0,2000000.0
+Abdou Harroui,Hellas Verona,Serie A,"MF,FW",27-083,10,463,1,2,2.2,0.4,2.2,2000000.0
+Roberto Gagliardini,Monza,Serie A,"MF,DF",30-364,6,141,0,0,0.0,0.2,0.0,2000000.0
+Martin Frese,Hellas Verona,Serie A,DF,27-092,5,336,0,0,0.0,0.1,0.0,2000000.0
+Emmanuel Gyasi,Empoli,Serie A,"DF,FW",31-085,30,"2,618",2,1,3.6,0.5,3.6,2000000.0
+Alberto Grassi,Empoli,Serie A,MF,30-030,21,"1,607",1,0,0.7,0.8,0.7,2000000.0
+Omari Forson,Monza,Serie A,"MF,FW",20-260,5,72,0,0,0.0,0.0,0.0,2000000.0
+Frans Krätzig,Stuttgart,Bundesliga,DF,22-082,1,56,0,0,0.0,0.0,0.0,2000000.0
+Maxim Leitsch,Mainz 05,Bundesliga,DF,26-323,14,674,1,0,1.2,0.2,1.2,2000000.0
+Lukas Kübler,Freiburg,Bundesliga,DF,32-219,22,"1,620",5,0,2.5,0.5,2.5,2000000.0
+Adu Ares,Athletic Club,La Liga,FW,23-176,1,19,0,0,0.0,0.0,0.0,2000000.0
+Maat Daniel Caprini,Fiorentina,Serie A,FW,19-054,2,8,0,0,0.0,0.0,0.0,2000000.0
+Issa Doumbia,Venezia,Serie A,MF,21-172,17,734,0,0,0.6,0.1,0.6,2000000.0
+Jackson Irvine,St. Pauli,Bundesliga,MF,32-030,27,"2,430",0,6,3.0,3.6,2.8,2000000.0
+Jonas Föhrenbach,Heidenheim,Bundesliga,DF,29-070,23,"1,792",0,1,0.3,1.3,0.3,2000000.0
+Devis Vásquez,Empoli,Serie A,GK,26-329,24,"2,160",0,0,0.0,0.0,0.0,2000000.0
+Daley Blind,Girona,La Liga,DF,35-028,26,"2,060",0,2,0.2,1.1,0.2,2000000.0
+Robert Gumny,Augsburg,Bundesliga,DF,26-306,4,147,0,0,0.2,0.4,0.2,2000000.0
+Willy Boly,Nott'ham Forest,Premier League,DF,34-062,6,150,0,0,0.1,0.0,0.1,2000000.0
+Tom Cairney,Fulham,Premier League,MF,34-076,19,438,1,0,0.1,0.7,0.1,2000000.0
+Dani Raba,Leganés,La Liga,"MF,FW",29-159,21,"1,275",6,4,5.7,3.2,2.5,1800000.0
+Rubén Peña,Osasuna,La Liga,"FW,DF",33-262,21,662,0,0,0.7,0.5,0.7,1800000.0
+Iker Losada,Betis,La Liga,"MF,FW",23-248,10,336,0,0,0.5,0.3,0.5,1800000.0
+Pedro Pereira,Monza,Serie A,DF,27-074,29,"2,170",1,3,1.2,1.4,1.2,1800000.0
+Stefan Lainer,Gladbach,Bundesliga,DF,32-222,17,567,1,0,0.2,0.9,0.2,1800000.0
+Marcos Alonso,Celta Vigo,La Liga,DF,34-099,24,"2,070",2,0,2.4,1.0,0.8,1800000.0
+Cédric Bakambu,Betis,La Liga,FW,33-360,20,579,2,2,2.9,0.6,2.9,1800000.0
+Javi Sánchez,Valladolid,La Liga,DF,28-023,22,"1,839",1,0,0.4,0.3,0.4,1800000.0
+Oriol Romeu,Girona,La Liga,MF,33-194,19,"1,163",0,0,0.1,0.2,0.1,1800000.0
+Liam Henderson,Empoli,Serie A,MF,28-346,29,"1,858",0,2,0.4,2.9,0.4,1800000.0
+Rui Modesto,Udinese,Serie A,"DF,MF",25-181,14,301,0,0,0.4,0.1,0.4,1800000.0
+Alberto Moreno,Como,Serie A,DF,32-275,19,"1,416",0,0,0.3,1.0,0.3,1800000.0
+Grigoris Kastanos,Hellas Verona,Serie A,"MF,FW",27-066,22,799,1,1,0.9,1.5,0.9,1800000.0
+Oliver Burke,Werder Bremen,Bundesliga,FW,27-364,20,560,3,0,2.9,0.9,2.9,1800000.0
+Kevin Bonifazi,Lecce,Serie A,DF,28-322,3,65,0,0,0.0,0.0,0.0,1800000.0
+Drissa Camara,Parma,Serie A,"MF,FW",23-047,19,397,0,0,1.2,0.5,1.2,1800000.0
+Birama Touré,Montpellier,Ligue 1,"MF,DF",32-304,8,300,0,0,0.0,0.1,0.0,1800000.0
+Miha Zajc,Toulouse,Ligue 1,MF,30-279,17,245,0,0,0.2,0.1,0.2,1800000.0
+Ado Onaiwu,Auxerre,Ligue 1,"MF,FW",29-149,24,643,2,1,3.4,0.7,3.4,1800000.0
+Amine Salama,Reims,Ligue 1,FW,24-262,17,373,0,0,0.7,0.3,0.7,1800000.0
+Dane Scarlett,Tottenham,Premier League,"FW,MF",21-013,3,34,0,1,0.0,0.0,0.0,1800000.0
+Asier Villalibre,Alavés,La Liga,FW,27-188,15,314,1,1,1.6,1.0,0.8,1800000.0
+Theo Bair,Auxerre,Ligue 1,FW,25-222,24,827,2,1,2.7,1.2,2.7,1800000.0
+Jim Allevinah,Angers,Ligue 1,FW,30-038,23,"1,512",0,3,3.7,2.4,3.7,1800000.0
+Tanguy Coulibaly,Montpellier,Ligue 1,"FW,MF",24-047,17,825,2,0,2.5,0.8,2.5,1800000.0
+Koji Miyoshi,Bochum,Bundesliga,"FW,MF",28-011,14,450,1,0,1.1,0.8,1.1,1800000.0
+Ivan Ordets,Bochum,Bundesliga,DF,32-272,19,"1,592",0,0,0.5,0.1,0.5,1800000.0
+Rayan Raveloson,Auxerre,Ligue 1,"MF,DF",28-080,13,724,1,0,0.8,0.2,0.8,1800000.0
+Phillipp Mwene,Mainz 05,Bundesliga,DF,31-067,27,"2,269",0,4,1.2,1.7,1.2,1800000.0
+Kevin Volland,Union Berlin,Bundesliga,"FW,MF",32-250,3,53,0,0,0.0,0.0,0.0,1800000.0
+Emil Bohinen,Genoa,Serie A,MF,26-025,3,166,0,0,0.1,0.1,0.1,1800000.0
+Goduine Koyalipou,Lens,Ligue 1,FW,25-050,8,410,1,0,1.2,0.5,1.2,1800000.0
+Tommaso Augello,Cagliari,Serie A,"DF,FW",30-219,30,"2,022",0,5,0.2,3.9,0.2,1800000.0
+Javier Manquillo,Celta Vigo,La Liga,DF,30-336,10,515,0,0,0.0,0.0,0.0,1800000.0
+Kike Barja,Osasuna,La Liga,"FW,MF",28-005,9,247,0,0,0.2,0.5,0.2,1800000.0
+Selim Amallah,Valladolid,La Liga,MF,28-142,19,"1,108",3,1,2.7,0.6,1.9,1800000.0
+César Azpilicueta,Atlético Madrid,La Liga,DF,35-221,9,650,1,0,0.2,0.0,0.2,1800000.0
+Juan Berrocal,Getafe,La Liga,DF,25-337,13,800,0,0,0.2,0.0,0.2,1800000.0
+Yordan Osorio,Parma,Serie A,DF,30-331,3,172,0,0,0.0,0.1,0.0,1700000.0
+Hamza Rafia,Lecce,Serie A,MF,26-004,18,"1,058",0,0,0.5,1.4,0.5,1700000.0
+Alberto Cerri,Como,Serie A,FW,28-355,5,87,0,0,1.0,0.0,1.0,1700000.0
+Alessandro Deiola,Cagliari,Serie A,MF,29-248,22,"1,127",0,1,0.8,0.6,0.8,1600000.0
+Matthias Braunöder,Como,Serie A,MF,23-010,8,268,0,0,0.1,0.0,0.1,1600000.0
+Gabriel Charpentier,Parma,Serie A,FW,25-324,10,271,1,2,1.3,0.9,1.3,1600000.0
+Lautaro Valenti,Parma,Serie A,DF,26-082,14,"1,076",1,0,0.2,0.2,0.2,1500000.0
+Cenk Özkacar,Valladolid,La Liga,DF,24-182,5,262,0,0,0.1,0.0,0.1,1500000.0
+Caleb Ekuban,Genoa,Serie A,FW,31-014,15,484,1,3,2.8,0.7,2.8,1500000.0
+Marco Sportiello,Milan,Serie A,GK,32-331,1,90,0,0,0.0,0.0,0.0,1500000.0
+Pietro Terracciano,Fiorentina,Serie A,GK,35-029,3,270,0,0,0.0,0.0,0.0,1500000.0
+Rafael Tolói,Atalanta,Serie A,DF,34-178,8,345,0,0,0.0,0.2,0.0,1500000.0
+Mathias Honsak,Heidenheim,Bundesliga,"FW,DF",28-107,18,"1,070",4,1,3.2,1.5,3.2,1500000.0
+Philipp Hofmann,Bochum,Bundesliga,FW,32-007,28,"2,041",2,3,4.0,3.3,4.0,1500000.0
+Yuri Berchiche,Athletic Club,La Liga,DF,35-055,24,"1,560",0,2,0.5,2.1,0.5,1500000.0
+Mattia Valoti,Monza,Serie A,MF,31-212,5,40,0,0,0.0,0.0,0.0,1500000.0
+Balthazar Pierret,Lecce,Serie A,MF,24-326,23,"1,302",0,0,0.1,0.3,0.1,1500000.0
+Mamadou Sylla,Valladolid,La Liga,"FW,MF",31-017,22,"1,179",3,1,3.6,1.5,2.0,1500000.0
+Daniel Mosquera,Hellas Verona,Serie A,FW,25-168,27,981,5,1,5.0,1.3,5.0,1500000.0
+Adam Masina,Torino,Serie A,DF,31-094,21,"1,497",1,2,0.4,0.3,0.4,1500000.0
+Magnus Kofod Andersen,Venezia,Serie A,MF,25-331,14,695,1,1,0.3,0.5,0.3,1500000.0
+Cole Campbell,Dortmund,Bundesliga,"MF,FW",19-045,4,22,0,0,0.0,0.0,0.0,1500000.0
+Sirlord Conteh,Heidenheim,Bundesliga,"FW,MF",28-271,25,705,1,1,1.3,1.5,1.3,1500000.0
+Danny da Costa,Mainz 05,Bundesliga,DF,31-267,19,"1,531",0,1,0.1,0.5,0.1,1500000.0
+Kevin Martins,Monza,Serie A,"MF,DF",20-065,9,183,0,1,0.0,0.4,0.0,1500000.0
+Fer López,Celta Vigo,La Liga,"FW,MF",0,10,322,1,0,0.6,1.2,0.6,1500000.0
+Roberto López,Leganés,La Liga,MF,24-347,12,393,0,1,0.5,0.9,0.5,1500000.0
+Robin Olsen,Aston Villa,Premier League,GK,35-088,3,180,0,0,0.0,0.0,0.0,1500000.0
+Henri Koudossou,Augsburg,Bundesliga,DF,25-215,16,621,0,0,0.1,0.5,0.1,1500000.0
+Iván Balliu,Rayo Vallecano,La Liga,DF,33-095,20,806,0,0,0.0,0.4,0.0,1500000.0
+Jonny Evans,Manchester Utd,Premier League,DF,37-093,6,290,0,0,0.1,0.0,0.1,1500000.0
+Silvan Widmer,Mainz 05,Bundesliga,DF,32-032,22,399,0,1,0.1,0.4,0.1,1500000.0
+Alexander Bernhardsson,Holstein Kiel,Bundesliga,"MF,DF",26-210,13,776,3,1,1.5,0.7,1.5,1500000.0
+Enzo Loiodice,Las Palmas,La Liga,MF,24-130,15,504,0,0,0.1,0.1,0.1,1500000.0
+Nicola Leali,Genoa,Serie A,GK,32-048,24,"2,160",0,0,0.0,0.0,0.0,1500000.0
+Gianluca Lapadula,Cagliari,Serie A,"FW,MF",35-058,12,310,0,0,1.4,0.1,1.4,1500000.0
+Edu Expósito,Espanyol,La Liga,"MF,FW",28-248,10,336,0,1,0.2,1.3,0.2,1500000.0
+Aitor Fernández,Osasuna,La Liga,GK,33-338,1,90,0,0,0.0,0.0,0.0,1500000.0
+Munir El Haddadi,Leganés,La Liga,"FW,MF",29-217,17,526,2,0,0.7,0.6,0.7,1500000.0
+Alfonso Espino,Rayo Vallecano,La Liga,DF,33-091,10,578,0,0,0.3,0.0,0.3,1500000.0
+Issa Soumaré,Le Havre,Ligue 1,"MF,FW",24-178,22,"1,347",3,3,2.6,2.3,2.6,1500000.0
+Tim Siersleben,Heidenheim,Bundesliga,DF,25-028,11,732,0,0,0.3,0.4,0.3,1500000.0
+Yoann Salmier,Le Havre,Ligue 1,DF,32-136,13,797,0,0,0.8,0.2,0.8,1500000.0
+Ivan Prtajin,Union Berlin,Bundesliga,FW,28-327,5,161,0,0,0.5,0.1,0.5,1500000.0
+Tymoteusz Puchacz,Holstein Kiel,Bundesliga,DF,26-073,10,396,0,1,0.1,0.6,0.1,1500000.0
+Christian Walton,Ipswich Town,Premier League,GK,29-148,6,540,0,0,0.0,0.0,0.0,1500000.0
+Gianluca Caprari,Monza,Serie A,"MF,FW",31-250,27,"1,115",2,1,2.6,1.5,1.0,1500000.0
+Enric Franquesa,Leganés,La Liga,"DF,FW",28-039,12,616,1,0,0.3,0.1,0.3,1500000.0
+Stefano Sabelli,Genoa,Serie A,DF,32-083,27,"1,740",0,1,0.1,1.5,0.1,1500000.0
+Fodé Ballo-Touré,Le Havre,Ligue 1,DF,28-093,4,206,0,0,0.0,0.0,0.0,1500000.0
+Carlens Arcus,Angers,Ligue 1,DF,28-282,23,"1,695",0,1,0.0,1.2,0.0,1500000.0
+Dylan Batubinsika,Saint-Étienne,Ligue 1,DF,29-050,24,"1,971",0,0,0.5,0.2,0.5,1500000.0
+Florian Ayé,Auxerre,Ligue 1,FW,28-077,19,445,2,0,1.6,0.1,1.6,1500000.0
+Arthur Desmas,Le Havre,Ligue 1,GK,30-364,18,"1,620",0,0,0.0,0.0,0.0,1500000.0
+Mamadou Diakhon,Reims,Ligue 1,"FW,MF",19-196,23,688,2,1,0.8,0.8,0.8,1500000.0
+Marcus Coco,Nantes,Ligue 1,DF,28-286,18,927,0,1,0.1,1.2,0.1,1500000.0
+Lasso Coulibaly,Auxerre,Ligue 1,"FW,MF",22-169,2,38,1,0,0.2,0.0,0.2,1500000.0
+Karim Onisiwo,Mainz 05,Bundesliga,"MF,FW",33-020,6,110,0,0,0.1,0.3,0.1,1500000.0
+Ibrahima Niane,Angers,Ligue 1,FW,26-026,22,896,3,1,5.7,1.0,4.9,1500000.0
+Hervé Koffi,Lens,Ligue 1,GK,28-172,5,450,0,0,0.0,0.0,0.0,1500000.0
+Florent Mollet,Nantes,Ligue 1,"MF,FW",33-138,9,242,0,0,0.3,0.3,0.3,1500000.0
+Hauke Wahl,St. Pauli,Bundesliga,DF,30-356,26,"2,340",0,0,0.6,0.5,0.6,1500000.0
+Danny Ward,Leicester City,Premier League,GK,31-288,2,135,0,0,0.0,0.0,0.0,1500000.0
+Ante Rebić,Lecce,Serie A,"FW,MF",31-197,23,602,1,0,1.6,1.8,1.6,1500000.0
+Marius Müller,Wolfsburg,Bundesliga,GK,31-268,6,475,0,0,0.0,0.0,0.0,1500000.0
+Julian Niehues,Heidenheim,Bundesliga,MF,23-354,4,52,0,0,0.0,0.1,0.0,1500000.0
+Ayden Heaven,Manchester Utd,Premier League,DF,18-196,2,95,0,0,0.0,0.0,0.0,1500000.0
+Sergi Canós,Valencia,La Liga,"MF,FW",28-063,16,363,0,1,0.5,0.2,0.5,1500000.0
+Kevin Behrens,Wolfsburg,Bundesliga,FW,34-062,16,148,1,0,1.3,0.1,1.3,1500000.0
+Timon Weiner,Holstein Kiel,Bundesliga,GK,26-078,25,"2,250",0,0,0.0,0.0,0.0,1500000.0
+Fernando Calero,Espanyol,La Liga,"DF,MF",29-204,14,436,1,0,0.3,0.0,0.3,1500000.0
+Anthony Lopes,Nantes,Ligue 1,GK,34-187,13,"1,170",0,0,0.0,0.0,0.0,1500000.0
+Samuel Grandsir,Le Havre,Ligue 1,"MF,FW",28-235,6,84,0,0,0.0,0.6,0.0,1500000.0
+Julien Le Cardinal,Brest,Ligue 1,DF,27-246,14,"1,243",0,1,0.4,0.3,0.4,1500000.0
+Amadou Koné,Reims,Ligue 1,MF,19-327,17,808,0,0,0.4,0.1,0.4,1500000.0
+Wahbi Khazri,Montpellier,Ligue 1,"FW,MF",34-057,25,992,1,1,2.2,2.2,2.2,1500000.0
+Stefano Sensi,Monza,Serie A,MF,29-244,8,211,1,0,0.9,0.0,0.1,1500000.0
+Aïssa Mandi,Lille,Ligue 1,DF,33-166,20,"1,451",0,0,0.3,0.4,0.3,1500000.0
+Denis Genreau,Toulouse,Ligue 1,MF,25-320,8,222,0,0,0.3,0.5,0.3,1500000.0
+Cédric Hountondji,Angers,Ligue 1,DF,31-077,3,270,0,0,0.0,0.0,0.0,1500000.0
+Abdón Prats,Mallorca,La Liga,"FW,MF",32-120,21,376,2,0,1.9,0.0,1.1,1500000.0
+Luis Pérez,Valladolid,La Liga,DF,30-061,27,"2,333",0,0,0.1,1.8,0.1,1500000.0
+Javi Martínez,Osasuna,La Liga,MF,25-105,1,6,0,0,0.0,0.0,0.0,1500000.0
+Randy Nteka,Rayo Vallecano,La Liga,FW,27-121,22,972,3,0,2.6,0.5,2.6,1500000.0
+Nathaniel Clyne,Crystal Palace,Premier League,"DF,MF",34-001,12,455,0,0,0.0,0.3,0.0,1500000.0
+Adrià Altimira,Leganés,La Liga,"DF,FW",24-009,15,"1,082",0,0,0.1,0.0,0.1,1500000.0
+Jeffrey Gouweleeuw,Augsburg,Bundesliga,DF,33-270,27,"2,404",1,4,1.3,1.9,0.6,1500000.0
+Pere Milla,Espanyol,La Liga,"MF,FW",32-195,13,268,1,0,0.6,0.1,0.6,1500000.0
+Óscar de Marcos,Athletic Club,La Liga,DF,35-357,22,"1,291",0,4,0.8,1.9,0.8,1500000.0
+Mario Martín,Valladolid,La Liga,MF,21-032,24,"1,504",0,1,1.1,1.4,1.1,1500000.0
+Alberto Marí,Valencia,La Liga,FW,23-269,1,7,0,0,0.0,0.0,0.0,1500000.0
+Manu Bueno,Sevilla,La Liga,MF,20-253,6,104,1,0,0.1,0.0,0.1,1500000.0
+Max Geschwill,Holstein Kiel,Bundesliga,DF,23-273,17,"1,214",1,2,0.9,0.8,0.9,1500000.0
+Joseph Aidoo,Celta Vigo,La Liga,DF,29-189,1,2,0,0,0.0,0.0,0.0,1400000.0
+Andrea Petagna,Monza,Serie A,FW,29-280,9,268,0,0,0.2,0.0,0.2,1400000.0
+Junior Sambia,Empoli,Serie A,"DF,FW",28-211,11,244,0,0,0.3,0.1,0.3,1400000.0
+Antonio Raimondo,Venezia,Serie A,"FW,DF",21-019,9,94,0,0,0.3,0.1,0.3,1400000.0
+David Torres,Valladolid,La Liga,DF,22-032,18,"1,387",0,0,0.3,0.0,0.3,1400000.0
+Fellipe Jack,Como,Serie A,DF,19-084,7,171,0,0,0.0,0.1,0.0,1400000.0
+Jarzinho Malanga,Stuttgart,Bundesliga,DF,18-270,1,2,0,0,0.0,0.0,0.0,1400000.0
+Alphadjo Cissè,Hellas Verona,Serie A,"FW,MF",18-166,2,9,0,0,0.0,0.0,0.0,1400000.0
+Harry Clarke,Ipswich Town,Premier League,DF,24-035,7,379,0,0,0.1,0.0,0.1,1400000.0
+Petar Stojanović,Empoli,Serie A,MF,29-181,1,3,0,0,0.0,0.0,0.0,1300000.0
+Denis Suárez,Villarreal,La Liga,MF,31-090,15,368,1,1,0.8,0.5,0.8,1300000.0
+Mamadou Coulibaly,Monaco,Ligue 1,MF,20-350,1,8,0,0,0.1,0.0,0.1,1300000.0
+Karol Mets,St. Pauli,Bundesliga,DF,31-325,10,900,0,0,0.1,0.2,0.1,1300000.0
+Diego Rico,Getafe,La Liga,DF,32-042,27,"2,337",0,3,0.3,2.2,0.3,1300000.0
+Luca Kerber,Heidenheim,Bundesliga,"MF,DF",23-027,19,687,1,0,0.4,0.5,0.4,1300000.0
+Raúl Albiol,Villarreal,La Liga,DF,39-214,15,"1,188",0,0,0.1,0.0,0.1,1300000.0
+Eduard Sobol,Strasbourg,Ligue 1,DF,29-351,9,92,0,0,0.0,0.0,0.0,1200000.0
+Marin Šverko,Venezia,Serie A,DF,27-061,15,"1,041",1,0,0.3,0.3,0.3,1200000.0
+Moritz-Broni Kwarteng,Bochum,Bundesliga,"MF,FW",26-343,7,172,0,0,0.2,0.2,0.2,1200000.0
+Florian Müller,Freiburg,Bundesliga,GK,27-144,5,393,0,0,0.0,0.0,0.0,1200000.0
+Jérôme Roussillon,Union Berlin,Bundesliga,"DF,MF",32-090,5,111,0,0,0.1,0.0,0.1,1200000.0
+Fraser Forster,Tottenham,Premier League,GK,37-020,7,630,0,0,0.0,0.0,0.0,1200000.0
+Jorge Sáenz,Leganés,La Liga,DF,28-140,15,985,1,0,0.5,0.1,0.5,1200000.0
+Juan Soriano,Leganés,La Liga,GK,27-226,6,540,0,0,0.0,0.0,0.0,1200000.0
+Cristhian Stuani,Girona,La Liga,FW,38-176,24,610,6,2,6.0,0.4,3.7,1200000.0
+Jordan Lefort,Angers,Ligue 1,DF,31-240,28,"2,520",0,1,0.3,1.1,0.3,1200000.0
+Conor Townsend,Ipswich Town,Premier League,DF,32-033,5,306,0,1,0.0,0.7,0.0,1200000.0
+Facundo Garcés,Alavés,La Liga,DF,25-213,3,48,0,0,0.0,0.0,0.0,1200000.0
+Dani Gómez,Valencia,La Liga,FW,26-250,14,532,2,0,2.7,0.0,2.7,1200000.0
+Adnan Januzaj,Las Palmas,La Liga,"MF,FW",30-060,11,346,2,1,0.5,0.7,0.5,1200000.0
+Kiko Femenía,Villarreal,La Liga,DF,34-063,22,"1,749",0,1,0.4,1.1,0.4,1200000.0
+Filippo Melegoni,Genoa,Serie A,"MF,FW",26-047,3,89,0,1,0.0,0.5,0.0,1200000.0
+Djibril Sidibé,Toulouse,Ligue 1,DF,32-251,21,"1,506",0,2,0.3,2.2,0.3,1200000.0
+Dimitry Bertaud,Montpellier,Ligue 1,GK,26-304,3,270,0,0,0.0,0.0,0.0,1200000.0
+Álvaro Odriozola,Real Sociedad,La Liga,DF,29-113,2,43,0,0,0.0,0.0,0.0,1200000.0
+Álex Muñoz,Las Palmas,La Liga,DF,30-250,18,"1,298",3,0,0.7,0.5,0.7,1200000.0
+Lukas Daschner,Bochum,Bundesliga,"MF,FW",26-187,14,412,1,1,2.7,0.7,1.9,1200000.0
+Alex Palmer,Ipswich Town,Premier League,GK,28-239,7,630,0,0,0.0,0.0,0.0,1200000.0
+Zinedine Ferhat,Angers,Ligue 1,"FW,MF",32-036,20,713,2,0,1.4,2.0,1.4,1200000.0
+Marnon Busch,Heidenheim,Bundesliga,"DF,MF",30-119,18,"1,069",0,1,0.3,1.1,0.3,1200000.0
+Wylan Cyprien,Parma,Serie A,MF,30-068,2,28,0,0,0.2,0.0,0.2,1100000.0
+Francesco Zampano,Venezia,Serie A,DF,31-188,21,"1,599",1,2,1.0,0.8,1.0,1100000.0
+Marco Sala,Lecce,Serie A,DF,25-306,1,27,0,0,0.0,0.0,0.0,1000000.0
+Jayden Danns,Liverpool,Premier League,MF,19-080,1,11,0,0,0.0,0.0,0.0,1000000.0
+Kevin Müller,Heidenheim,Bundesliga,GK,34-022,28,"2,520",0,0,0.0,0.0,0.0,1000000.0
+Anthony Jung,Werder Bremen,Bundesliga,DF,33-154,27,"1,892",0,0,0.0,0.1,0.0,1000000.0
+David Mokwa,Hoffenheim,Bundesliga,"DF,FW",20-338,2,22,0,0,0.3,0.0,0.3,1000000.0
+Nicolas Viola,Cagliari,Serie A,"MF,FW",35-176,22,"1,031",3,1,2.1,1.8,2.1,1000000.0
+Maximilian Philipp,Freiburg,Bundesliga,"MF,FW",31-036,2,17,0,0,0.0,0.0,0.0,1000000.0
+Rui Patrício,Atalanta,Serie A,GK,37-050,2,180,0,0,0.0,0.0,0.0,1000000.0
+Gastón Pereiro,Genoa,Serie A,MF,29-299,2,31,0,0,0.0,0.0,0.0,1000000.0
+Steven Skrzybski,Holstein Kiel,Bundesliga,"FW,MF",32-139,18,952,6,1,3.3,1.5,2.5,1000000.0
+Divin Mubama,Manchester City,Premier League,FW,20-163,1,28,0,0,0.0,0.0,0.0,1000000.0
+Caleb Kporha,Crystal Palace,Premier League,DF,18-265,2,13,0,0,0.0,0.0,0.0,1000000.0
+Almugera Kabar,Dortmund,Bundesliga,DF,18-304,5,137,0,0,0.0,0.5,0.0,1000000.0
+Federico Ravaglia,Bologna,Serie A,GK,25-146,8,720,0,0,0.0,0.0,0.0,1000000.0
+Lasse Rosenboom,Holstein Kiel,Bundesliga,DF,23-077,20,"1,253",1,2,0.7,0.9,0.7,1000000.0
+Michail Antonio,West Ham,Premier League,FW,35-009,14,836,1,1,2.2,1.6,2.2,1000000.0
+Jesús Owono,Alavés,La Liga,GK,24-036,5,397,0,0,0.0,0.0,0.0,1000000.0
+Davide Bartesaghi,Milan,Serie A,DF,19-098,2,50,0,0,0.0,0.1,0.0,1000000.0
+Paulo Azzi,Cagliari,Serie A,DF,30-265,6,426,0,0,0.5,0.9,0.5,1000000.0
+Keita Baldé,Monza,Serie A,FW,30-029,7,439,1,0,0.5,0.0,0.5,1000000.0
+Kaelan Casey,West Ham,Premier League,DF,20-160,1,1,0,0,0.0,0.0,0.0,1000000.0
+Jamie Vardy,Leicester City,Premier League,FW,38-085,28,"2,271",7,3,9.2,2.9,8.5,1000000.0
+James Milner,Brighton,Premier League,MF,39-092,3,169,0,0,0.2,0.2,0.2,1000000.0
+Mahamadou Nagida,Rennes,Ligue 1,DF,19-282,12,430,2,0,1.5,0.3,1.5,1000000.0
+Adam Smith,Bournemouth,Premier League,DF,33-342,19,"1,146",0,0,0.6,0.2,0.6,1000000.0
+Mateo Flores,Betis,La Liga,MF,20-364,6,153,0,0,0.0,0.0,0.0,1000000.0
+Théo Pellenard,Auxerre,Ligue 1,DF,31-033,2,45,0,0,0.0,0.0,0.0,1000000.0
+Léo Pétrot,Saint-Étienne,Ligue 1,DF,27-356,23,"1,918",0,1,0.5,0.5,0.5,1000000.0
+Martin Dúbravka,Newcastle Utd,Premier League,GK,36-081,10,900,0,0,0.0,0.0,0.0,1000000.0
+Leandro Cabrera,Espanyol,La Liga,DF,33-293,25,"2,160",3,1,0.8,0.4,0.8,1000000.0
+José Campaña,Las Palmas,La Liga,MF,31-310,19,"1,053",0,2,0.1,0.8,0.1,1000000.0
+Francesco Caputo,Empoli,Serie A,FW,37-243,1,6,0,0,0.0,0.0,0.0,1000000.0
+Franco Carboni,Venezia,Serie A,DF,22-002,7,181,0,0,0.0,0.1,0.0,1000000.0
+Kingstone Mutandwa,Cagliari,Serie A,"MF,FW",22-091,4,77,0,0,0.4,0.0,0.4,1000000.0
+Aymen Barkok,Mainz 05,Bundesliga,MF,26-320,4,73,0,0,0.0,0.1,0.0,1000000.0
+Eric da Silva Moreira,Nott'ham Forest,Premier League,"MF,DF",18-338,2,30,0,0,0.0,0.0,0.0,1000000.0
+Jesús Vallejo,Real Madrid,La Liga,DF,28-091,1,11,0,0,0.0,0.0,0.0,1000000.0
+Davide Faraoni,Hellas Verona,Serie A,DF,33-163,8,260,0,0,0.2,0.1,0.2,1000000.0
+Marc Bartra,Betis,La Liga,DF,34-081,18,"1,487",2,0,1.1,0.0,1.1,1000000.0
+Mattia De Sciglio,Empoli,Serie A,DF,32-168,16,769,1,0,0.6,0.2,0.6,1000000.0
+Juan Cuadrado,Atalanta,Serie A,"DF,MF",36-315,17,628,0,2,0.8,1.4,0.7,1000000.0
+Aaron Ciammaglichella,Torino,Serie A,MF,20-070,1,1,0,0,0.0,0.0,0.0,1000000.0
+Alen Sherri,Cagliari,Serie A,GK,27-112,6,540,0,0,0.0,0.0,0.0,1000000.0
+Francis Coquelin,Nantes,Ligue 1,"MF,FW",33-328,3,67,0,1,0.5,0.9,0.5,1000000.0
+Pierre Cornud,Saint-Étienne,Ligue 1,DF,28-115,11,576,0,0,0.0,0.3,0.0,1000000.0
+Medon Berisha,Lecce,Serie A,MF,21-167,12,524,0,1,0.5,0.4,0.5,1000000.0
+Darwin Machís,Valladolid,La Liga,"FW,MF",32-058,13,443,0,1,0.8,0.5,0.8,1000000.0
+Jon Magunazelaia,Real Sociedad,La Liga,MF,24-267,2,7,0,0,0.0,0.0,0.0,1000000.0
+Jacopo Seghetti,Empoli,Serie A,GK,20-048,1,90,0,0,0.0,0.0,0.0,1000000.0
+Matija Nastasić,Leganés,La Liga,DF,32-009,24,"1,974",1,0,0.1,0.1,0.1,1000000.0
+Pau Navarro,Villarreal,La Liga,DF,19-346,11,584,0,0,0.0,0.0,0.0,1000000.0
+Tamás Nikitscher,Valladolid,La Liga,MF,25-154,7,460,0,0,0.0,0.0,0.0,1000000.0
+Ørjan Nyland,Sevilla,La Liga,GK,34-208,22,"1,953",0,0,0.0,0.2,0.0,1000000.0
+Danilo Veiga,Lecce,Serie A,"DF,FW",22-193,5,73,0,0,0.5,0.1,0.5,1000000.0
+Gauthier Gallon,Rennes,Ligue 1,GK,31-348,1,45,0,0,0.0,0.0,0.0,1000000.0
+Viktor Kovalenko,Empoli,Serie A,"MF,DF",29-051,4,54,0,0,0.0,0.0,0.0,1000000.0
+Christian Kabasele,Udinese,Serie A,DF,34-041,13,916,1,0,0.8,0.2,0.8,1000000.0
+Antoine Hainaut,Parma,Serie A,"DF,MF",23-047,19,820,1,0,0.6,0.4,0.6,1000000.0
+Ridgeciano Haps,Venezia,Serie A,DF,31-298,17,"1,041",0,0,1.1,0.4,1.1,1000000.0
+Pierluigi Gollini,Genoa,Serie A,GK,30-019,7,630,0,0,0.0,0.0,0.0,1000000.0
+Alessandro Gabrielloni,Como,Serie A,"FW,MF",30-270,12,112,1,1,0.3,0.8,0.3,1000000.0
+Darko Lazović,Hellas Verona,Serie A,"DF,FW",34-203,24,"1,393",1,3,2.0,3.4,1.2,1000000.0
+Carlo Boukhalfa,St. Pauli,Bundesliga,MF,25-338,20,"1,232",1,0,0.8,0.4,0.8,1000000.0
+Patrick Erras,Holstein Kiel,Bundesliga,DF,30-075,10,832,1,0,0.9,0.1,0.9,1000000.0
+Federico Barba,Como,Serie A,DF,31-217,7,431,0,0,0.2,0.0,0.2,900000.0
+Franco Cervi,Celta Vigo,La Liga,"FW,MF",30-315,6,258,0,0,0.0,0.3,0.0,900000.0
+Omar Mascarell,Mallorca,La Liga,MF,32-063,25,"1,581",0,0,0.2,0.1,0.2,900000.0
+Jasper Cillessen,Las Palmas,La Liga,GK,35-349,27,"2,335",0,0,0.0,0.0,0.0,900000.0
+Ben Lhassine Kone,Como,Serie A,MF,25-023,4,51,0,0,0.0,0.0,0.0,900000.0
+Dennis Appiah,Saint-Étienne,Ligue 1,DF,32-301,23,"1,589",0,1,0.1,2.0,0.1,900000.0
+Iván Villar,Celta Vigo,La Liga,GK,27-271,4,360,0,0,0.0,0.0,0.0,900000.0
+Lucas Mincarelli,Montpellier,Ligue 1,DF,21-091,4,251,0,0,0.0,0.2,0.0,900000.0
+Yllan Okou,Hellas Verona,Serie A,DF,22-104,1,2,0,0,0.0,0.0,0.0,900000.0
+Lars Ritzka,St. Pauli,Bundesliga,"DF,MF",26-334,17,718,1,0,0.4,0.2,0.4,900000.0
+Adam Lallana,Southampton,Premier League,MF,36-331,14,361,0,2,0.2,0.9,0.2,900000.0
+Kasey McAteer,Leicester City,Premier League,"FW,MF",23-135,12,395,0,1,0.6,0.4,0.6,900000.0
+Marc Cardona,Las Palmas,La Liga,FW,29-272,8,93,0,0,0.2,0.0,0.2,900000.0
+Sergi Gómez,Espanyol,La Liga,DF,33-009,11,652,0,0,0.3,0.0,0.3,900000.0
+Sam Morsy,Ipswich Town,Premier League,MF,33-208,26,"2,150",1,1,0.3,0.7,0.3,900000.0
+Ben Mee,Brentford,Premier League,DF,35-197,7,183,0,0,0.0,0.0,0.0,900000.0
+Dani Rodríguez,Mallorca,La Liga,"MF,FW",36-304,30,"1,761",4,6,2.8,2.9,2.8,900000.0
+Pau Cabanes,Villarreal,La Liga,"MF,FW",20-048,10,163,1,0,0.5,0.4,0.5,800000.0
+Nikolas Veratschnig,Mainz 05,Bundesliga,"DF,FW",22-072,9,113,0,0,0.1,0.1,0.1,800000.0
+Domingos Duarte,Getafe,La Liga,DF,30-027,14,"1,171",0,0,0.0,0.1,0.0,800000.0
+Luca Caldirola,Monza,Serie A,DF,34-064,8,525,0,0,0.2,0.0,0.2,800000.0
+Samuel Bamba,Bochum,Bundesliga,"FW,DF",21-052,4,14,0,0,0.1,0.0,0.1,800000.0
+Stefan Bell,Mainz 05,Bundesliga,DF,33-225,15,"1,178",0,1,0.6,1.0,0.6,800000.0
+Loïc Nego,Le Havre,Ligue 1,"DF,FW",34-081,24,"1,831",0,0,0.6,0.4,0.6,800000.0
+Assane Dioussé,Auxerre,Ligue 1,MF,27-198,10,215,0,0,0.0,0.0,0.0,800000.0
+Thomas Delaine,Strasbourg,Ligue 1,DF,33-013,2,9,0,0,0.0,0.0,0.0,800000.0
+Patrik Carlgren,Nantes,Ligue 1,GK,33-088,3,270,0,0,0.0,0.0,0.0,800000.0
+Danilo D'Ambrosio,Monza,Serie A,DF,36-209,20,"1,095",0,1,0.5,0.4,0.5,800000.0
+Ali Dembélé,Torino,Serie A,DF,21-091,10,124,0,0,0.0,0.0,0.0,800000.0
+Yassin Belkhdim,Angers,Ligue 1,MF,23-051,24,"1,093",0,0,0.5,0.4,0.5,800000.0
+Martin Adeline,Reims,Ligue 1,MF,21-125,1,26,0,0,0.0,0.0,0.0,800000.0
+Steve Ngoura,Le Havre,Ligue 1,FW,20-043,8,289,0,0,1.3,0.4,1.3,800000.0
+Paul Akouokou,Lyon,Ligue 1,MF,27-107,1,1,0,0,0.0,0.0,0.0,800000.0
+Benito Ramírez,Las Palmas,La Liga,"DF,MF",29-269,17,388,0,0,0.2,0.8,0.2,800000.0
+Fran Vieites,Betis,La Liga,GK,25-334,4,360,0,0,0.0,0.0,0.0,800000.0
+Raúl de Tomás,Rayo Vallecano,La Liga,DF,30-171,1,16,0,0,0.0,0.0,0.0,800000.0
+Patrick Drewes,Bochum,Bundesliga,GK,32-061,21,"1,890",0,0,0.0,0.0,0.0,800000.0
+Théo Sainte-Luce,Montpellier,Ligue 1,DF,26-168,11,646,1,0,0.9,0.6,0.9,800000.0
+Milan Badelj,Genoa,Serie A,MF,36-040,21,"1,345",1,0,1.0,1.1,1.0,800000.0
+Djylian N'Guessan,Saint-Étienne,Ligue 1,FW,16-219,6,128,0,0,0.4,0.1,0.4,800000.0
+Ben Old,Saint-Étienne,Ligue 1,"MF,FW",22-236,7,404,0,0,0.9,0.7,0.9,800000.0
+Ibrahima Wadji,Saint-Étienne,Ligue 1,"FW,MF",29-336,5,117,0,0,0.2,0.0,0.2,800000.0
+Yanis Zouaoui,Le Havre,Ligue 1,"DF,FW",30-270,14,926,0,2,0.1,2.7,0.1,800000.0
+Hiroki Sekine,Reims,Ligue 1,DF,22-238,8,427,0,0,0.0,0.0,0.0,800000.0
+Marco Komenda,Holstein Kiel,Bundesliga,DF,28-131,18,"1,240",0,0,0.1,0.7,0.1,800000.0
+Andu Kelati,Holstein Kiel,Bundesliga,"MF,DF",22-236,8,288,1,1,0.9,0.8,0.9,800000.0
+Timo Horn,Bochum,Bundesliga,GK,31-329,7,630,0,0,0.0,0.0,0.0,800000.0
+Semuel Pizzignacco,Monza,Serie A,GK,23-217,5,384,0,0,0.0,0.0,0.0,800000.0
+Mateu Morey,Mallorca,La Liga,DF,25-035,8,382,0,0,0.0,0.1,0.0,800000.0
+Alexander Meyer,Dortmund,Bundesliga,GK,33-358,2,180,0,0,0.0,0.1,0.0,800000.0
+Louis Mouton,Saint-Étienne,Ligue 1,MF,22-307,20,975,0,1,1.2,1.2,1.2,800000.0
+Rafa Mir,Valencia,La Liga,"FW,MF",27-292,12,435,0,2,2.0,0.6,2.0,800000.0
+Bjarki Bjarkason,Venezia,Serie A,"DF,MF",24-330,9,165,0,0,0.0,0.1,0.0,800000.0
+Vicente Guaita,Celta Vigo,La Liga,GK,38-086,26,"2,340",0,0,0.0,0.0,0.0,800000.0
+Jonas Martin,Brest,Ligue 1,MF,34-362,13,459,1,0,0.4,0.3,0.4,800000.0
+Othmane Maamma,Montpellier,Ligue 1,"FW,MF",19-182,9,235,1,1,0.5,0.2,0.5,800000.0
+Donovan Léon,Auxerre,Ligue 1,GK,32-154,25,"2,250",0,2,0.0,0.4,0.0,800000.0
+Rafik Messali,Toulouse,Ligue 1,DF,21-343,10,360,0,0,0.3,0.7,0.3,800000.0
+Danel Sinani,St. Pauli,Bundesliga,"FW,MF",28-001,19,677,1,1,0.8,1.8,0.8,750000.0
+Nunzio Lella,Venezia,Serie A,MF,24-252,1,5,0,0,0.0,0.0,0.0,750000.0
+Nicholas Pierini,Venezia,Serie A,MF,26-243,2,83,0,0,0.0,0.1,0.0,750000.0
+Denis Thomalla,Heidenheim,Bundesliga,MF,32-233,1,4,0,0,0.0,0.0,0.0,750000.0
+Johan Manzambi,Freiburg,Bundesliga,"MF,FW",19-174,5,39,0,0,0.1,0.0,0.1,750000.0
+Luca Philipp,Hoffenheim,Bundesliga,GK,24-129,5,450,0,0,0.0,0.0,0.0,750000.0
+Mirko Marić,Venezia,Serie A,FW,29-325,6,313,0,0,0.6,0.0,0.6,700000.0
+Marvin Schulz,Holstein Kiel,Bundesliga,"DF,MF",30-081,10,274,0,0,0.0,0.7,0.0,700000.0
+Gerrit Holtmann,Bochum,Bundesliga,"DF,FW",30-012,18,978,1,1,1.8,2.3,1.8,700000.0
+Steve Mandanda,Rennes,Ligue 1,GK,40-009,17,"1,485",0,0,0.0,0.1,0.0,700000.0
+Florian Tardieu,Saint-Étienne,Ligue 1,MF,32-349,16,630,0,2,0.1,0.6,0.1,700000.0
+José Luis Palomino,Cagliari,Serie A,DF,35-091,11,566,1,0,0.5,0.0,0.5,700000.0
+Nicolas Haas,Empoli,Serie A,MF,29-073,10,287,0,0,0.0,0.1,0.0,700000.0
+Leonardo Pavoletti,Cagliari,Serie A,"FW,MF",36-131,22,334,1,0,2.2,1.0,2.2,700000.0
+Aaron Cresswell,West Ham,Premier League,DF,35-112,14,589,0,0,0.1,1.1,0.1,700000.0
+Carl Johansson,Holstein Kiel,Bundesliga,DF,30-318,5,365,0,0,0.0,0.3,0.0,700000.0
+Daley Sinkgraven,Las Palmas,La Liga,DF,29-276,2,91,0,0,0.0,0.0,0.0,700000.0
+Nicolas Pays,Montpellier,Ligue 1,"FW,MF",21-242,6,191,0,0,1.0,0.1,1.0,700000.0
+Lilian Raolisoa,Angers,Ligue 1,"DF,FW",24-294,23,904,0,2,0.4,1.5,0.4,700000.0
+Axel Gueguin,Montpellier,Ligue 1,FW,20-013,1,23,0,0,0.0,0.0,0.0,700000.0
+Lamine Fomba,Saint-Étienne,Ligue 1,MF,27-070,7,217,0,0,0.0,0.3,0.0,700000.0
+André Ayew,Le Havre,Ligue 1,FW,35-110,20,"1,128",4,1,3.8,0.1,3.8,700000.0
+Alfie Dorrington,Tottenham,Premier League,DF,19-351,1,14,0,0,0.0,0.0,0.0,700000.0
+Alexander Schwolow,Union Berlin,Bundesliga,GK,32-308,5,450,0,0,0.0,0.0,0.0,700000.0
+Nicolas Höfler,Freiburg,Bundesliga,MF,35-028,18,790,0,0,0.2,0.1,0.2,700000.0
+Brandon Austin,Tottenham,Premier League,GK,26-088,1,90,0,0,0.0,0.0,0.0,600000.0
+Mats Pannewig,Bochum,Bundesliga,MF,20-160,10,139,0,0,0.2,0.1,0.2,600000.0
+Karol Fila,Strasbourg,Ligue 1,MF,26-297,1,5,0,0,0.0,0.0,0.0,600000.0
+Arvid Brorsson,Monza,Serie A,DF,25-333,3,107,0,0,0.0,0.0,0.0,600000.0
+Unai Marrero,Real Sociedad,La Liga,GK,23-179,1,90,0,0,0.0,0.0,0.0,600000.0
+Iván Sánchez,Valladolid,La Liga,"MF,FW",32-195,24,"1,033",1,1,0.4,1.6,0.4,600000.0
+Jaime Mata,Las Palmas,La Liga,FW,36-164,22,469,0,0,1.9,0.1,1.9,600000.0
+Elysée Logbo,Le Havre,Ligue 1,FW,20-335,1,27,0,0,0.2,0.0,0.2,600000.0
+Nordine Kandil,Strasbourg,Ligue 1,MF,23-157,1,10,0,0,0.0,0.0,0.0,600000.0
+Jesse Joronen,Venezia,Serie A,GK,32-016,8,703,0,0,0.0,0.0,0.0,600000.0
+Kjetil Haug,Toulouse,Ligue 1,GK,26-298,6,498,0,0,0.0,0.0,0.0,600000.0
+Joe Lumley,Southampton,Premier League,GK,30-050,3,270,0,0,0.0,0.0,0.0,600000.0
+Christopher Trimmel,Union Berlin,Bundesliga,"DF,MF",38-041,19,"1,242",0,1,0.2,1.4,0.2,600000.0
+Pepe Reina,Como,Serie A,GK,42-218,10,900,0,0,0.0,0.0,0.0,600000.0
+Sergi Guardiola,Rayo Vallecano,La Liga,FW,33-312,12,313,0,0,2.4,0.1,2.4,600000.0
+Joel Ward,Crystal Palace,Premier League,DF,35-159,1,1,0,0,0.0,0.0,0.0,600000.0
+Julián Chicco,Leganés,La Liga,MF,27-083,12,204,0,0,0.5,0.1,0.5,600000.0
+Séamus Coleman,Everton,Premier League,DF,36-177,3,197,0,0,0.6,0.0,0.6,500000.0
+Jérémy Sebas,Strasbourg,Ligue 1,"FW,MF",21-357,13,190,0,0,0.7,0.0,0.7,500000.0
+Victor Orakpo,Nice,Ligue 1,FW,18-296,4,36,0,0,0.3,0.0,0.3,500000.0
+Cristian Gamboa,Bochum,Bundesliga,DF,35-164,10,162,1,0,0.2,0.2,0.2,500000.0
+Lewis Holtby,Holstein Kiel,Bundesliga,MF,34-200,23,"1,181",0,1,0.5,1.5,0.5,500000.0
+Ashley Young,Everton,Premier League,"DF,FW",39-271,27,"1,586",1,3,0.3,1.6,0.3,500000.0
+Mario Balotelli,Genoa,Serie A,"FW,MF",34-237,6,62,0,0,0.0,0.0,0.0,500000.0
+Daniele Baselli,Como,Serie A,MF,33-025,2,22,0,0,0.0,0.0,0.0,500000.0
+David Otorbi,Valencia,La Liga,MF,17-172,1,14,0,0,0.0,0.0,0.0,500000.0
+Marco Silvestri,Empoli,Serie A,GK,34-035,5,450,0,0,0.0,0.0,0.0,500000.0
+Alex McCarthy,Southampton,Premier League,GK,35-124,5,450,0,0,0.0,0.0,0.0,500000.0
+Anthony Losilla,Bochum,Bundesliga,MF,39-027,19,"1,083",0,0,0.1,0.4,0.1,500000.0
+Abdoul Koné,Reims,Ligue 1,DF,19-349,3,120,0,0,0.0,0.0,0.0,500000.0
+Abdoulie Ceesay,St. Pauli,Bundesliga,FW,21-091,7,60,0,0,0.0,0.0,0.0,500000.0
+Florian Micheler,Hoffenheim,Bundesliga,MF,19-324,1,32,0,0,0.0,0.0,0.0,500000.0
+Mathis Lambourde,Hellas Verona,Serie A,"FW,MF",19-087,6,57,1,0,0.1,0.1,0.1,500000.0
+Stefan Schimmer,Heidenheim,Bundesliga,"FW,MF",30-343,12,224,0,0,1.1,0.3,1.1,500000.0
+Lucas Michal,Monaco,Ligue 1,"FW,MF",19-289,7,100,0,0,0.2,0.9,0.2,500000.0
+Massimo Luongo,Ipswich Town,Premier League,MF,32-193,7,181,0,0,0.0,0.0,0.0,500000.0
+Sven Ulreich,Bayern Munich,Bundesliga,GK,36-246,1,90,0,0,0.0,0.0,0.0,500000.0
+Alberto Paleari,Torino,Serie A,GK,32-220,1,90,0,0,0.0,0.0,0.0,500000.0
+Nicolas Pallois,Nantes,Ligue 1,DF,37-199,22,"1,726",0,2,0.4,0.4,0.4,500000.0
+Noah Edjouma,Toulouse,Ligue 1,"MF,FW",19-184,7,114,2,0,1.3,0.0,1.3,500000.0
+Martín Tejón,Valencia,La Liga,"MF,DF",20-359,4,49,0,0,0.1,0.0,0.1,500000.0
+Anthony Briançon,Saint-Étienne,Ligue 1,DF,30-129,1,1,0,0,0.0,0.0,0.0,500000.0
+Axel Camblan,Brest,Ligue 1,"MF,FW",21-219,2,26,0,0,0.0,0.0,0.0,500000.0
+Emmanuel Ekong,Empoli,Serie A,"MF,FW",22-285,15,186,0,0,0.1,0.1,0.1,500000.0
+Aritz Arambarri,Leganés,La Liga,DF,27-065,2,177,0,0,0.0,0.0,0.0,500000.0
+Yunis Abdelhamid,Saint-Étienne,Ligue 1,DF,37-190,12,976,0,0,0.2,0.1,0.2,500000.0
+Scott Banks,St. Pauli,Bundesliga,"FW,MF",23-192,11,101,0,0,0.3,0.0,0.3,500000.0
+Peio Canales,Athletic Club,La Liga,"MF,FW",20-079,6,124,0,0,0.0,0.1,0.0,500000.0
+Fabio González,Las Palmas,La Liga,MF,28-053,2,53,0,0,0.1,0.0,0.1,500000.0
+Erik Ahlstrand,St. Pauli,Bundesliga,"FW,MF",23-174,5,43,0,0,0.0,0.0,0.0,500000.0
+Ali Jasim,Como,Serie A,"FW,DF",21-076,2,10,0,0,0.0,0.0,0.0,450000.0
+Kandet Diawara,Le Havre,Ligue 1,FW,25-055,1,4,0,0,0.0,0.0,0.0,400000.0
+Naatan Skyttä,Toulouse,Ligue 1,FW,22-334,1,5,0,0,0.0,0.0,0.0,400000.0
+Aridane Hernández,Rayo Vallecano,La Liga,DF,36-014,9,575,0,0,0.7,0.0,0.7,400000.0
+Ayman Azhil,Dortmund,Bundesliga,MF,23-361,1,24,0,0,0.0,0.0,0.0,400000.0
+George Edmundson,Ipswich Town,Premier League,DF,27-218,1,2,0,0,0.0,0.0,0.0,400000.0
+Lorenzo De Silvestri,Bologna,Serie A,DF,36-318,14,768,1,0,0.6,0.3,0.6,400000.0
+Leandro Chichizola,Parma,Serie A,GK,35-010,1,90,0,0,0.0,0.0,0.0,400000.0
+Grégoire Coudert,Brest,Ligue 1,GK,26-003,1,90,0,0,0.0,0.0,0.0,400000.0
+Iker Benito,Osasuna,La Liga,"FW,MF",22-239,2,37,0,0,0.0,0.0,0.0,400000.0
+Nikola Maksimović,Montpellier,Ligue 1,DF,33-132,7,581,0,0,0.0,0.0,0.0,400000.0
+Allan Nyom,Getafe,La Liga,"DF,MF",36-331,14,654,1,1,0.5,0.3,0.5,400000.0
+Alessio Iovine,Como,Serie A,"DF,FW",34-064,9,377,0,0,0.0,0.2,0.0,400000.0
+Jakub Stolarczyk,Leicester City,Premier League,GK,24-108,6,540,0,0,0.0,0.0,0.0,400000.0
+Karl-Johan Johnsson,Strasbourg,Ligue 1,GK,35-068,3,270,0,0,0.0,0.0,0.0,400000.0
+Lewis Orford,West Ham,Premier League,MF,19-047,2,49,0,0,0.0,0.0,0.0,400000.0
+Nicola Sansone,Lecce,Serie A,"MF,FW",33-208,5,65,0,0,0.2,0.0,0.2,400000.0
+Thomas Dähne,Holstein Kiel,Bundesliga,GK,31-092,3,270,0,0,0.0,0.0,0.0,400000.0
+Daniel Oyegoke,Hellas Verona,Serie A,DF,22-093,5,103,0,0,0.0,0.0,0.0,400000.0
+Aleksandar Sedlar,Alavés,La Liga,DF,33-114,7,426,0,0,0.0,0.0,0.0,400000.0
+Viggo Gebel,RB Leipzig,Bundesliga,MF,17-135,1,14,0,0,0.0,0.0,0.0,350000.0
+Abdoulaye Bamba,Angers,Ligue 1,DF,34-346,16,"1,240",0,0,0.1,0.3,0.1,350000.0
+Florent Hanin,Angers,Ligue 1,DF,35-061,27,"2,171",1,2,0.9,1.7,0.9,350000.0
+Timothy Chandler,Eint Frankfurt,Bundesliga,DF,35-008,2,19,0,0,0.0,0.0,0.0,350000.0
+Théo De Percin,Auxerre,Ligue 1,GK,24-063,2,180,0,0,0.0,0.0,0.0,300000.0
+Thomas Keller,Heidenheim,Bundesliga,"DF,MF",25-244,4,132,0,0,0.0,0.0,0.0,300000.0
+Zinédine Ould Khaled,Angers,Ligue 1,MF,25-082,4,97,0,0,0.0,0.0,0.0,300000.0
+Justin Bourgault,Brest,Ligue 1,DF,19-204,2,122,1,0,0.1,0.1,0.1,300000.0
+Amidou Doumbouya,Nice,Ligue 1,DF,17-244,2,46,0,0,0.0,0.0,0.0,300000.0
+Justin Smith,Espanyol,La Liga,MF,22-061,5,209,0,0,0.0,0.0,0.0,300000.0
+Alberto Manzoni,Atalanta,Serie A,MF,19-285,1,6,0,0,0.1,0.0,0.1,300000.0
+James Abankwah,Udinese,Serie A,"DF,MF",21-080,6,88,0,0,0.1,0.0,0.1,300000.0
+Junior Ajayi,Hellas Verona,Serie A,FW,20-177,1,2,0,0,0.0,0.0,0.0,300000.0
+Tobias Sippel,Gladbach,Bundesliga,GK,37-015,1,59,0,0,0.0,0.0,0.0,300000.0
+Andreas Albers,St. Pauli,Bundesliga,FW,35-014,14,62,1,0,0.6,0.1,0.6,300000.0
+Daniel Luna,Mallorca,La Liga,MF,21-334,2,20,0,0,0.0,0.0,0.0,300000.0
+Yanis Issoufou,Montpellier,Ligue 1,"MF,FW",18-160,4,77,0,0,0.1,0.0,0.1,300000.0
+Abdoulaye Keita,Getafe,La Liga,"FW,MF",22-217,3,95,0,0,0.0,0.0,0.0,300000.0
+Mateusz Kowalski,Parma,Serie A,MF,19-259,1,56,0,0,0.4,0.0,0.4,300000.0
+Álex Domínguez,Toulouse,Ligue 1,GK,26-250,1,19,0,0,0.0,0.0,0.0,300000.0
+Ryan Trevitt,Brentford,Premier League,MF,22-025,1,4,0,0,0.0,0.0,0.0,275000.0
+Saad El Haddad,Venezia,Serie A,MF,19-256,3,30,0,0,0.0,0.0,0.0,250000.0
+Alfie Pond,Wolves,Premier League,DF,21-036,1,1,0,0,0.0,0.0,0.0,250000.0
+Alberto Risco,Getafe,La Liga,"MF,FW",19-219,5,69,0,0,0.2,0.1,0.2,200000.0
+Simone Perilli,Hellas Verona,Serie A,GK,30-089,1,90,0,0,0.0,0.0,0.0,200000.0
+Mario Maroto,Valladolid,La Liga,MF,21-129,1,19,0,1,0.0,0.1,0.0,200000.0
+Yoel Lago,Celta Vigo,La Liga,DF,21-012,2,135,0,0,0.0,0.0,0.0,200000.0
+Saïmon Bouabré,Monaco,Ligue 1,"MF,FW",18-309,2,72,0,0,0.0,0.0,0.0,200000.0
+Darryl Bakola,Marseille,Ligue 1,"DF,MF",17-127,2,14,0,0,0.0,0.0,0.0,200000.0
+Pierrick Capelle,Angers,Ligue 1,MF,37-356,16,483,0,0,0.2,1.2,0.2,200000.0
+Mathieu Gorgelin,Le Havre,Ligue 1,GK,34-244,9,810,0,0,0.0,0.0,0.0,200000.0
+Eros Maddy,Auxerre,Ligue 1,DF,24-060,1,8,0,0,0.0,0.0,0.0,200000.0
+Hamidou Makalou,Brest,Ligue 1,FW,18-265,1,14,0,0,0.0,0.0,0.0,200000.0
+Norman Theuerkauf,Heidenheim,Bundesliga,MF,38-072,1,22,0,0,0.0,0.0,0.0,175000.0
+Daniele Padelli,Udinese,Serie A,GK,39-163,1,90,0,0,0.0,0.0,0.0,150000.0
+Aaron Malouda,Lille,Ligue 1,FW,19-127,1,2,0,0,0.0,0.0,0.0,150000.0
+Aristide Zossou,Auxerre,Ligue 1,MF,19-296,3,16,0,0,0.0,0.0,0.0,100000.0
+Martial Godo,Fulham,Premier League,FW,22-023,1,16,0,0,0.0,0.0,0.0,100000.0
+Nabil Aberdin,Getafe,La Liga,MF,22-226,7,263,0,0,0.0,0.0,0.0,100000.0
+Issiaga Camara,Nice,Ligue 1,MF,20-063,4,20,0,0,0.0,0.0,0.0,100000.0
+Tom Pouilly,Lens,Ligue 1,DF,21-292,4,64,0,0,0.3,0.1,0.3,100000.0
+Edhy Zuliani,Toulouse,Ligue 1,DF,20-238,1,9,0,0,0.0,0.0,0.0,50000.0
+Junior Ndiaye,Montpellier,Ligue 1,FW,20-008,9,112,0,0,0.3,0.0,0.3,50000.0

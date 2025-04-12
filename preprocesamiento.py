@@ -66,3 +66,48 @@ df_caros_num = df.select_dtypes(include=['number'])
 df_caros_num.to_csv("datasets_procesados/df_caros_num.csv", index=False)
 
 # ! Considerar eliminar (muchas) columnas y hacer sus nombres más legibles [i.e. stats_Gls -> goles, stats_G-PK -> goles_sin_penales, etc.]
+
+# Selección de columnas importantes
+keep = [
+    'Player',             # Nombre del jugador
+    'stats_Squad',        # Equipo del jugador
+    'stats_Comp',         # Competición
+    'stats_Pos',          # Posición en el campo
+    'stats_Age',          # Edad del jugador
+    'stats_MP',           # Partidos jugados
+    'stats_Min',          # Minutos jugados
+    'stats_Gls',          # Goles anotados
+    'stats_Ast',          # Asistencias realizadas
+    'stats_xG',           # Expected Goals (xG)
+    'stats_xAG',          # Expected Assists (xAG)
+    'stats_npxG',         # Non-penalty Expected Goals
+    'market_value_in_eur' # Valor de mercado en euros
+    # Si creen que es relevante conservar más de las columnas originales, las pueden agregar acá
+]
+
+# Crear un nuevo dataframe solo con las columnas seleccionadas
+df_reducido = df[keep]
+
+# Renombrar las columnas para que sean más descriptivas y legibles
+df_reducido = df_reducido.rename(columns={
+    'Player': 'Jugador',
+    'stats_Squad': 'Equipo',
+    'stats_Comp': 'Competición',
+    'stats_Pos': 'Posición',
+    'stats_Age': 'Edad',
+    'stats_MP': 'Partidos',
+    'stats_Min': 'Minutos',
+    'stats_Gls': 'Goles',
+    'stats_Ast': 'Asistencias',
+    'stats_xG': 'xG',
+    'stats_xAG': 'xAG',
+    'stats_npxG': 'npxG',
+    'market_value_in_eur': 'ValorMercado'
+})
+
+# Opcional: Puedes guardar este dataframe para usarlo en el notebook
+df_reducido.to_csv("datasets_procesados/df_reducido.csv", index=False)
+
+# Visualizamos las primeras filas para confirmar
+print(df_reducido.head())
+

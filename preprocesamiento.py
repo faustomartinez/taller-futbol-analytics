@@ -132,11 +132,20 @@ df_reducido = df_reducido.rename(columns={
     'stats_CrdR': 'TarjetasRojas',
     'stats_G+A': 'Goles_Asistencias',
     'stats_xG+xAG': 'xG_xAG',
-    'playingtime_90s': 'Equiv_90min',
+    'playingtime_90s': '90min_jugados',
     'passing_xAG': 'xAG_Pases',
     'defense_TklW': 'EntradasGanadas',
     'passing_CrsPA': 'AsistDesdeCruzados'
 })
+
+
+df_reducido['Minutos'] = (
+    df_reducido['Minutos']
+    .astype(str)
+    .str.replace('.', '', regex=False)  # Elimina puntos si existen (opcional)
+    .str.replace(',', '', regex=False)  # Elimina comas (ej: "2,480" → "2480")
+)
+df_reducido['Minutos'] = pd.to_numeric(df_reducido['Minutos'], errors='coerce')
 
 # Opcional: Puedes guardar este dataframe para usarlo en el notebook
 df_reducido.to_csv("datasets_procesados/df_reducido.csv", index=False)

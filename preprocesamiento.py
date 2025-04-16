@@ -30,6 +30,9 @@ df = pd.merge(
     how='inner'
 )
 
+# Corrijo el dato de la edad que estaba mal pasado
+df["stats_Age"]=df["stats_Age"].apply(lambda x: x[:2])
+
 #print(df.shape)
 # Resultado: 39510 filas, 246 columnas. Perdimos cerca de 5000 jugadores [lo cual es lógico porque no todos vienen con el mismo nombre]
 # Es probable que este merge sea mejorable, y espero no haber perdido jugadores importantes, pero por ahora lo dejo así.
@@ -44,7 +47,7 @@ df = df.sort_values('market_value_in_eur', ascending=False)
 # Elimino duplicados
 df = df.drop_duplicates(subset=["Player"], keep="first")
 
-# Utilizamos este comando para veriticar cuantos jugadores tienen datos faltantes en cada columna
+# Utilizamos este comando para verificar cuantos jugadores tienen datos faltantes en cada columna
 #with pd.option_context("display.max_rows",None):
 #    print(df.isna().sum())
 

@@ -2,14 +2,24 @@
 
 import pandas as pd
 import numpy as np
+from unidecode import unidecode
 
 df_bundesliga = pd.read_csv("datasets/player_stats_bundesliga.csv")
 df_laliga = pd.read_csv("datasets/player_stats_laliga.csv")
 df_ligue1 = pd.read_csv("datasets/player_stats_ligue1.csv")
 df_premierleague = pd.read_csv("datasets/player_stats_premierleague.csv")
 df_seriea = pd.read_csv("datasets/player_stats_seriea.csv")
+df_mls = pd.read_csv("datasets/player_stats_mls.csv")
 
-df_stats = pd.concat([df_bundesliga,df_laliga,df_ligue1,df_premierleague,df_seriea],ignore_index=True)
+
+
+df_stats = pd.concat([df_bundesliga, df_laliga,df_ligue1, df_premierleague, df_seriea], ignore_index=True)
+
+# Añado sólo a Messi del df de la MLS
+df_stats = pd.concat([df_stats, df_mls.iloc[[6598]]], ignore_index=True)
+
+# Elimino los acentos para que no haya problemas al hacer el merge
+df_stats = df_stats.map(lambda x: unidecode(x) if isinstance(x, str) else x)
 
 #
 # print(df_stats.shape)
@@ -17,9 +27,17 @@ df_stats = pd.concat([df_bundesliga,df_laliga,df_ligue1,df_premierleague,df_seri
 
 df_players_values = pd.read_csv("datasets/players.csv")
 
+# Elimino los acentos para que no haya problemas al hacer el merge
+df_players_values = df_players_values.map(lambda x: unidecode(x) if isinstance(x, str) else x)
+
+# Cambio na por string vacio para evitar problemas al hacer el merge
+df_players_values['first_name'] = df_players_values['first_name'].fillna('')
+df_players_values['last_name'] = df_players_values['last_name'].fillna('')
 
 # Crear columna combinada en df_players_values para hacer match con df_stats
-df_players_values['full_name'] = df_players_values['first_name'] + ' ' + df_players_values['last_name']
+df_players_values['full_name'] = (
+    df_players_values['first_name'].str.strip() + ' ' + df_players_values['last_name'].str.strip()
+    ).str.strip()
 
 # Hacer el merge de los dataframes
 df = pd.merge(
@@ -31,7 +49,7 @@ df = pd.merge(
 )
 
 # Corrijo el dato de la edad que estaba mal pasado
-df["stats_Age"]=df["stats_Age"].apply(lambda x: x[:2])
+df["stats_Age"]=df["stats_Age"].apply(lambda x: int(str(x)[:2]) if not pd.isna(x) else x)
 
 #print(df.shape)
 # Resultado: 39510 filas, 246 columnas. Perdimos cerca de 5000 jugadores [lo cual es lógico porque no todos vienen con el mismo nombre]
@@ -57,12 +75,12 @@ df = df.drop(columns=[df.columns[0]])
 df.to_csv("datasets_procesados/df.csv", index=False)
 
 
-## Quiero también el dataframe que tiene solo columnas con datos numéricos
+# Quiero también el dataframe que tiene solo columnas con datos numéricos
 df_num = df.select_dtypes(include=['number'])
 df_num.to_csv("datasets_procesados/df_num.csv", index=False)
 
 
-## Vamos a quedarnos con el DataFrame con los jugadores más caros asi es ploteable
+# Vamos a quedarnos con el DataFrame con los jugadores más caros asi es ploteable
 df_caros = df[df["market_value_in_eur"]>30000000]
 df_caros.to_csv("datasets_procesados/df_caros.csv", index=False)
 df_caros_num = df.select_dtypes(include=['number'])
@@ -143,7 +161,7 @@ df_reducido = df_reducido.rename(columns={
     'shooting_SoT': 'TirosAlArco'
 })
 
-
+# Normaliza la columna Minutos para que sea un número entero
 df_reducido['Minutos'] = (
     df_reducido['Minutos']
     .astype(str)

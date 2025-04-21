@@ -51,6 +51,9 @@ df = pd.merge(
 # Corrijo el dato de la edad que estaba mal pasado
 df["stats_Age"]=df["stats_Age"].apply(lambda x: int(str(x)[:2]) if not pd.isna(x) else x)
 
+# Me quedo con una única posición por jugador
+df["stats_Pos"] = df["stats_Pos"].apply(lambda x : x[:2])
+
 #print(df.shape)
 # Resultado: 39510 filas, 246 columnas. Perdimos cerca de 5000 jugadores [lo cual es lógico porque no todos vienen con el mismo nombre]
 # Es probable que este merge sea mejorable, y espero no haber perdido jugadores importantes, pero por ahora lo dejo así.

@@ -11,6 +11,22 @@ df_premierleague = pd.read_csv("datasets/player_stats_premierleague.csv")
 df_seriea = pd.read_csv("datasets/player_stats_seriea.csv")
 df_mls = pd.read_csv("datasets/player_stats_mls.csv")
 
+df_premier_equipos = pd.read_csv("datasets/team_stats_premierleague.csv")
+df_seriea_equipos = pd.read_csv("datasets/team_stats_seriea.csv")
+df_bundesliga_equipos = pd.read_csv("datasets/team_stats_bundesliga.csv")
+df_laliga_equipos = pd.read_csv("datasets/team_stats_laliga.csv")
+df_argentina_equipos = pd.read_csv("datasets/team_stats_argentina.csv")
+df_ligue1_equipos = pd.read_csv("datasets/team_stats_ligue1.csv")
+df_mls_equipos = pd.read_csv("datasets/team_stats_mls.csv")
+
+df_equipos = pd.concat([
+    df_premier_equipos, df_seriea_equipos, df_bundesliga_equipos,
+    df_laliga_equipos, df_argentina_equipos, df_ligue1_equipos, df_mls_equipos
+    ])
+
+df_equipos.drop(columns=["Unnamed: 0"], inplace=True)
+
+df_equipos.to_csv("datasets_procesados/df_equipos.csv", index=False)
 
 
 df_stats = pd.concat([df_bundesliga, df_laliga,df_ligue1, df_premierleague, df_seriea], ignore_index=True)
@@ -173,7 +189,7 @@ df_reducido['Minutos'] = (
 )
 df_reducido['Minutos'] = pd.to_numeric(df_reducido['Minutos'], errors='coerce')
 
-# Opcional: Puedes guardar este dataframe para usarlo en el notebook
+# Guardamos este dataframe para usarlo en el notebook
 df_reducido.to_csv("datasets_procesados/df_reducido.csv", index=False)
 
 # Visualizamos las primeras filas para confirmar
